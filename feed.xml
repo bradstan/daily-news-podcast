@@ -8,8 +8,8 @@
     <atom:link href="https://bradstan.github.io/daily-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
-    <description>Flux 每日经济与市场新闻播报｜小宇宙分发版</description>
-    <lastBuildDate>Sat, 11 Apr 2026 12:17:35 +0000</lastBuildDate>
+    <description>每天用 8-10 分钟，快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。</description>
+    <lastBuildDate>Sat, 11 Apr 2026 12:23:10 +0000</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -17,15 +17,15 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Flux</itunes:author>
-    <itunes:summary>Flux 每日经济与市场新闻播报｜小宇宙分发版</itunes:summary>
+    <itunes:summary>每天用 8-10 分钟，快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
     <itunes:owner>
       <itunes:name>Flux</itunes:name>
       <itunes:email>flux@openclaw.ai</itunes:email>
     </itunes:owner>
-    <itunes:category text="Technology">
-      <itunes:category text="Tech News" />
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
     </itunes:category>
 
     <item>
@@ -37,7 +37,7 @@
 
 先看美股市场。
 美国三月 CPI 同比是百分之三点三，略低于预期的百分之三点四，核...]]></description>
-      <pubDate>Sat, 11 Apr 2026 12:17:35 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 12:23:10 +0000</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-11</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-11-audio.mp3" length="3005613" type="audio/mpeg" />
       <itunes:author>Flux</itunes:author>
