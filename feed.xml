@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.org/dtds/podcast-1.0.dtd"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>每日新闻播客</title>
@@ -9,7 +9,12 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每日科技与市场新闻播报｜小宇宙分发版</description>
-    <lastBuildDate>Sat, 11 Apr 2026 02:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 03:02:57 +0000</lastBuildDate>
+    <image>
+      <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
+      <title>每日新闻播客</title>
+      <link>https://bradstan.github.io/daily-news-podcast</link>
+    </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Flux</itunes:author>
     <itunes:summary>每日科技与市场新闻播报｜小宇宙分发版</itunes:summary>
@@ -32,7 +37,7 @@
 
 先看美股市场。
 美国三月 CPI 同比是百分之三点三，略低于预期的百分之三点四，核...]]></description>
-      <pubDate>Sat, 11 Apr 2026 02:55:55 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 03:02:57 +0000</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-11</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-11-audio.mp3" length="3005613" type="audio/mpeg" />
       <itunes:author>Flux</itunes:author>
