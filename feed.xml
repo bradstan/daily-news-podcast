@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns="http://www.itunes.org/dtds/podcast-1.0.dtd"><channel><title>每日新闻播客</title><link>https://bradstan.github.io/daily-news-podcast</link><description>每日科技与市场新闻播报 - 小宇宙分发版</description><language>zh-CN</language><lastBuildDate>Sat, 11 Apr 2026 10:20:55 GMT</lastBuildDate><itunes:author>Flux</itunes:author><itunes:summary>每日科技与市场新闻播报 - 小宇宙分发版</itunes:summary><itunes:owner><itunes:name>Flux</itunes:name><itunes:email>flux@openclaw.ai</itunes:email></itunes:owner><itunes:explicit>no</itunes:explicit><item><title>每日新闻播报 - 2026-04-11</title><description>今天是 2026 年 4 月 11 日，星期六。
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ns0="http://www.itunes.org/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.org/dtds/podcast-1.0.dtd"><channel><title>每日新闻播客</title><link>https://bradstan.github.io/daily-news-podcast</link><description>每日科技与市场新闻播报 | 小宇宙分发版</description><language>zh-CN</language><copyright>© 2026 Flux</copyright><lastBuildDate>Sat, 11 Apr 2026 10:51:25 GMT</lastBuildDate><ns0:author>Flux</ns0:author><ns0:summary>每日科技与市场新闻播报 | 小宇宙分发版</ns0:summary><ns0:explicit>no</ns0:explicit><ns0:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" /><ns0:owner><ns0:name>Flux</ns0:name><ns0:email>flux@openclaw.ai</ns0:email></ns0:owner><ns0:category text="Technology" /><item><title>每日新闻播报 - 2026-04-11</title><description>今天是 2026 年 4 月 11 日，星期六。
 这里是《每日新闻播客》，我们用大约九分钟时间，把今天最值得追踪的一条主线讲清楚。
 
 今天的核心，不是单点利好，也不是某家公司又放了什么新故事，而是同一条压力链条开始重新收拢：油价风险没有真正退潮，通胀因此很难迅速下去，利率就很难轻松转向，而这会反过来决定市场愿意给科技股、AI 叙事和风险资产多高的估值。
 
 先看美股市场。
-美国三月 CPI 同比是百...</description><pubDate>Sat, 11 Apr 2026 10:20:55 GMT</pubDate><guid isPermaLink="false">daily-podcast-2026-04-11</guid><enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-11-audio.mp3" type="audio/mpeg" length="2500000" /><itunes:duration>9:00</itunes:duration><itunes:summary># 今日新闻播客｜CPI稍缓，但油价阴影还没走
+美国三月 CPI 同比是百...</description><pubDate>Sat, 11 Apr 2026 10:51:25 GMT</pubDate><guid isPermaLink="false">daily-podcast-2026-04-11</guid><enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-11-audio.mp3" type="audio/mpeg" length="3000000" /><ns0:duration>9:00</ns0:duration><ns0:summary># 今日新闻播客｜CPI稍缓，但油价阴影还没走
 
 - **日期**：2026-04-11
 - **时长目标**：8-10 分钟
@@ -33,4 +33,4 @@ Anthropic 进入 Microsoft Word Beta，Artemis II 完成关键返航验证，体
 
 ### 7. 收束：真正影响科技估值的，仍是宏观压力链
 总结“国际局势 → 油价 → 通胀 → 利率 → 估值”的因果链，并给出明日观察点。
-</itunes:summary></item></channel></rss>
+</ns0:summary><ns0:explicit>no</ns0:explicit><ns0:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" /></item></channel></rss>
