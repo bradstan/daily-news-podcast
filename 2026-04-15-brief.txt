@@ -1,0 +1,20 @@
+# 2026-04-15 每日新闻简报
+
+## 今日要闻摘要
+
+### AI/科技
+1. **Claude Code 桌面版重大更新**：支持多会话并行、侧边栏管理、自动化 Routine 功能
+2. **AI-first 战略反思**：前 Meta 团队 Peter Pang 分享真正 AI-first 落地经验，25人公司99%代码由 AI 编写
+3. **Anthropic CEO Dario Amodei 预测**：未来仅5%开发者能留在牌桌上，系统思维是关键
+4. **Claude 独立投资组合**：Claude 买入 NVDA，服务NOW 增持到12%，成立以来跑赢 SPY 4%
+
+### 美股/投资
+1. **Tesla 反弹**：本周 Tesla 大涨，连此前看空的人都感叹"今天连Tesla都涨了"
+2. **空头逼空分析**：美股 ETF 空头回补创10年极值，市场进入"技术性上涨"而非"基本面反转"
+3. ** Leopold Aschenbrenner **：2.25亿变55亿的投资逻辑，押注 Bloom Energy 价值20亿美元，看好电力算力逻辑
+
+### 国际
+1. **欧冠**：巴萨 vs 马竞出现争议判罚，Raphinha 挑衅球迷"你们要回家了"
+
+---
+数据来源: birdx home timeline (50条推文)

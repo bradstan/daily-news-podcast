@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-15",
+  "duration_seconds": 540,
+  "source": "birdx home timeline",
+  "tweets_count": 50,
+  "topics": [
+    "Claude Code更新",
+    "AI-first落地案例",
+    "Dario Amodei 5%预言",
+    "Claude投资组合",
+    "Tesla反弹",
+    "空头逼空",
+    "电力算力",
+    "欧冠"
+  ],
+  "generated_at": "2026-04-15T06:17:00+08:00",
+  "files": {
+    "brief": "2026-04-15-brief.txt",
+    "script": "2026-04-15-script.txt",
+    "show_notes": "2026-04-15-show-notes.md",
+    "audio": "2026-04-15-audio.mp3"
+  }
+}
