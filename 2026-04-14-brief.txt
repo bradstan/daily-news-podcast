@@ -1,0 +1,23 @@
+# 每日新闻播客简报 - 2026-04-14
+
+## 核心新闻
+
+### 1. 特斯拉销量数据 (重要)
+- Elon转发: 特斯拉Q1美国销量117,300台，超过其他所有EV厂商总和(99,099)
+- 涵盖: GM + Hyundai + Toyota + Rivian + Ford + Lucid + BMW + VW
+
+### 2. AI/科技
+- Grok 4.20 Reasoning登顶BridgeBench推理基准
+- Claude dev-browser: 真正浏览器控制权，AI可直接编写Playwright代码
+- AutoHedge: 开源 autonomous hedge fund，4个AI Agent流水线
+
+### 3. 美股/交易
+- Tesla技术分析: 20个月均线支撑，持续看涨趋势
+- Peter Brandt等顶级技术分析博主推荐
+
+### 4. 国际/其他
+- 川普给小费: 白宫门前，现场掏出现金给小费
+- MrBeast: YouTube爆款心法 - 做100个视频然后改进
+
+---
+来源: birdx (X/Twitter) timeline 50条

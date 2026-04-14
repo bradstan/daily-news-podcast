@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-14",
+  "title": "每日新闻播客 - 2026年4月14日",
+  "duration_seconds": 600,
+  "source": "birdx home timeline (50 tweets)",
+  "sections": [
+    "开场 (0:30)",
+    "特斯拉销量霸榜 (2:30)",
+    "Grok登顶 + Claude浏览器 (2:00)",
+    "AutoHedge开源量化 (2:00)",
+    "MrBeast心法 (1:30)",
+    "川普给小费 (1:00)",
+    "收尾 (0:30)"
+  ],
+  "key_tweets": [
+    "@elonmusk - Tesla Q1销量数据",
+    "@cb_doge - Grok 4.20登顶BridgeBench",
+    "@billtheinvestor - Claude dev-browser",
+    "@ihtesham2005 - AutoHedge开源项目",
+    "@jaynitx - MrBeast访谈"
+  ],
+  "topics": [
+    "Tesla销量",
+    "AI/大模型",
+    "量化交易",
+    "YouTube内容创作",
+    "社会新闻"
+  ],
+  "generated_at": "2026-04-14T06:12:00+08:00",
+  "files": [
+    "2026-04-14-brief.txt",
+    "2026-04-14-script.txt",
+    "2026-04-14-show-notes.md",
+    "2026-04-14-audio.mp3"
+  ]
+}
