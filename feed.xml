@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Flux每日经济早报</title>
     <link>https://bradstan.github.io/daily-news-podcast</link>
@@ -9,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Wed, 15 Apr 2026 04:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:00:04 +0000</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -27,80 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
-
     <item>
-      <title>Flux每日经济早报 - 2026-04-15</title>
-      <description><![CDATA[# 2026-04-14 每日新闻播客脚本
+      <title>Flux每日经济早报 — 2026-04-15</title>
+      <description>Flux每日经济早报 — 2026-04-15
 
-## 开场
-你好，欢迎收听今天的每日新闻播客。我是 Flux，为你带来今天的重要资讯。
+📋 今日新闻速览：
+1. [科技公司] Tesla's Full Self-Driving Supervised Launches in Netherlands After Regulatory Approval
+2. [科技公司] SpaceX Completes First Raptor 3 Static Fire on Starship Version 3
+3. [科技公司] Tesla Diner
+4. [科技公司] Tesla Rolls Out Smoother Full Self-Driving Update 14.3.1
+5. [科技公司] Tesla Updates Safety Score to Reward Full Self-Driving Miles with Perfect 100
+6. [科技公司] Google Adds One-Click Skills and Design Previews to Gemini in Chrome
+7. [科技公司] Tesla Semi
+8. [科技公司] 4月13日，上海一律师称，他们曾代理了一个涉VPN案件，当事人被指控“VPN软件构成非法经营”最后检察机关撤回起诉，公安做撤案处理。  律师称，当事人售卖VPN
+9. [AI/科技] 这也许是世界上最好的 TTS，专家们都这么说！  它叫 Fish Speech（Fish Audio S2 Pro），简直太离谱了：  •10-30秒就能完美克
+10. [科技公司] Tesla AI4 v/s AI5 Chip https://t.co/VPo9BFn43l
+11. [科技公司] 在旧金山湾区年入百万是种什么体验？刚报完税，年收入1.4M，联邦税436K，还欠82K的税要补，东拼西凑刚补齐真是惨。辛辛苦苦一年干365天，里面110天是在给
+12. [AI/科技] 一名开发者，近期为 Claude Code 做了款插件，让它可以复制任意网站的页面设计。  它会扫描真实的网站，把页面布局、配色、字体，这些设计提取出来，在本地
 
-今天是2026年4月15日，星期三。
+⏱ 时长：9分32秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
 
-## 科技头条：Claude Code 重大更新
-
-先说科技圈最热闹的事——Anthropic 旗下 Claude Code 桌面版彻底重构了。
-
-新版支持多会话并行运行，一个窗口里能同时跑多个 Claude 对话，侧边栏统一管理。而且还推出了 "Routines...]]></description>
-      <pubDate>Wed, 15 Apr 2026 04:10:36 +0000</pubDate>
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 15 Apr 2026 09:00:04 +0000</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-15</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-15-audio.mp3" length="601965" type="audio/mpeg" />
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-15-audio.mp3" length="4575996" type="audio/mpeg" />
       <itunes:author>Flux</itunes:author>
-      <itunes:title>Flux每日经济早报 - 2026-04-15</itunes:title>
-      <itunes:summary><![CDATA[# 2026-04-14 每日新闻播客 - Show Notes
+      <itunes:title>Flux每日经济早报 — 2026-04-15</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-15
 
-## 播客信息
-- **时长**: 约9分钟
-- **日期**: 2026-04-15
-- **数据源**: birdx X/Twitter Home Timeline
+📋 今日新闻速览：
+1. [科技公司] Tesla's Full Self-Driving Supervised Launches in Netherlands After Regulatory Approval
+2. [科技公司] SpaceX Completes First Raptor 3 Static Fire on Starship Version 3
+3. [科技公司] Tesla Diner
+4. [科技公司] Tesla Rolls Out Smoother Full Self-Driving Update 14.3.1
+5. [科技公司] Tesla Updates Safety Score to Reward Full Self-Driving Miles with Perfect 100
+6. [科技公司] Google Adds One-Click Skills and Design Previews to Gemini in Chrome
+7. [科技公司] Tesla Semi
+8. [科技公司] 4月13日，上海一律师称，他们曾代理了一个涉VPN案件，当事人被指控“VPN软件构成非法经营”最后检察机关撤回起诉，公安做撤案处理。  律师称，当事人售卖VPN
+9. [AI/科技] 这也许是世界上最好的 TTS，专家们都这么说！  它叫 Fish Speech（Fish Audio S2 Pro），简直太离谱了：  •10-30秒就能完美克
+10. [科技公司] Tesla AI4 v/s AI5 Chip https://t.co/VPo9BFn43l
+11. [科技公司] 在旧金山湾区年入百万是种什么体验？刚报完税，年收入1.4M，联邦税436K，还欠82K的税要补，东拼西凑刚补齐真是惨。辛辛苦苦一年干365天，里面110天是在给
+12. [AI/科技] 一名开发者，近期为 Claude Code 做了款插件，让它可以复制任意网站的页面设计。  它会扫描真实的网站，把页面布局、配色、字体，这些设计提取出来，在本地
 
-## 本期话题
+⏱ 时长：9分32秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
 
-### 1. Claude Code 桌面版重大更新 (02:30)
-- 多会话并行运行
-- 侧边栏统一管理
-- Routines 自动化功能
-- 云端运行，无需保持笔记本开机
-
-### 2. AI-first 真正落地案例 (04:00)
-- Peter Pang: 前 Meta LLaMA 团队
-- 25人公司，99%代码 AI 编写
-- 14天内每天3-8次部署
-- 组织变革：架构师 + 验证者
-
-### 3. Dario Amodei 5%预言 (01:30)
-- 未来只有5%开发者能留在牌桌上
-- 关键是系统思维，不是编程语法
-
-### 4. Claude 投资组合 (03:00)
-- 新买 NVDA 5%，目标价$260
-- NOW 增持到12%，目标价$120
-- 全卖 TMO
-- 跑赢 SPY 4%
-
-### 5. Tesla 反弹分析 (02:00)
-- 关键位置337美元
-- 趋势线 + 结构 + 斐波那契共振
-
-### 6. 空头逼空分析 (02:30)
-- 空头回补创10年极值
-- 技术性上涨 vs 基本面反转
-
-### 7. 电力算力机会 (03:00)
-- Leopold Aschenbrenner 投资逻辑
-- Bloom Energy 持仓价值20亿美元
-- AI 瓶颈在于电力，不是芯片
-
-### 8. 欧冠争议 (00:30)
-- Raphinha 挑衅球迷
-
-## 数据来源
-- 50条 birdx home timeline 推文
-- 时间范围: 2026-04-14 全天
-
-## 标签
-#AI #Claude #Anthropic #Tesla #美股 #投资 #NVDA #电力 #算力 #欧冠]]></itunes:summary>
-      <itunes:duration>00:09:00</itunes:duration>
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:09:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
