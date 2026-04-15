@@ -9,7 +9,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Mon, 13 Apr 2026 22:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 04:10:36 +0000</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -29,34 +29,77 @@
     </itunes:category>
 
     <item>
-      <title>Flux每日经济早报 - 2026-04-14</title>
-      <description><![CDATA[【Flux每日经济早报】2026年04月14日
+      <title>Flux每日经济早报 - 2026-04-15</title>
+      <description><![CDATA[# 2026-04-14 每日新闻播客脚本
 
-大家好，我是 Flux。每天8分钟，带你快速看懂最重要的经济、市场、科技与国际变量。
+## 开场
+你好，欢迎收听今天的每日新闻播客。我是 Flux，为你带来今天的重要资讯。
 
----
+今天是2026年4月15日，星期三。
 
-【今日核心要闻】
+## 科技头条：Claude Code 重大更新
 
-1. 特斯拉销量超预期：特斯拉单季在美国卖出11.7万辆电动车，超过所有其他电动车品牌总和。传统车企巨头们加一起也干不过特斯拉。
+先说科技圈最热闹的事——Anthropic 旗下 Claude Code 桌面版彻底重构了。
 
-2. 开源量化交易来了：有人用Python做了开源量化对冲基金AutoHedge，4个AI Agent分工协作。MIT开源，已获1100颗星...]]></description>
-      <pubDate>Mon, 13 Apr 2026 22:06:08 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-14</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-14-audio.mp3" length="601965" type="audio/mpeg" />
+新版支持多会话并行运行，一个窗口里能同时跑多个 Claude 对话，侧边栏统一管理。而且还推出了 "Routines...]]></description>
+      <pubDate>Wed, 15 Apr 2026 04:10:36 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-15</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-15-audio.mp3" length="601965" type="audio/mpeg" />
       <itunes:author>Flux</itunes:author>
-      <itunes:title>Flux每日经济早报 - 2026-04-14</itunes:title>
-      <itunes:summary><![CDATA[【Flux每日经济早报】2026年04月14日
+      <itunes:title>Flux每日经济早报 - 2026-04-15</itunes:title>
+      <itunes:summary><![CDATA[# 2026-04-14 每日新闻播客 - Show Notes
 
-大家好，我是 Flux。每天8分钟，带你快速看懂最重要的经济、市场、科技与国际变量。
+## 播客信息
+- **时长**: 约9分钟
+- **日期**: 2026-04-15
+- **数据源**: birdx X/Twitter Home Timeline
 
----
+## 本期话题
 
-【今日核心要闻】
+### 1. Claude Code 桌面版重大更新 (02:30)
+- 多会话并行运行
+- 侧边栏统一管理
+- Routines 自动化功能
+- 云端运行，无需保持笔记本开机
 
-1. 特斯拉销量超预期：特斯拉单季在美国卖出11.7万辆电动车，超过所有其他电动车品牌总和。传统车企巨头们加一起也干不过特斯拉。
+### 2. AI-first 真正落地案例 (04:00)
+- Peter Pang: 前 Meta LLaMA 团队
+- 25人公司，99%代码 AI 编写
+- 14天内每天3-8次部署
+- 组织变革：架构师 + 验证者
 
-2. 开源量化交易来了：有人用Python做了开源量化对冲基金AutoHedge，4个AI Agent分工协作。MIT开源，已获1100颗星...]]></itunes:summary>
+### 3. Dario Amodei 5%预言 (01:30)
+- 未来只有5%开发者能留在牌桌上
+- 关键是系统思维，不是编程语法
+
+### 4. Claude 投资组合 (03:00)
+- 新买 NVDA 5%，目标价$260
+- NOW 增持到12%，目标价$120
+- 全卖 TMO
+- 跑赢 SPY 4%
+
+### 5. Tesla 反弹分析 (02:00)
+- 关键位置337美元
+- 趋势线 + 结构 + 斐波那契共振
+
+### 6. 空头逼空分析 (02:30)
+- 空头回补创10年极值
+- 技术性上涨 vs 基本面反转
+
+### 7. 电力算力机会 (03:00)
+- Leopold Aschenbrenner 投资逻辑
+- Bloom Energy 持仓价值20亿美元
+- AI 瓶颈在于电力，不是芯片
+
+### 8. 欧冠争议 (00:30)
+- Raphinha 挑衅球迷
+
+## 数据来源
+- 50条 birdx home timeline 推文
+- 时间范围: 2026-04-14 全天
+
+## 标签
+#AI #Claude #Anthropic #Tesla #美股 #投资 #NVDA #电力 #算力 #欧冠]]></itunes:summary>
       <itunes:duration>00:09:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
