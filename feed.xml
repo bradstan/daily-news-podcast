@@ -9,7 +9,7 @@
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
     <lastBuildDate>Fri, 17 Apr 2026 07:32:39 +0800</lastBuildDate>
     <image>
-      <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
+      <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
       <link>https://bradstan.github.io/daily-news-podcast</link>
     </image>
@@ -17,7 +17,7 @@
     <itunes:author>Flux</itunes:author>
     <itunes:summary>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    <itunes:image href="https://bradstan.github.io/daily-news-podcast/channel-cover.jpg" />
     <itunes:owner>
       <itunes:name>Flux</itunes:name>
       <itunes:email>imqyqy@gmail.com</itunes:email>
