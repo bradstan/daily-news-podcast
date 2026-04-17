@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Fri, 17 Apr 2026 07:32:39 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:33:04 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-18</title>
+      <description>Flux每日经济早报 — 2026-04-18
+
+📋 今日新闻速览：
+1. **，我们先看市场最关心的一个数字：特斯拉刚刚发布了由公司汇总的分析师第一季度业绩共识预期。
+2. 今天，关于特斯拉Robotaxi，也就是他们叫“Cybercab”的消息集中爆发。
+3. **，特斯拉不仅在描绘未来，也在积极开拓当下的市场。
+4. **，除了乘用车，特斯拉在商用车领域也有新动静。
+5. **，我们把视线从特斯拉暂时移开，看看今天AI圈最炸裂的消息：Anthropic公司发布了Claude Opus 4.7模型，而其中最引人注目的，是一个叫…
+6. **，AI的渗透远不止于设计。
+7. **，AI的创造能力也让人惊叹。
+8. **，在AI的军备竞赛中，后来者也在奋力追赶。
+9. **，我们把视野再拉高一点，看看AI竞争背后的地缘政治。
+10. **，最后，我们再看一个具体的AI应用生态现象。
+
+⏱ 时长：9分18秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sat, 18 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-18</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-18-audio.mp3" length="4463811" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-18</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-18
+
+📋 今日新闻速览：
+1. **，我们先看市场最关心的一个数字：特斯拉刚刚发布了由公司汇总的分析师第一季度业绩共识预期。
+2. 今天，关于特斯拉Robotaxi，也就是他们叫“Cybercab”的消息集中爆发。
+3. **，特斯拉不仅在描绘未来，也在积极开拓当下的市场。
+4. **，除了乘用车，特斯拉在商用车领域也有新动静。
+5. **，我们把视线从特斯拉暂时移开，看看今天AI圈最炸裂的消息：Anthropic公司发布了Claude Opus 4.7模型，而其中最引人注目的，是一个叫…
+6. **，AI的渗透远不止于设计。
+7. **，AI的创造能力也让人惊叹。
+8. **，在AI的军备竞赛中，后来者也在奋力追赶。
+9. **，我们把视野再拉高一点，看看AI竞争背后的地缘政治。
+10. **，最后，我们再看一个具体的AI应用生态现象。
+
+⏱ 时长：9分18秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:09:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-17</title>
       <description>Flux每日经济早报 — 2026-04-17
