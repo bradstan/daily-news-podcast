@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Sat, 18 Apr 2026 07:33:04 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:32:43 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,54 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-19</title>
+      <description>Flux每日经济早报 — 2026-04-19
+
+📋 今日新闻速览：
+1. 新闻，特斯拉的无人驾驶出租车服务，正式走出了奥斯汀，开始在达拉斯和休斯顿向公众开放。
+2. 有无人机拍摄画面显示，在特斯拉的德州超级工厂内，出现了没有方向盘的Cybercab车辆。
+3. 有达拉斯的用户反映，在服务上线首日，等待超过一小时也未能叫到车，客服的回应是系统里“看不到”有Robotaxi在达拉斯运营。
+4. 新闻，人工智能的竞争进入了一个新的维度——免费。
+5. 新闻关于Claude。
+6. 新闻，谷歌发布了一个名为“Android CLI”的命令行工具。
+7. 新闻来自一场有趣的“隔空对话”。
+8. 新闻则有些特别，它关于政治与医药的交叉点。
+9. 有特斯拉的忠实投资者在打理自家花园时，发现了一只巨型蜘蛛，并将其放生，理由是“蜘蛛预示着发财，而我只持有特斯拉股票，懂的都懂”。
+
+⏱ 时长：8分15秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sun, 19 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-19</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-19-audio.mp3" length="3415653" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-19</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-19
+
+📋 今日新闻速览：
+1. 新闻，特斯拉的无人驾驶出租车服务，正式走出了奥斯汀，开始在达拉斯和休斯顿向公众开放。
+2. 有无人机拍摄画面显示，在特斯拉的德州超级工厂内，出现了没有方向盘的Cybercab车辆。
+3. 有达拉斯的用户反映，在服务上线首日，等待超过一小时也未能叫到车，客服的回应是系统里“看不到”有Robotaxi在达拉斯运营。
+4. 新闻，人工智能的竞争进入了一个新的维度——免费。
+5. 新闻关于Claude。
+6. 新闻，谷歌发布了一个名为“Android CLI”的命令行工具。
+7. 新闻来自一场有趣的“隔空对话”。
+8. 新闻则有些特别，它关于政治与医药的交叉点。
+9. 有特斯拉的忠实投资者在打理自家花园时，发现了一只巨型蜘蛛，并将其放生，理由是“蜘蛛预示着发财，而我只持有特斯拉股票，懂的都懂”。
+
+⏱ 时长：8分15秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:08:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-18</title>
       <description>Flux每日经济早报 — 2026-04-18
