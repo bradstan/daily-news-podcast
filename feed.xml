@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Mon, 20 Apr 2026 23:36:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:35:06 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-21</title>
+      <description>Flux每日经济早报 — 2026-04-21
+
+📋 今日新闻速览：
+1. **，我们先看劳动力市场。
+2. **数据就带来了另一面：美国去年第四季度的生产率增长放缓了，同时单位劳动力成本却在加速上升。
+3. **，我们把视线转向美联储。
+4. **，现任美联储理事沃勒也发表了类似观点，他指出伊朗战争和劳动力市场的风险正在让央行保持按兵不动。
+5. **，我们来看一个具体的市场动向：关税退款门户于本周一正式开启。
+6. **，我们关注两家公司的异动。
+7. **，苹果公司正式宣布，蒂姆·库克将于今年9月1日卸任CEO一职，由现任硬件工程高级副总裁约翰·特努斯接任。
+8. **，特斯拉将其无人监督的Robotaxi（机器人出租车）服务扩展到了达拉斯和休斯顿。
+9. **，太空探索技术公司SpaceX迎来了一个历史性时刻：其猎鹰9号火箭助推器完成了第600次成功回收与着陆。
+10. **，AI军备竞赛的资本游戏达到新高度。
+11. **爆料，尽管Anthropic与美国国防部有分歧，但其内部严格限制访问的“Mythos”模型，据称正在被美国国家安全局使用。
+12. **，AI生成内容已经留下了独特的“指纹”。
+
+⏱ 时长：14分42秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Tue, 21 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-21</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-21-audio.mp3" length="6112881" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-21</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-21
+
+📋 今日新闻速览：
+1. **，我们先看劳动力市场。
+2. **数据就带来了另一面：美国去年第四季度的生产率增长放缓了，同时单位劳动力成本却在加速上升。
+3. **，我们把视线转向美联储。
+4. **，现任美联储理事沃勒也发表了类似观点，他指出伊朗战争和劳动力市场的风险正在让央行保持按兵不动。
+5. **，我们来看一个具体的市场动向：关税退款门户于本周一正式开启。
+6. **，我们关注两家公司的异动。
+7. **，苹果公司正式宣布，蒂姆·库克将于今年9月1日卸任CEO一职，由现任硬件工程高级副总裁约翰·特努斯接任。
+8. **，特斯拉将其无人监督的Robotaxi（机器人出租车）服务扩展到了达拉斯和休斯顿。
+9. **，太空探索技术公司SpaceX迎来了一个历史性时刻：其猎鹰9号火箭助推器完成了第600次成功回收与着陆。
+10. **，AI军备竞赛的资本游戏达到新高度。
+11. **爆料，尽管Anthropic与美国国防部有分歧，但其内部严格限制访问的“Mythos”模型，据称正在被美国国家安全局使用。
+12. **，AI生成内容已经留下了独特的“指纹”。
+
+⏱ 时长：14分42秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:14:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-20</title>
       <description>Flux每日经济早报 — 2026-04-20
