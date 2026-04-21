@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 21 Apr 2026 07:35:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:34:41 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-22</title>
+      <description>Flux每日经济早报 — 2026-04-22
+
+📋 今日新闻速览：
+1. Apple Names John Ternus as Next CEO After Tim Cook's 15-Year Tenure
+2. Army Chemical Safety Chief Placed on Leave After Undercover Video
+3. Federal Grand Jury Indicts SPLC on 11 Felony Counts for Alleged Fraud
+4. SpaceX Launches Final GPS III Satellite, Retires Key Droneship
+5. Introducing ChatGPT Images 2.0  A state-of-the-art image model that can take on
+6. Made with ChatGPT Images 2.0 https://t.co/qaahxpJ6hK
+7. Tesla's Full Self-Driving Supervised Launches in Netherlands After Official Approval
+8. Anthropic just pulled Claude Code from the Pro plan.  Pro users wanting it need
+9. RT @SpaceX: SpaceXAI and @cursor_ai are now working closely together to create t
+10. Liam Delap wanted Champions League football and didn’t want to join Manchester U
+11. Dude GPT-Image-2... wtf... how. https://t.co/eC1KPzhJnX
+12. .@35Pwoo and his family watch the Draft together every year, and now it's his tu
+
+⏱ 时长：15分3秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 22 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-22</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-22-audio.mp3" length="6225237" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-22</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-22
+
+📋 今日新闻速览：
+1. Apple Names John Ternus as Next CEO After Tim Cook's 15-Year Tenure
+2. Army Chemical Safety Chief Placed on Leave After Undercover Video
+3. Federal Grand Jury Indicts SPLC on 11 Felony Counts for Alleged Fraud
+4. SpaceX Launches Final GPS III Satellite, Retires Key Droneship
+5. Introducing ChatGPT Images 2.0  A state-of-the-art image model that can take on
+6. Made with ChatGPT Images 2.0 https://t.co/qaahxpJ6hK
+7. Tesla's Full Self-Driving Supervised Launches in Netherlands After Official Approval
+8. Anthropic just pulled Claude Code from the Pro plan.  Pro users wanting it need
+9. RT @SpaceX: SpaceXAI and @cursor_ai are now working closely together to create t
+10. Liam Delap wanted Champions League football and didn’t want to join Manchester U
+11. Dude GPT-Image-2... wtf... how. https://t.co/eC1KPzhJnX
+12. .@35Pwoo and his family watch the Draft together every year, and now it's his tu
+
+⏱ 时长：15分3秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:15:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-21</title>
       <description>Flux每日经济早报 — 2026-04-21
