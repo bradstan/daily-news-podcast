@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Wed, 22 Apr 2026 07:34:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:40:30 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-23</title>
+      <description>Flux每日经济早报 — 2026-04-23
+
+📋 今日新闻速览：
+1. Chelsea actually completed 5 loses in a row before Man United do 5 wins in a row
+2. SpaceX Partners with Cursor for $60 Billion AI Coding Option
+3. Tesla Tops Q1 2026 Expectations with Autonomy Push
+4. Introducing workspace agents in ChatGPT—shared agents that can handle complex ta
+5. 🚨Danny Welbeck on why he did the “Siuuu” celebration:  🗣️ Welbeck: “I’ve scored
+6. Introducing USVC - a single basket of high-growth venture capital, for everyone.
+7. One way to stop a wildfire is to start a controlled one early. https://t.co/pQh8
+8. We started an AI founder twitter group... reply with "I'm in" if you're a founde
+9. We won’t forget your contribution to the assist record 🫡 https://t.co/WtmR1RXmBw
+10. Elon Musk Admits Tesla HW3 Lacks Power for Unsupervised FSD
+11. RT @zan2434: Imagine every pixel on your screen, streamed live directly from a m
+12. Meet Higgsfield Marketing Studio, powered by Hermes Agent. UGC era for your vibe
+
+⏱ 时长：12分14秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Thu, 23 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-23</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-23-audio.mp3" length="5038353" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-23</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-23
+
+📋 今日新闻速览：
+1. Chelsea actually completed 5 loses in a row before Man United do 5 wins in a row
+2. SpaceX Partners with Cursor for $60 Billion AI Coding Option
+3. Tesla Tops Q1 2026 Expectations with Autonomy Push
+4. Introducing workspace agents in ChatGPT—shared agents that can handle complex ta
+5. 🚨Danny Welbeck on why he did the “Siuuu” celebration:  🗣️ Welbeck: “I’ve scored
+6. Introducing USVC - a single basket of high-growth venture capital, for everyone.
+7. One way to stop a wildfire is to start a controlled one early. https://t.co/pQh8
+8. We started an AI founder twitter group... reply with "I'm in" if you're a founde
+9. We won’t forget your contribution to the assist record 🫡 https://t.co/WtmR1RXmBw
+10. Elon Musk Admits Tesla HW3 Lacks Power for Unsupervised FSD
+11. RT @zan2434: Imagine every pixel on your screen, streamed live directly from a m
+12. Meet Higgsfield Marketing Studio, powered by Hermes Agent. UGC era for your vibe
+
+⏱ 时长：12分14秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:12:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-22</title>
       <description>Flux每日经济早报 — 2026-04-22
