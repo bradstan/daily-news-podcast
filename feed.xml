@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Thu, 23 Apr 2026 09:40:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:33:27 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-24</title>
+      <description>Flux每日经济早报 — 2026-04-24
+
+📋 今日新闻速览：
+1. Liam Rosenior handed Garnacho the tactical note when the scoreline was 8-2 on ag
+2. OpenAI Launches GPT-5.5 for Autonomous Real-World Tasks
+3. Tesla Rolls Out Smoother Full Self-Driving 14.3.2 to Early Users
+4. RT @OpenAI: Introducing GPT-5.5  A new class of intelligence for real work and p
+5. Claude can now connect to more of the apps you use outside of work, including @T
+6. Tesla Starts Cybercab Robotaxi Production at Giga Texas
+7. 🚨🎙️ | Matheus Cunha:  "When Michael [Carrick] arrived he said we need a winger a
+8. 1. We believe in iterative deployment; although GPT-5.5 is already a smart model
+9. AIスロップネタをUE5でゲームにしてみちゃった🛹 #巨大娘 https://t.co/zgHuBmU95o
+10. Elon did NOT just sell a lot of stock.  He gave back our "plan B" in the Delawar
+11. Manchester United Legends and current ages. Was beautiful to see them play again
+12. 第一次用Codex里的Computer Use。  比较好奇，为啥可以在隐藏鼠标情况下，实现应用的操作点击？什么黑科技，用了applescript ？  不过，
+
+⏱ 时长：14分3秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 24 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-24</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-24-audio.mp3" length="5794209" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-24</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-24
+
+📋 今日新闻速览：
+1. Liam Rosenior handed Garnacho the tactical note when the scoreline was 8-2 on ag
+2. OpenAI Launches GPT-5.5 for Autonomous Real-World Tasks
+3. Tesla Rolls Out Smoother Full Self-Driving 14.3.2 to Early Users
+4. RT @OpenAI: Introducing GPT-5.5  A new class of intelligence for real work and p
+5. Claude can now connect to more of the apps you use outside of work, including @T
+6. Tesla Starts Cybercab Robotaxi Production at Giga Texas
+7. 🚨🎙️ | Matheus Cunha:  "When Michael [Carrick] arrived he said we need a winger a
+8. 1. We believe in iterative deployment; although GPT-5.5 is already a smart model
+9. AIスロップネタをUE5でゲームにしてみちゃった🛹 #巨大娘 https://t.co/zgHuBmU95o
+10. Elon did NOT just sell a lot of stock.  He gave back our "plan B" in the Delawar
+11. Manchester United Legends and current ages. Was beautiful to see them play again
+12. 第一次用Codex里的Computer Use。  比较好奇，为啥可以在隐藏鼠标情况下，实现应用的操作点击？什么黑科技，用了applescript ？  不过，
+
+⏱ 时长：14分3秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:14:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-23</title>
       <description>Flux每日经济早报 — 2026-04-23
