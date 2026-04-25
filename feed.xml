@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Sat, 25 Apr 2026 07:33:36 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:35:03 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Flux每日经济早报 — 2026-04-26</title>
+      <description>Flux每日经济早报 — 2026-04-26
+
+📋 今日新闻速览：
+1. SPLC Indicted on Fraud Charges for Alleged Payments to Extremist Groups
+2. Tesla Starts Cybercab Robotaxi Production at Giga Texas
+3. SpaceX Releases Three-Year Starship Documentary 'Test Like You Fly'
+4. One of the most important things that Elon taught me:  People engaging in fraud
+5. Introducing Grok Voice Think Fast 1.0  A state-of-the-art voice model built for
+6. If you feel lost, build something.  A business. Your body. A skill set. Anything
+7. Tesla Owner's 900-Mile FSD Trip Challenges Flying from Miami to Nashville
+8. 🇺🇸 Charlize Theron climbed an actual billboard in Times Square to promote her Ne
+9. 兄弟们，做App最痛苦的部分终于被AI干掉了， Anything刚刚上线了一个功能， 一键生成设计师级别的App Store截图，  15秒，从空白到4张完美适
+10. FIRST EVER 6th Seat in Cybertruck  I took my Cybertruck to @CYBERTRUCKco  in Pow
+11. AI has alr replaced film directors..  ChatGPT Image 2 now can generate storyboar
+12. 讲真，这可能是第一个我真的愿意买回家的机器人，  前斯坦福机器人博士@aaronistan Tan刚刚发布了Lume，它长得完全就是一盏普通的豪华床头灯，  但
+
+⏱ 时长：20分58秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sun, 26 Apr 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-04-26</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-26-audio.mp3" length="10071558" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>Flux每日经济早报 — 2026-04-26</itunes:title>
+      <itunes:summary>Flux每日经济早报 — 2026-04-26
+
+📋 今日新闻速览：
+1. SPLC Indicted on Fraud Charges for Alleged Payments to Extremist Groups
+2. Tesla Starts Cybercab Robotaxi Production at Giga Texas
+3. SpaceX Releases Three-Year Starship Documentary 'Test Like You Fly'
+4. One of the most important things that Elon taught me:  People engaging in fraud
+5. Introducing Grok Voice Think Fast 1.0  A state-of-the-art voice model built for
+6. If you feel lost, build something.  A business. Your body. A skill set. Anything
+7. Tesla Owner's 900-Mile FSD Trip Challenges Flying from Miami to Nashville
+8. 🇺🇸 Charlize Theron climbed an actual billboard in Times Square to promote her Ne
+9. 兄弟们，做App最痛苦的部分终于被AI干掉了， Anything刚刚上线了一个功能， 一键生成设计师级别的App Store截图，  15秒，从空白到4张完美适
+10. FIRST EVER 6th Seat in Cybertruck  I took my Cybertruck to @CYBERTRUCKco  in Pow
+11. AI has alr replaced film directors..  ChatGPT Image 2 now can generate storyboar
+12. 讲真，这可能是第一个我真的愿意买回家的机器人，  前斯坦福机器人博士@aaronistan Tan刚刚发布了Lume，它长得完全就是一盏普通的豪华床头灯，  但
+
+⏱ 时长：20分58秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：小荷 2.0
+
+订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:20:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-04-25</title>
       <description>Flux每日经济早报 — 2026-04-25
