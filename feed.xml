@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Sat, 02 May 2026 21:13:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 09:33:26 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/channel-cover.jpg</url>
       <title>Flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>flux每日经济早报 — 2026-05-12</title>
+      <description>flux每日经济早报 — 2026-05-12
+
+📋 今日新闻速览：
+1. Brookfield Corp 即将发布财报，市场预测其股价可能大涨，公司进入转型增长期。
+2. 美股三大指数小幅上涨，投资者聚焦本周通胀数据和中美会晤。
+3. Keel Infrastructure 财报超预期，AI数据中心转型吸引资金涌入。
+4. Rocket Lab 营收创新高，Q2前景强劲，收购Motiv强化垂直整合。
+5. 美国初请失业金人数降至5月中旬以来最低水平。
+6. 上周初请失业金人数继续维持在低位。
+7. 美国消费者信贷在12月大幅增长。
+8. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+9. Beyond 将收购 Buy Buy Baby 品牌，与 Bed Bath &amp; Beyond 合并。
+10. 伊朗称“永不屈服”，特朗普拒绝和平提议，中东冲突持续。
+11. 全球领导人关注特朗普与习近平即将举行的峰会。
+12. 零售商4月招聘近2.2万人，但消费者支出发出警示信号。
+
+⏱ 时长：16分31秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：Grok EVE
+
+订阅 flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Tue, 12 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-12</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-12-audio.mp3" length="15866880" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>flux每日经济早报 — 2026-05-12</itunes:title>
+      <itunes:summary>flux每日经济早报 — 2026-05-12
+
+📋 今日新闻速览：
+1. Brookfield Corp 即将发布财报，市场预测其股价可能大涨，公司进入转型增长期。
+2. 美股三大指数小幅上涨，投资者聚焦本周通胀数据和中美会晤。
+3. Keel Infrastructure 财报超预期，AI数据中心转型吸引资金涌入。
+4. Rocket Lab 营收创新高，Q2前景强劲，收购Motiv强化垂直整合。
+5. 美国初请失业金人数降至5月中旬以来最低水平。
+6. 上周初请失业金人数继续维持在低位。
+7. 美国消费者信贷在12月大幅增长。
+8. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+9. Beyond 将收购 Buy Buy Baby 品牌，与 Bed Bath &amp; Beyond 合并。
+10. 伊朗称“永不屈服”，特朗普拒绝和平提议，中东冲突持续。
+11. 全球领导人关注特朗普与习近平即将举行的峰会。
+12. 零售商4月招聘近2.2万人，但消费者支出发出警示信号。
+
+⏱ 时长：16分31秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：Grok EVE
+
+订阅 flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:16:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>Flux每日经济早报 — 2026-05-02</title>
       <description>Flux每日经济早报 — 2026-05-02
