@@ -7,9 +7,9 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 12 May 2026 09:52:54 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 09:54:07 +0800</lastBuildDate>
     <image>
-      <url>https://bradstan.github.io/daily-news-podcast/flux-cover-3000.jpg</url>
+      <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
       <title>flux每日经济早报</title>
       <link>https://bradstan.github.io/daily-news-podcast</link>
     </image>
@@ -17,7 +17,7 @@
     <itunes:author>Flux</itunes:author>
     <itunes:summary>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-cover-3000.jpg" />
+    <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
     <itunes:owner>
       <itunes:name>Flux</itunes:name>
       <itunes:email>imqyqy@gmail.com</itunes:email>
@@ -77,7 +77,7 @@
       <itunes:duration>00:16:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-cover-3000.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
     </item>
     <item>
       <title>Flux每日经济早报 — 2026-05-02</title>
