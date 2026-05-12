@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Flux</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 12 May 2026 09:54:07 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:36:31 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/cover.jpg</url>
       <title>flux每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>flux每日经济早报 — 2026-05-13</title>
+      <description>flux每日经济早报 — 2026-05-13
+
+📋 今日新闻速览：
+1. 美股周二涨跌互现，标普500和纳指因通胀数据高于预期而下滑，道指微涨。
+2. 芯片制造商Cerebras计划IPO，正值华尔街对芯片股热情高涨。
+3. 美国股指期货波动，市场评估新通胀数据及美伊会谈进展。
+4. Samsara公司股价收盘下跌3.34%，表现逊于大盘。
+5. 美国首次申请失业救济人数降至5月中旬以来最低。
+6. 最新一周美国失业救济申请人数保持低位。
+7. 美国12月消费者信贷增长大幅加快。
+8. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+9. Beyond计划收购Buy Buy Baby品牌，并将其与Bed Bath &amp; Beyond合并。
+10. 通胀报告发布后，市场对美联储加息概率的预期上升。
+11. 除伊朗局势和油价外，多个领域物价也出现重新加速上涨。
+12. 美国4月消费者价格指数同比上涨3.8%，为2023年5月以来最高。
+
+⏱ 时长：17分36秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：Grok EVE
+
+订阅 flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 13 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-13</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-13-audio.mp3" length="16896768" type="audio/mpeg" />
+      <itunes:author>Flux</itunes:author>
+      <itunes:title>flux每日经济早报 — 2026-05-13</itunes:title>
+      <itunes:summary>flux每日经济早报 — 2026-05-13
+
+📋 今日新闻速览：
+1. 美股周二涨跌互现，标普500和纳指因通胀数据高于预期而下滑，道指微涨。
+2. 芯片制造商Cerebras计划IPO，正值华尔街对芯片股热情高涨。
+3. 美国股指期货波动，市场评估新通胀数据及美伊会谈进展。
+4. Samsara公司股价收盘下跌3.34%，表现逊于大盘。
+5. 美国首次申请失业救济人数降至5月中旬以来最低。
+6. 最新一周美国失业救济申请人数保持低位。
+7. 美国12月消费者信贷增长大幅加快。
+8. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+9. Beyond计划收购Buy Buy Baby品牌，并将其与Bed Bath &amp; Beyond合并。
+10. 通胀报告发布后，市场对美联储加息概率的预期上升。
+11. 除伊朗局势和油价外，多个领域物价也出现重新加速上涨。
+12. 美国4月消费者价格指数同比上涨3.8%，为2023年5月以来最高。
+
+⏱ 时长：17分36秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Flux | 🔊 音色：Grok EVE
+
+订阅 flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:17:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/cover.jpg" />
+    </item>
     <item>
       <title>flux每日经济早报 — 2026-05-12</title>
       <description>flux每日经济早报 — 2026-05-12
