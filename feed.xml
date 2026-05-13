@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>flux每日经济早报</title>
+    <title>Badstan每日经济早报</title>
     <link>https://bradstan.github.io/daily-news-podcast</link>
     <atom:link href="https://bradstan.github.io/daily-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
-    <copyright>© 2026 Flux</copyright>
+    <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
     <lastBuildDate>Wed, 13 May 2026 08:04:37 +0800</lastBuildDate>
     <image>
-      <url>https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg</url>
-      <title>flux每日经济早报</title>
+      <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg</url>
+      <title>Badstan每日经济早报</title>
       <link>https://bradstan.github.io/daily-news-podcast</link>
     </image>
     <itunes:type>episodic</itunes:type>
-    <itunes:author>Flux</itunes:author>
+    <itunes:author>Badstan</itunes:author>
     <itunes:summary>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+    <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     <itunes:owner>
-      <itunes:name>Flux</itunes:name>
+      <itunes:name>Badstan</itunes:name>
       <itunes:email>imqyqy@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Business">
@@ -45,14 +45,14 @@
 
 ⏱ 时长：8分25秒
 🧾 资料来源：公开资讯与市场数据
-🎙 主播：Flux | 🔊 音色：Grok EVE
+🎙 主播：Badstan | 🔊 音色：Grok EVE
 
-订阅 flux每日经济早报，每天早上为你整理全球财经科技动态。内容仅作公开资讯整理和市场观察，不构成投资建议。
+订阅 Badstan每日经济早报，每天早上为你整理全球财经科技动态。内容仅作公开资讯整理和市场观察，不构成投资建议。
 </description>
       <pubDate>Wed, 13 May 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-05-13</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-13-audio-v2.mp3" length="8086656" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>美股与通胀预期、AI算力基础设施、链上金融成今日主线｜5月13日</itunes:title>
       <itunes:summary>美股与通胀预期、AI算力基础设施、链上金融成今日主线｜5月13日
 
@@ -72,14 +72,14 @@
 
 ⏱ 时长：8分25秒
 🧾 资料来源：公开资讯与市场数据
-🎙 主播：Flux | 🔊 音色：Grok EVE
+🎙 主播：Badstan | 🔊 音色：Grok EVE
 
-订阅 flux每日经济早报，每天早上为你整理全球财经科技动态。内容仅作公开资讯整理和市场观察，不构成投资建议。
+订阅 Badstan每日经济早报，每天早上为你整理全球财经科技动态。内容仅作公开资讯整理和市场观察，不构成投资建议。
 </itunes:summary>
       <itunes:duration>00:08:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>美股与通胀预期、AI算力基础设施、链上金融成今日主线｜5月12日</title>
@@ -99,14 +99,14 @@
 
 ⏱ 时长：16分31秒
 📰 新闻来源：公开新闻源与市场资讯
-🎙 主播：Flux | 🔊 音色：Grok EVE
+🎙 主播：Badstan | 🔊 音色：Grok EVE
 
-订阅 flux每日经济早报，每天早上为你解读全球财经科技动态。内容仅作信息整理，不构成投资建议。
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。内容仅作信息整理，不构成投资建议。
 </description>
       <pubDate>Tue, 12 May 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-05-12</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-12-audio.mp3" length="15866880" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>美股与通胀预期、AI算力基础设施、链上金融成今日主线｜5月12日</itunes:title>
       <itunes:summary>美股与通胀预期、AI算力基础设施、链上金融成今日主线｜5月12日
 
@@ -124,14 +124,14 @@
 
 ⏱ 时长：16分31秒
 📰 新闻来源：公开新闻源与市场资讯
-🎙 主播：Flux | 🔊 音色：Grok EVE
+🎙 主播：Badstan | 🔊 音色：Grok EVE
 
-订阅 flux每日经济早报，每天早上为你解读全球财经科技动态。内容仅作信息整理，不构成投资建议。
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。内容仅作信息整理，不构成投资建议。
 </itunes:summary>
       <itunes:duration>00:16:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力、平台入口成今日主线｜5月2日</title>
@@ -153,13 +153,13 @@
 
 ⏱ 时长：15分16秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sat, 02 May 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-05-02</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-02-audio.mp3" length="18323040" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力、平台入口成今日主线｜5月2日</itunes:title>
       <itunes:summary>AI算力、平台入口成今日主线｜5月2日
 
@@ -179,13 +179,13 @@
 
 ⏱ 时长：15分16秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:15:16</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜5月1日</title>
@@ -207,13 +207,13 @@
 
 ⏱ 时长：14分18秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Fri, 01 May 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-05-01</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-01-audio.mp3" length="17176800" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜5月1日</itunes:title>
       <itunes:summary>AI算力成今日主线｜5月1日
 
@@ -233,13 +233,13 @@
 
 ⏱ 时长：14分18秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:14:18</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月30日</title>
@@ -261,13 +261,13 @@
 
 ⏱ 时长：11分2秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Thu, 30 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-30</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-30-audio.mp3" length="5298174" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月30日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月30日
 
@@ -287,13 +287,13 @@
 
 ⏱ 时长：11分2秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:11:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月29日</title>
@@ -315,13 +315,13 @@
 
 ⏱ 时长：11分38秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Wed, 29 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-29</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-29-audio.mp3" length="5585751" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月29日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月29日
 
@@ -341,13 +341,13 @@
 
 ⏱ 时长：11分38秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:11:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月28日</title>
@@ -369,13 +369,13 @@
 
 ⏱ 时长：15分49秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Tue, 28 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-28</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-28-audio.mp3" length="7594839" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月28日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月28日
 
@@ -395,13 +395,13 @@
 
 ⏱ 时长：15分49秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:15:49</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>财经科技主线速览｜4月27日</title>
@@ -423,13 +423,13 @@
 
 ⏱ 时长：12分49秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Mon, 27 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-27</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-27-audio.mp3" length="6154461" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>财经科技主线速览｜4月27日</itunes:title>
       <itunes:summary>财经科技主线速览｜4月27日
 
@@ -449,13 +449,13 @@
 
 ⏱ 时长：12分49秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:12:49</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月26日</title>
@@ -477,13 +477,13 @@
 
 ⏱ 时长：20分58秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sun, 26 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-26</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-26-audio.mp3" length="10071558" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月26日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月26日
 
@@ -503,13 +503,13 @@
 
 ⏱ 时长：20分58秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:20:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月25日</title>
@@ -531,13 +531,13 @@
 
 ⏱ 时长：15分26秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sat, 25 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-25</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-25-audio.mp3" length="6299505" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月25日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月25日
 
@@ -557,13 +557,13 @@
 
 ⏱ 时长：15分26秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:15:26</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月24日</title>
@@ -585,13 +585,13 @@
 
 ⏱ 时长：14分3秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Fri, 24 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-24</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-24-audio.mp3" length="5794209" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月24日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月24日
 
@@ -611,13 +611,13 @@
 
 ⏱ 时长：14分3秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:14:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月23日</title>
@@ -639,13 +639,13 @@
 
 ⏱ 时长：12分14秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Thu, 23 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-23</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-23-audio.mp3" length="5038353" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月23日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月23日
 
@@ -665,13 +665,13 @@
 
 ⏱ 时长：12分14秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:12:14</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月22日</title>
@@ -693,13 +693,13 @@
 
 ⏱ 时长：15分3秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Wed, 22 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-22</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-22-audio.mp3" length="6225237" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月22日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月22日
 
@@ -719,13 +719,13 @@
 
 ⏱ 时长：15分3秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:15:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月21日</title>
@@ -747,13 +747,13 @@
 
 ⏱ 时长：14分42秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Tue, 21 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-21</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-21-audio.mp3" length="6112881" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月21日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月21日
 
@@ -773,13 +773,13 @@
 
 ⏱ 时长：14分42秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:14:42</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>美股与通胀预期成今日主线｜4月20日</title>
@@ -797,13 +797,13 @@
 
 ⏱ 时长：19分7秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Mon, 20 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-20</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-20-audio.mp3" length="7819389" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>美股与通胀预期成今日主线｜4月20日</itunes:title>
       <itunes:summary>美股与通胀预期成今日主线｜4月20日
 
@@ -819,13 +819,13 @@
 
 ⏱ 时长：19分7秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:19:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>财经科技主线速览｜4月19日</title>
@@ -844,13 +844,13 @@
 
 ⏱ 时长：8分15秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sun, 19 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-19</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-19-audio.mp3" length="3415653" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>财经科技主线速览｜4月19日</itunes:title>
       <itunes:summary>财经科技主线速览｜4月19日
 
@@ -867,13 +867,13 @@
 
 ⏱ 时长：8分15秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:08:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月18日</title>
@@ -893,13 +893,13 @@
 
 ⏱ 时长：9分18秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sat, 18 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-18</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-18-audio.mp3" length="4463811" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月18日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月18日
 
@@ -917,13 +917,13 @@
 
 ⏱ 时长：9分18秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:09:18</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力成今日主线｜4月17日</title>
@@ -945,13 +945,13 @@
 
 ⏱ 时长：9分15秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Fri, 17 Apr 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-17</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-17-audio.mp3" length="4441545" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力成今日主线｜4月17日</itunes:title>
       <itunes:summary>AI算力成今日主线｜4月17日
 
@@ -971,13 +971,13 @@
 
 ⏱ 时长：9分15秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:09:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>美股与通胀预期、AI算力、平台入口成今日主线｜4月16日</title>
@@ -999,13 +999,13 @@
 
 ⏱ 时长：8分28秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Thu, 16 Apr 2026 00:22:29 +0000</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-16</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-16-audio.mp3" length="4069647" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>美股与通胀预期、AI算力、平台入口成今日主线｜4月16日</itunes:title>
       <itunes:summary>美股与通胀预期、AI算力、平台入口成今日主线｜4月16日
 
@@ -1025,13 +1025,13 @@
 
 ⏱ 时长：8分28秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:08:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
     <item>
       <title>AI算力、平台入口成今日主线｜4月15日</title>
@@ -1053,13 +1053,13 @@
 
 ⏱ 时长：9分32秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</description>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Wed, 15 Apr 2026 09:00:04 +0000</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-04-15</guid>
       <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-15-audio.mp3" length="4575996" type="audio/mpeg" />
-      <itunes:author>Flux</itunes:author>
+      <itunes:author>Badstan</itunes:author>
       <itunes:title>AI算力、平台入口成今日主线｜4月15日</itunes:title>
       <itunes:summary>AI算力、平台入口成今日主线｜4月15日
 
@@ -1079,13 +1079,13 @@
 
 ⏱ 时长：9分32秒
 📰 新闻来源：X Timeline + Trending
-🎙 主播：Flux | 🔊 音色：小荷 2.0
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
-订阅 Flux每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:09:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/flux-daily-cover.jpg" />
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
     </item>
   </channel>
 </rss>
