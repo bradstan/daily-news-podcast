@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Thu, 14 May 2026 07:33:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 07:33:35 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>亚马逊因AI推动市值向3万亿美元迈进，AWS增长｜5月15日</title>
+      <description>亚马逊因AI推动市值向3万亿美元迈进，AWS增长｜5月15日
+
+📋 今日新闻速览：
+1. 亚马逊因AI推动市值向3万亿美元迈进，AWS增长与2250亿美元AI芯片承诺增强信心。
+2. 摩根士丹利将标普500目标上调至8300点，AI繁荣推动企业盈利前景。
+3. Deepwater减持Global-e Online一半仓位，出售价值900万美元股票。
+4. 国际宏观消息继续影响能源、贸易与全球市场预期。
+5. 美银和高盛调整Marvell股票目标价，该股自3月5日以来已上涨135%。
+6. 美国初请失业金人数降至5月中旬以来最低水平。
+7. 最新一周美国初请失业金人数仍处低位。
+8. 美国12月消费者信贷增长大幅加快。
+9. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+10. Beyond将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond重新合并。
+11. 债券市场认为美联储在通胀问题上落后，Warsh接任后可能转向紧缩倾向。
+12. Bessent预计能源驱动的通胀将逆转，美国将继续增产，实现“实质性去通胀”。
+
+⏱ 时长：10分8秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 15 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-15</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-15-audio.mp3" length="9730560" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>亚马逊因AI推动市值向3万亿美元迈进，AWS增长｜5月15日</itunes:title>
+      <itunes:summary>亚马逊因AI推动市值向3万亿美元迈进，AWS增长｜5月15日
+
+📋 今日新闻速览：
+1. 亚马逊因AI推动市值向3万亿美元迈进，AWS增长与2250亿美元AI芯片承诺增强信心。
+2. 摩根士丹利将标普500目标上调至8300点，AI繁荣推动企业盈利前景。
+3. Deepwater减持Global-e Online一半仓位，出售价值900万美元股票。
+4. 国际宏观消息继续影响能源、贸易与全球市场预期。
+5. 美银和高盛调整Marvell股票目标价，该股自3月5日以来已上涨135%。
+6. 美国初请失业金人数降至5月中旬以来最低水平。
+7. 最新一周美国初请失业金人数仍处低位。
+8. 美国12月消费者信贷增长大幅加快。
+9. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+10. Beyond将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond重新合并。
+11. 债券市场认为美联储在通胀问题上落后，Warsh接任后可能转向紧缩倾向。
+12. Bessent预计能源驱动的通胀将逆转，美国将继续增产，实现“实质性去通胀”。
+
+⏱ 时长：10分8秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:10:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover.jpg" />
+    </item>
     <item>
       <title>标普500和纳斯达克在AI股带动下创收盘新高，道｜5月14日</title>
       <description>标普500和纳斯达克在AI股带动下创收盘新高，道｜5月14日
