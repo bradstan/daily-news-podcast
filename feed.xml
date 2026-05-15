@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Fri, 15 May 2026 07:33:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:33:18 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260514.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Poet Technologies 市场表现今日｜5月16日</title>
+      <description>Poet Technologies 市场表现今日｜5月16日
+
+📋 今日新闻速览：
+1. Poet Technologies 市场表现今日大跌，但今年累计涨幅仍超150%。
+2. 某基金因Lionsgate Studios市场表现飙升85%而加大对该公司的投资。
+3. ChargePoint Holdings 市场表现收于6.63美元，当日下跌2.64%。
+4. MongoDB 市场表现收于312.16美元，在大盘下跌中逆势上涨2.99%。
+5. Dollar General 市场表现收于102.38美元，当日下跌2.54%。
+6. 美国上周初请失业金人数降至5月中旬以来最低水平。
+7. 最新一周美国初请失业金人数继续维持在低位。
+8. 美国12月消费者信贷增长显著加快。
+9. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+10. Beyond 将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond重新整合。
+11. 交易员预计美联储下次利率行动可能是加息，最早在12月。
+12. 顶级经济预测机构预计第二季度通胀率将升至6%。
+
+⏱ 时长：8分59秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sat, 16 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-16</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-16-audio.mp3" length="8628480" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>Poet Technologies 市场表现今日｜5月16日</itunes:title>
+      <itunes:summary>Poet Technologies 市场表现今日｜5月16日
+
+📋 今日新闻速览：
+1. Poet Technologies 市场表现今日大跌，但今年累计涨幅仍超150%。
+2. 某基金因Lionsgate Studios市场表现飙升85%而加大对该公司的投资。
+3. ChargePoint Holdings 市场表现收于6.63美元，当日下跌2.64%。
+4. MongoDB 市场表现收于312.16美元，在大盘下跌中逆势上涨2.99%。
+5. Dollar General 市场表现收于102.38美元，当日下跌2.54%。
+6. 美国上周初请失业金人数降至5月中旬以来最低水平。
+7. 最新一周美国初请失业金人数继续维持在低位。
+8. 美国12月消费者信贷增长显著加快。
+9. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+10. Beyond 将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond重新整合。
+11. 交易员预计美联储下次利率行动可能是加息，最早在12月。
+12. 顶级经济预测机构预计第二季度通胀率将升至6%。
+
+⏱ 时长：8分59秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:08:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260514.jpg" />
+    </item>
     <item>
       <title>亚马逊因AI推动市值向3万亿美元迈进，AWS增长｜5月15日</title>
       <description>亚马逊因AI推动市值向3万亿美元迈进，AWS增长｜5月15日
