@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Mon, 18 May 2026 07:32:53 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:32:50 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月19日 通胀预期升温，加息拐点临近</title>
+      <description>5月19日 通胀预期升温，加息拐点临近
+
+📋 今日新闻速览：
+1. 道指重回50,000点，多只股票午后上涨，受企业基本面强劲和中美关系突破推动。
+2. United Rentals、Mayville Engineering等多家公司市场表现在午后交易中走高。
+3. Oshkosh、Helios、Matrix Service等个股午后上涨，市场情绪受宏观因素提振。
+4. Boise Cascade、ArcBest、Rivian等公司市场表现大幅上涨，带动相关板块活跃。
+5. Sterling、Janus、Griffon等股票午后交易中上涨，跟随大盘整体走强。
+6. S&amp;P Global宣布25亿美元新融资计划，为后续分拆做准备，市场表现当日领涨。
+7. 美国首次申请失业救济人数降至5月中旬以来最低水平。
+8. 最新一周美国首次申请失业救济人数维持低位，就业市场保持稳定。
+9. 去年12月美国消费者信贷增长大幅提速，显示消费支出活跃。
+10. 第四季度美国生产率增速放缓，同时单位劳动力成本加速上升。
+11. Beyond将收购Buy Buy Baby品牌，使其与Bed Bath &amp; Beyond重新合并。
+12. 国际宏观消息继续影响能源、贸易与全球市场预期。
+
+⏱ 时长：7分56秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Tue, 19 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-19</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-19-audio.mp3" length="7623168" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月19日 通胀预期升温，加息拐点临近</itunes:title>
+      <itunes:summary>5月19日 通胀预期升温，加息拐点临近
+
+📋 今日新闻速览：
+1. 道指重回50,000点，多只股票午后上涨，受企业基本面强劲和中美关系突破推动。
+2. United Rentals、Mayville Engineering等多家公司市场表现在午后交易中走高。
+3. Oshkosh、Helios、Matrix Service等个股午后上涨，市场情绪受宏观因素提振。
+4. Boise Cascade、ArcBest、Rivian等公司市场表现大幅上涨，带动相关板块活跃。
+5. Sterling、Janus、Griffon等股票午后交易中上涨，跟随大盘整体走强。
+6. S&amp;P Global宣布25亿美元新融资计划，为后续分拆做准备，市场表现当日领涨。
+7. 美国首次申请失业救济人数降至5月中旬以来最低水平。
+8. 最新一周美国首次申请失业救济人数维持低位，就业市场保持稳定。
+9. 去年12月美国消费者信贷增长大幅提速，显示消费支出活跃。
+10. 第四季度美国生产率增速放缓，同时单位劳动力成本加速上升。
+11. Beyond将收购Buy Buy Baby品牌，使其与Bed Bath &amp; Beyond重新合并。
+12. 国际宏观消息继续影响能源、贸易与全球市场预期。
+
+⏱ 时长：7分56秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:07:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月18日 通胀分化，市场博弈加剧</title>
       <description>5月18日 通胀分化，市场博弈加剧
