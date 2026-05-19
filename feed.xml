@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 19 May 2026 07:32:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:33:25 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月20日 通胀重燃，AI巨头上演财报前夜</title>
+      <description>5月20日 通胀重燃，AI巨头上演财报前夜
+
+📋 今日新闻速览：
+1. 国债收益率攀升，美股周二走低，美光、SanDisk等AI股反弹，市场聚焦英伟达财报。
+2. UiPath在韩国推出自动化云服务，测试区域企业需求，市场表现小幅下滑。
+3. Unacem Corp一季度营收增长7.1%，但EBITDA下滑和运营挑战拖累业绩。
+4. 国债收益率飙升及通胀担忧，数字银行SoFi Technologies市场表现持续承压。
+5. 美国初请失业金人数降至5月中旬以来最低水平。
+6. 上周初请失业金人数继续维持在低位。
+7. 12月美国消费者信贷增长显著加快。
+8. 美国四季度生产率放缓，单位劳动力成本加速上升。
+9. Beyond计划收购Buy Buy Baby品牌，使其与Bed Bath &amp; Beyond重新合并。
+10. AI经济正在改写美国梦：福特、AT&amp;T等公司增加技工招聘，大学毕业生入门岗位减少。
+11. 国际宏观消息继续影响能源、贸易与全球市场预期。
+
+⏱ 时长：9分21秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 20 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-20</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-20-audio.mp3" length="8977536" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月20日 通胀重燃，AI巨头上演财报前夜</itunes:title>
+      <itunes:summary>5月20日 通胀重燃，AI巨头上演财报前夜
+
+📋 今日新闻速览：
+1. 国债收益率攀升，美股周二走低，美光、SanDisk等AI股反弹，市场聚焦英伟达财报。
+2. UiPath在韩国推出自动化云服务，测试区域企业需求，市场表现小幅下滑。
+3. Unacem Corp一季度营收增长7.1%，但EBITDA下滑和运营挑战拖累业绩。
+4. 国债收益率飙升及通胀担忧，数字银行SoFi Technologies市场表现持续承压。
+5. 美国初请失业金人数降至5月中旬以来最低水平。
+6. 上周初请失业金人数继续维持在低位。
+7. 12月美国消费者信贷增长显著加快。
+8. 美国四季度生产率放缓，单位劳动力成本加速上升。
+9. Beyond计划收购Buy Buy Baby品牌，使其与Bed Bath &amp; Beyond重新合并。
+10. AI经济正在改写美国梦：福特、AT&amp;T等公司增加技工招聘，大学毕业生入门岗位减少。
+11. 国际宏观消息继续影响能源、贸易与全球市场预期。
+
+⏱ 时长：9分21秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:09:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月19日 通胀预期升温，加息拐点临近</title>
       <description>5月19日 通胀预期升温，加息拐点临近
