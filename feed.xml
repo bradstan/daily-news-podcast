@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Wed, 20 May 2026 07:33:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:33:13 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月21日 芯片和AI仍是市场主线</title>
+      <description>5月21日 芯片和AI仍是市场主线
+
+📋 今日新闻速览：
+1. 美光科技在科技股上涨日市场表现走高。
+2. Kroger收盘下跌2.72%，报68.68美元。
+3. SentinelOne市场表现，收于17.97美元。
+4. Wellgistics Health宣布进行股票合并。
+5. TJX公司因财报利好市场表现。
+6. 美国首次申请失业救济人数降至5月中旬以来最低。
+7. 最新一周美国失业救济申请人数维持低位。
+8. 美国12月消费者信贷增长加速。
+9. 美国第四季度生产率放缓，单位劳动力成本上升。
+10. Beyond将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond合并。
+11. 普京与中方会谈，讨论搁置的“西伯利亚力量2号”天然气管道项目。
+12. AI经济正改变美国梦，蓝领工人就业机会增多。
+
+⏱ 时长：8分33秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Thu, 21 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-21</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-21-audio.mp3" length="8222208" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月21日 芯片和AI仍是市场主线</itunes:title>
+      <itunes:summary>5月21日 芯片和AI仍是市场主线
+
+📋 今日新闻速览：
+1. 美光科技在科技股上涨日市场表现走高。
+2. Kroger收盘下跌2.72%，报68.68美元。
+3. SentinelOne市场表现，收于17.97美元。
+4. Wellgistics Health宣布进行股票合并。
+5. TJX公司因财报利好市场表现。
+6. 美国首次申请失业救济人数降至5月中旬以来最低。
+7. 最新一周美国失业救济申请人数维持低位。
+8. 美国12月消费者信贷增长加速。
+9. 美国第四季度生产率放缓，单位劳动力成本上升。
+10. Beyond将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond合并。
+11. 普京与中方会谈，讨论搁置的“西伯利亚力量2号”天然气管道项目。
+12. AI经济正改变美国梦，蓝领工人就业机会增多。
+
+⏱ 时长：8分33秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:08:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月20日 通胀重燃，AI巨头上演财报前夜</title>
       <description>5月20日 通胀重燃，AI巨头上演财报前夜
