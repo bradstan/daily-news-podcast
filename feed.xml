@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Thu, 21 May 2026 07:33:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:32:58 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月22日 AI正在重写美国梦</title>
+      <description>5月22日 AI正在重写美国梦
+
+📋 今日新闻速览：
+1. 道琼斯指数创收盘新高，油价下跌提振市场。
+2. 亚马逊和Credo等AI股进入买入区域，英伟达回调。
+3. 软件板块过去六个月下跌7.3%，跑输标普500指数。
+4. 华尔街主要股指收高，投资者关注中东和平前景。
+5. Timucuan减持Thor Industries仓位，该RV制造商业务遍及欧美。
+6. 标普500中三只大盘股因增长放缓或竞争加剧需审慎看待。
+7. 美国初请失业金人数降至5月中旬以来最低。
+8. 上周初请失业金人数保持低位，就业市场稳健。
+9. 美国12月消费者信贷增长加速，借贷活跃。
+10. 美国第四季度生产率放缓，单位劳动力成本上升。
+11. Beyond将收购Buy Buy Baby品牌，与Bed Bath &amp; Beyond合并。
+12. 英国与海湾国家达成贸易协议，被视为里程碑式成果。
+
+⏱ 时长：8分11秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 22 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-22</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-22-audio.mp3" length="7863552" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月22日 AI正在重写美国梦</itunes:title>
+      <itunes:summary>5月22日 AI正在重写美国梦
+
+📋 今日新闻速览：
+1. 道琼斯指数创收盘新高，油价下跌提振市场。
+2. 亚马逊和Credo等AI股进入买入区域，英伟达回调。
+3. 软件板块过去六个月下跌7.3%，跑输标普500指数。
+4. 华尔街主要股指收高，投资者关注中东和平前景。
+5. Timucuan减持Thor Industries仓位，该RV制造商业务遍及欧美。
+6. 标普500中三只大盘股因增长放缓或竞争加剧需审慎看待。
+7. 美国初请失业金人数降至5月中旬以来最低。
+8. 上周初请失业金人数保持低位，就业市场稳健。
+9. 美国12月消费者信贷增长加速，借贷活跃。
+10. 美国第四季度生产率放缓，单位劳动力成本上升。
+11. Beyond将收购Buy Buy Baby品牌，与Bed Bath &amp; Beyond合并。
+12. 英国与海湾国家达成贸易协议，被视为里程碑式成果。
+
+⏱ 时长：8分11秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:08:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月21日 芯片和AI仍是市场主线</title>
       <description>5月21日 芯片和AI仍是市场主线
