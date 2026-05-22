@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Fri, 22 May 2026 07:32:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 07:33:10 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月23日 能源管道公司闷声发大财</title>
+      <description>5月23日 能源管道公司闷声发大财
+
+📋 今日新闻速览：
+1. Kinder Morgan近半年表现领先标普500，市场表现升至33.65美元。
+2. 非必需消费类股近半年回报3.1%，落后标普500指数8.2个百分点。
+3. Nuvve因延迟提交10-Q表格，收到纳斯达克上市资格部门通知。
+4. 美国航空市场表现，受需求强劲和油价下跌推动。
+5. 美股周五走高，道指盘中创纪录，因中东局势缓和信号提振情绪。
+6. 美国上周初请失业金人数降至5月中旬以来最低。
+7. 最新一周美国初请失业金人数维持低位。
+8. 12月美国消费者信贷增速大幅上升。
+9. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+10. Beyond将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond合并。
+11. 5月美国消费者信心指数跌至新低，因中东局势推升通胀担忧。
+12. 英国与海湾国家达成贸易协议，巴林工业部长称其为里程碑成就。
+
+⏱ 时长：8分45秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sat, 23 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-23</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-23-audio.mp3" length="8409600" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月23日 能源管道公司闷声发大财</itunes:title>
+      <itunes:summary>5月23日 能源管道公司闷声发大财
+
+📋 今日新闻速览：
+1. Kinder Morgan近半年表现领先标普500，市场表现升至33.65美元。
+2. 非必需消费类股近半年回报3.1%，落后标普500指数8.2个百分点。
+3. Nuvve因延迟提交10-Q表格，收到纳斯达克上市资格部门通知。
+4. 美国航空市场表现，受需求强劲和油价下跌推动。
+5. 美股周五走高，道指盘中创纪录，因中东局势缓和信号提振情绪。
+6. 美国上周初请失业金人数降至5月中旬以来最低。
+7. 最新一周美国初请失业金人数维持低位。
+8. 12月美国消费者信贷增速大幅上升。
+9. 美国第四季度生产率放缓，单位劳动力成本加速上升。
+10. Beyond将收购Buy Buy Baby品牌，并与Bed Bath &amp; Beyond合并。
+11. 5月美国消费者信心指数跌至新低，因中东局势推升通胀担忧。
+12. 英国与海湾国家达成贸易协议，巴林工业部长称其为里程碑成就。
+
+⏱ 时长：8分45秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:08:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月22日 AI正在重写美国梦</title>
       <description>5月22日 AI正在重写美国梦
