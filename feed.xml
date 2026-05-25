@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Sun, 24 May 2026 07:32:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 08:22:08 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,54 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月25日 道指新高后的假日复盘</title>
+      <description>5月25日 道指新高后的假日复盘
+
+📋 今日新闻速览：
+1. 5月25日为 Memorial Day，美股休市，本期基于5月22日收盘做假日前复盘。
+2. 标普500上周五上涨0.4%，道指上涨0.6%并创收盘新高，纳指上涨0.2%。
+3. Russell 2000上涨0.9%，说明资金参与度较前期有所扩散。
+4. 10年期美债收益率约4.56%，较此前压力区降温，但30年期仍在5%上方。
+5. AI、半导体和数据中心基础设施仍是主线，但交易拥挤度需要继续观察。
+6. 财报强于预期的Ross Stores、Workday、Zoom帮助支撑市场情绪。
+7. 本周重点关注PCE、GDP修正值、耐用品订单、消费者信心和初请失业金。
+8. 软件、数据中心、电力链和半导体能否继续轮动，是判断行情质量的关键。
+
+⏱ 时长：7分49秒
+📰 新闻来源：AP、Reuters/Investing.com、Kiplinger、公开市场数据
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。内容仅作公开信息整理和市场观察，不构成投资建议。
+</description>
+      <pubDate>Mon, 25 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-25</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-25-audio.mp3" length="7509888" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月25日 道指新高后的假日复盘</itunes:title>
+      <itunes:summary>5月25日 道指新高后的假日复盘
+
+📋 今日新闻速览：
+1. 5月25日为 Memorial Day，美股休市，本期基于5月22日收盘做假日前复盘。
+2. 标普500上周五上涨0.4%，道指上涨0.6%并创收盘新高，纳指上涨0.2%。
+3. Russell 2000上涨0.9%，说明资金参与度较前期有所扩散。
+4. 10年期美债收益率约4.56%，较此前压力区降温，但30年期仍在5%上方。
+5. AI、半导体和数据中心基础设施仍是主线，但交易拥挤度需要继续观察。
+6. 财报强于预期的Ross Stores、Workday、Zoom帮助支撑市场情绪。
+7. 本周重点关注PCE、GDP修正值、耐用品订单、消费者信心和初请失业金。
+8. 软件、数据中心、电力链和半导体能否继续轮动，是判断行情质量的关键。
+
+⏱ 时长：7分49秒
+📰 新闻来源：AP、Reuters/Investing.com、Kiplinger、公开市场数据
+🎙 主播：Badstan | 🔊 音色：Grok EVE
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。内容仅作公开信息整理和市场观察，不构成投资建议。
+</itunes:summary>
+      <itunes:duration>00:07:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月24日 美股新高，AI重塑就业与比特币承压</title>
       <description>5月24日 美股新高，AI重塑就业与比特币承压
