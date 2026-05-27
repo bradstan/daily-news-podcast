@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 26 May 2026 07:32:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:49:01 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月27日 市场正在经历一场信任分家</title>
+      <description>5月27日 市场正在经历一场信任分家
+
+📋 本期主线速览：
+1. 本期主线：太空探索、电动车与AI工具成焦点，SpaceX IPO和NASA月球基地计划预示科技投资新方向，社会公平讨论升温。
+2. 信号：NASA公布月球南极基地三阶段路线图，标志人类重返月球计划进入具体实施阶段。
+3. 信号：SpaceX提交IPO申请，估值目标2万亿美元，或成美股史上最大规模上市，重塑航天产业格局。
+4. 信号：法拉利首款电动车Luce设计曝光，风阻系数0.254，低于Model Y但高于Model S，设计美学与空气动力学平衡。
+5. 拐点：法拉利Lce因设计争议市场表现，反映传统超跑品牌电动化转型面临市场审美与性能双重考验。
+6. 值得盯的变量：Google Flow庆祝Gemini Omni上线一周，展示7种能力，多模态AI工具在内容创作领域应用加速。
+7. 值得盯的变量：特斯拉与SpaceX合作传闻升温，可能推动航天与电动车技术协同，值得关注后续官方动态。
+8. 宏观变量：陕西农民回忆1995年负担手册，对比当前养老金，社会公平议题引发对农村经济政策的关注。
+
+⏱ 时长：4分48秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 27 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-27</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-27-audio.mp3" length="2304597" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月27日 市场正在经历一场信任分家</itunes:title>
+      <itunes:summary>5月27日 市场正在经历一场信任分家
+
+📋 本期主线速览：
+1. 本期主线：太空探索、电动车与AI工具成焦点，SpaceX IPO和NASA月球基地计划预示科技投资新方向，社会公平讨论升温。
+2. 信号：NASA公布月球南极基地三阶段路线图，标志人类重返月球计划进入具体实施阶段。
+3. 信号：SpaceX提交IPO申请，估值目标2万亿美元，或成美股史上最大规模上市，重塑航天产业格局。
+4. 信号：法拉利首款电动车Luce设计曝光，风阻系数0.254，低于Model Y但高于Model S，设计美学与空气动力学平衡。
+5. 拐点：法拉利Lce因设计争议市场表现，反映传统超跑品牌电动化转型面临市场审美与性能双重考验。
+6. 值得盯的变量：Google Flow庆祝Gemini Omni上线一周，展示7种能力，多模态AI工具在内容创作领域应用加速。
+7. 值得盯的变量：特斯拉与SpaceX合作传闻升温，可能推动航天与电动车技术协同，值得关注后续官方动态。
+8. 宏观变量：陕西农民回忆1995年负担手册，对比当前养老金，社会公平议题引发对农村经济政策的关注。
+
+⏱ 时长：4分48秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月26日 AI智能体正在替代人类员工</title>
       <description>5月26日 AI智能体正在替代人类员工
