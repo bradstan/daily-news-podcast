@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Thu, 28 May 2026 09:37:08 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:32:36 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月29日 AI从讲故事进入交作业阶段</title>
+      <description>5月29日 AI从讲故事进入交作业阶段
+
+📋 本期主线速览：
+1. 本周AI竞赛持续白热化，Anthropic发布Claude Opus 4.8抢占编码能力高地，但行业技术迭代与安全争议同步升温。
+2. 信号：Anthropic推出Claude Opus 4.8，在编程基准测试中登顶，并引入动态工作流功能，强化多代理协作能力。
+3. 信号：马斯克展示Cybercab从GigaTexas工厂自动驾驶驶出，暗示特斯拉全自动驾驶技术进入量产验证阶段。
+4. 信号：GeoSpy AI（现名Raven）能从Zoom截图快速定位地址，引发对AI隐私侵犯能力的关注。
+5. 拐点：Claude Opus 4.8强调“更诚实地评估自身进度”，标志AI厂商从追求性能转向透明度管理。
+6. 值得盯的变量：Anthropic的编码优势能否转化为企业用户市场份额，OpenAI或谷歌是否会快速跟进。
+7. 值得盯的变量：Cybercab量产时间表是否受监管审批影响，特斯拉需解决自动驾驶公共信任问题。
+8. 值得盯的变量：AI定位工具的法律边界讨论可能加速，各国对地理隐私保护法规或将收紧。
+
+⏱ 时长：6分44秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 29 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-29</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-29-audio.mp3" length="3233820" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月29日 AI从讲故事进入交作业阶段</itunes:title>
+      <itunes:summary>5月29日 AI从讲故事进入交作业阶段
+
+📋 本期主线速览：
+1. 本周AI竞赛持续白热化，Anthropic发布Claude Opus 4.8抢占编码能力高地，但行业技术迭代与安全争议同步升温。
+2. 信号：Anthropic推出Claude Opus 4.8，在编程基准测试中登顶，并引入动态工作流功能，强化多代理协作能力。
+3. 信号：马斯克展示Cybercab从GigaTexas工厂自动驾驶驶出，暗示特斯拉全自动驾驶技术进入量产验证阶段。
+4. 信号：GeoSpy AI（现名Raven）能从Zoom截图快速定位地址，引发对AI隐私侵犯能力的关注。
+5. 拐点：Claude Opus 4.8强调“更诚实地评估自身进度”，标志AI厂商从追求性能转向透明度管理。
+6. 值得盯的变量：Anthropic的编码优势能否转化为企业用户市场份额，OpenAI或谷歌是否会快速跟进。
+7. 值得盯的变量：Cybercab量产时间表是否受监管审批影响，特斯拉需解决自动驾驶公共信任问题。
+8. 值得盯的变量：AI定位工具的法律边界讨论可能加速，各国对地理隐私保护法规或将收紧。
+
+⏱ 时长：6分44秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:06:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月28日 AI资金轮动，新王取代旧王</title>
       <description>5月28日 AI资金轮动，新王取代旧王
