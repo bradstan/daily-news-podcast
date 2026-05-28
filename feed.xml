@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Wed, 27 May 2026 21:49:01 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:37:08 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>5月28日 AI资金轮动，新王取代旧王</title>
+      <description>5月28日 AI资金轮动，新王取代旧王
+
+📋 本期主线速览：
+1. 本期主线：科技巨头跨界整合与AI工具化加速，市场关注点转向应用落地而非概念炒作。
+2. 信号：马斯克探讨特斯拉与SpaceX合并并计划大规模IPO，显示其资源整合意图。
+3. 拐点：Unusual Whales推出MCP服务器，让Claude直接接入股市数据，AI交易工具门槛骤降。
+4. 信号：Grok Imagine提升图像转视频的唇同步和音频质量，AI视频生成更趋实用。
+5. 值得盯的变量：Aschenbrenner基金披露持有Nebius 5.6%股份，市场表现创新高，需观察AI基础设施投资动向。
+6. 信号：光子学股票因获利回吐大幅下跌，短期波动不影响长期技术前景。
+7. 值得盯的变量：英语学习课程用AI优化内容，850词基础法获认可，教育AI应用模式值得关注。
+8. 信号：Tristan Thompson提及机器人领域有良好论点，暗示行业新机会。
+
+⏱ 时长：5分47秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Thu, 28 May 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-05-28</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-05-28-audio.mp3" length="2776578" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>5月28日 AI资金轮动，新王取代旧王</itunes:title>
+      <itunes:summary>5月28日 AI资金轮动，新王取代旧王
+
+📋 本期主线速览：
+1. 本期主线：科技巨头跨界整合与AI工具化加速，市场关注点转向应用落地而非概念炒作。
+2. 信号：马斯克探讨特斯拉与SpaceX合并并计划大规模IPO，显示其资源整合意图。
+3. 拐点：Unusual Whales推出MCP服务器，让Claude直接接入股市数据，AI交易工具门槛骤降。
+4. 信号：Grok Imagine提升图像转视频的唇同步和音频质量，AI视频生成更趋实用。
+5. 值得盯的变量：Aschenbrenner基金披露持有Nebius 5.6%股份，市场表现创新高，需观察AI基础设施投资动向。
+6. 信号：光子学股票因获利回吐大幅下跌，短期波动不影响长期技术前景。
+7. 值得盯的变量：英语学习课程用AI优化内容，850词基础法获认可，教育AI应用模式值得关注。
+8. 信号：Tristan Thompson提及机器人领域有良好论点，暗示行业新机会。
+
+⏱ 时长：5分47秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260518.jpg" />
+    </item>
     <item>
       <title>5月27日 市场正在经历一场信任分家</title>
       <description>5月27日 市场正在经历一场信任分家
