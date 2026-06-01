@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Mon, 01 Jun 2026 10:54:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:31:36 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-02</title>
+      <description>badstan每日经济早报-2026-06-02
+
+📋 本期主线速览：
+1. 本期主线：科技巨头密集融资与AI硬件落地加速，同时中美债务逻辑差异引发市场关注。
+2. 信号：Anthropic秘密提交IPO文件，AI赛道资本化进入新阶段。
+3. 拐点：Alphabet宣布800亿美元股权融资，全力押注AI扩张，资金流向信号明确。
+4. 值得盯的变量：NVIDIA推出RTX Spark超级芯片，个人AI代理和创作者工作流进入轻薄本时代。
+5. 值得盯的变量：SpaceX更新IPO招股书，锁定条款和增长细节曝光，太空商业融资再升温。
+6. 信号：特斯拉Model 3车主300英尺坠崖生还，安全性能引发舆论关注。
+7. 值得盯的变量：中国个人债务无重组机制，与美日国家兜底模式形成结构性反差。
+8. 信号：社区讨论Codex是否应改名ChadGPT，反映AI产品命名与用户情绪博弈。
+
+⏱ 时长：5分39秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Tue, 02 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-02</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-02-audio.mp3" length="2717769" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-02</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-02
+
+📋 本期主线速览：
+1. 本期主线：科技巨头密集融资与AI硬件落地加速，同时中美债务逻辑差异引发市场关注。
+2. 信号：Anthropic秘密提交IPO文件，AI赛道资本化进入新阶段。
+3. 拐点：Alphabet宣布800亿美元股权融资，全力押注AI扩张，资金流向信号明确。
+4. 值得盯的变量：NVIDIA推出RTX Spark超级芯片，个人AI代理和创作者工作流进入轻薄本时代。
+5. 值得盯的变量：SpaceX更新IPO招股书，锁定条款和增长细节曝光，太空商业融资再升温。
+6. 信号：特斯拉Model 3车主300英尺坠崖生还，安全性能引发舆论关注。
+7. 值得盯的变量：中国个人债务无重组机制，与美日国家兜底模式形成结构性反差。
+8. 信号：社区讨论Codex是否应改名ChadGPT，反映AI产品命名与用户情绪博弈。
+
+⏱ 时长：5分39秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-01</title>
       <description>badstan每日经济早报-2026-06-01
