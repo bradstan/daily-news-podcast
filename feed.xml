@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Wed, 03 Jun 2026 12:30:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:31:30 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-04</title>
+      <description>badstan每日经济早报-2026-06-04
+
+📋 本期主线速览：
+1. 本周科技主线：AI从云端走向终端和基建，SpaceX与欧盟分别加码芯片和交通，无人驾驶与语音应用争夺落地场景。
+2. 信号：Starship Flight 12完成V3首秀成功，SpaceX在航天复用技术上再下一城，降低发射成本。
+3. 信号：Tesla将全无人Robotaxi服务扩展至奥斯汀全区，自动驾驶商业落地范围加速扩大。
+4. 信号：Grok发布Imagine 1.5图像模型预览，AI多模态能力持续升级，竞争白热化。
+5. 拐点：欧盟启动Chips Act 2.0，聚焦光子芯片以支撑AI数据中心，半导体自主化进入新阶段。
+6. 值得盯的变量：Google推出免费本地AI语音应用Gemma 4，无需订阅，可能颠覆现有语音助手市场格局。
+7. 值得盯的变量：Gopuff联合SpaceXAI推出AI购物助手Go，即时配送与AI结合，零售效率或迎变革。
+8. 值得盯的变量：西雅图Link轻轨因司机误入高架轨道停运，自动驾驶安全与人工失误的对比再受关注。
+
+⏱ 时长：4分57秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Thu, 04 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-04</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-04-audio.mp3" length="2377794" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-04</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-04
+
+📋 本期主线速览：
+1. 本周科技主线：AI从云端走向终端和基建，SpaceX与欧盟分别加码芯片和交通，无人驾驶与语音应用争夺落地场景。
+2. 信号：Starship Flight 12完成V3首秀成功，SpaceX在航天复用技术上再下一城，降低发射成本。
+3. 信号：Tesla将全无人Robotaxi服务扩展至奥斯汀全区，自动驾驶商业落地范围加速扩大。
+4. 信号：Grok发布Imagine 1.5图像模型预览，AI多模态能力持续升级，竞争白热化。
+5. 拐点：欧盟启动Chips Act 2.0，聚焦光子芯片以支撑AI数据中心，半导体自主化进入新阶段。
+6. 值得盯的变量：Google推出免费本地AI语音应用Gemma 4，无需订阅，可能颠覆现有语音助手市场格局。
+7. 值得盯的变量：Gopuff联合SpaceXAI推出AI购物助手Go，即时配送与AI结合，零售效率或迎变革。
+8. 值得盯的变量：西雅图Link轻轨因司机误入高架轨道停运，自动驾驶安全与人工失误的对比再受关注。
+
+⏱ 时长：4分57秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-03</title>
       <description>badstan每日经济早报-2026-06-03
