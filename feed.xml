@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 02 Jun 2026 07:31:36 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:30:13 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-03</title>
+      <description>badstan每日经济早报-2026-06-03
+
+📋 本期主线速览：
+1. 本期主线：科技与资本市场的交叉点出现新信号，SpaceX计划IPO、AI工具平民化与半导体产业变革成为焦点。
+2. 信号：SpaceX启动史上最大规模IPO，估值达1.75万亿美元，标志商业航天进入资本化新阶段。
+3. 拐点：OpenAI的Codex推出无代码建站工具，AI应用门槛降低，可能重塑网站开发市场格局。
+4. 值得盯的变量：Sivers半导体受GlobalFoundries合作推动，市场表现飙升60%，预示AI光子学可能成为硬件新赛道。
+5. 值得盯的变量：Nous Research发布Hermes桌面应用，本地AI代理软件化，或推动隐私计算与离线AI应用。
+6. 值得盯的变量：X-FAB被类比早期TSEM，获英伟达和诺基亚验证，欧洲光子学供应链建设加速。
+7. 信号：曼联转会风波反映顶级球员对欧冠资格的要求，俱乐部重建挑战加剧。
+8. 值得盯的变量：FOX Sports预热2026世界杯揭幕战，体育赛事转播权竞争与媒体科技融合值得关注。
+
+⏱ 时长：5分44秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 03 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-03</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-03-audio.mp3" length="2756463" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-03</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-03
+
+📋 本期主线速览：
+1. 本期主线：科技与资本市场的交叉点出现新信号，SpaceX计划IPO、AI工具平民化与半导体产业变革成为焦点。
+2. 信号：SpaceX启动史上最大规模IPO，估值达1.75万亿美元，标志商业航天进入资本化新阶段。
+3. 拐点：OpenAI的Codex推出无代码建站工具，AI应用门槛降低，可能重塑网站开发市场格局。
+4. 值得盯的变量：Sivers半导体受GlobalFoundries合作推动，市场表现飙升60%，预示AI光子学可能成为硬件新赛道。
+5. 值得盯的变量：Nous Research发布Hermes桌面应用，本地AI代理软件化，或推动隐私计算与离线AI应用。
+6. 值得盯的变量：X-FAB被类比早期TSEM，获英伟达和诺基亚验证，欧洲光子学供应链建设加速。
+7. 信号：曼联转会风波反映顶级球员对欧冠资格的要求，俱乐部重建挑战加剧。
+8. 值得盯的变量：FOX Sports预热2026世界杯揭幕战，体育赛事转播权竞争与媒体科技融合值得关注。
+
+⏱ 时长：5分44秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-02</title>
       <description>badstan每日经济早报-2026-06-02
