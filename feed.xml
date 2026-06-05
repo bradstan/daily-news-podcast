@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Fri, 05 Jun 2026 07:31:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:31:33 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-06</title>
+      <description>badstan每日经济早报-2026-06-06
+
+📋 本期主线速览：
+1. 本期主线：美国就业数据意外走弱，市场对降息预期迅速降温，引发科技股与AI板块剧烈调整，但SpaceX与Google的巨额算力协议显示AI基础设施需求依然强劲。
+2. 信号：美国就业数据超预期疲软，美股单日蒸发1.75万亿美元，降息预期被大幅压缩，市场重新评估经济放缓风险。
+3. 拐点：SpaceX与Google签署月费9.2亿美元的云计算协议，从2026年10月持续至2029年6月，标志着商业航天与AI算力深度融合。
+4. 值得盯的变量：特斯拉自动驾驶系统14.3.3的决策逻辑引发争议，需关注其后续对监管和消费者信任的影响。
+5. 值得盯的变量：X平台新增社区笔记直接通知功能，用于纠正误导信息，可能改变平台内容治理的互动模式。
+6. 值得盯的变量：OpenAI修复导致用户账户被暂停的故障，显示AI服务稳定性仍是行业关键挑战。
+7. 信号：足球运动员转会案例中C罗的劝说故事，反映顶级运动员在职业决策中的个人影响力，但对金融市场影响有限。
+
+⏱ 时长：5分6秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sat, 06 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-06</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-06-audio.mp3" length="2448642" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-06</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-06
+
+📋 本期主线速览：
+1. 本期主线：美国就业数据意外走弱，市场对降息预期迅速降温，引发科技股与AI板块剧烈调整，但SpaceX与Google的巨额算力协议显示AI基础设施需求依然强劲。
+2. 信号：美国就业数据超预期疲软，美股单日蒸发1.75万亿美元，降息预期被大幅压缩，市场重新评估经济放缓风险。
+3. 拐点：SpaceX与Google签署月费9.2亿美元的云计算协议，从2026年10月持续至2029年6月，标志着商业航天与AI算力深度融合。
+4. 值得盯的变量：特斯拉自动驾驶系统14.3.3的决策逻辑引发争议，需关注其后续对监管和消费者信任的影响。
+5. 值得盯的变量：X平台新增社区笔记直接通知功能，用于纠正误导信息，可能改变平台内容治理的互动模式。
+6. 值得盯的变量：OpenAI修复导致用户账户被暂停的故障，显示AI服务稳定性仍是行业关键挑战。
+7. 信号：足球运动员转会案例中C罗的劝说故事，反映顶级运动员在职业决策中的个人影响力，但对金融市场影响有限。
+
+⏱ 时长：5分6秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-05</title>
       <description>badstan每日经济早报-2026-06-05
