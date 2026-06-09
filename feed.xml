@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 10:06:16 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:31:32 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-10</title>
+      <description>badstan每日经济早报-2026-06-10
+
+📋 本期主线速览：
+1. 本期主线：AI模型能力竞赛加速，Claude Fable 5成新标杆，同时特斯拉自动驾驶在欧洲扩张，芯片订单落地，科技公司基本面信号分化明显。
+2. 信号：Anthropic发布Claude Fable 5，宣称是公开最强大AI模型，标志AI能力竞赛进入新阶段，值得关注其对行业格局的影响。
+3. 拐点：特斯拉FSD在丹麦获批，成为第四个欧洲国家，自动驾驶监管破冰，可能加速欧洲市场渗透。
+4. 值得盯的变量：Sivers半导体获820万美元卫星芯片订单，显示卫星通信芯片需求增长，关注航天供应链变化。
+5. 信号：马斯克发帖称“只有恢复英国才能拯救英国”，反映其政治立场，但非直接科技事件，可忽略。
+6. 噪音：仅20%交易者成功，属于市场情绪泛谈，不构成具体事件，无需深究。
+7. 噪音：2026世界杯预测，与财经科技无关，跳过。
+8. 噪音：直升机主旋翼相关推文，属于军事或事故信息，非本播客重点。
+
+⏱ 时长：5分27秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Wed, 10 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-10</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-10-audio.mp3" length="2618223" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-10</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-10
+
+📋 本期主线速览：
+1. 本期主线：AI模型能力竞赛加速，Claude Fable 5成新标杆，同时特斯拉自动驾驶在欧洲扩张，芯片订单落地，科技公司基本面信号分化明显。
+2. 信号：Anthropic发布Claude Fable 5，宣称是公开最强大AI模型，标志AI能力竞赛进入新阶段，值得关注其对行业格局的影响。
+3. 拐点：特斯拉FSD在丹麦获批，成为第四个欧洲国家，自动驾驶监管破冰，可能加速欧洲市场渗透。
+4. 值得盯的变量：Sivers半导体获820万美元卫星芯片订单，显示卫星通信芯片需求增长，关注航天供应链变化。
+5. 信号：马斯克发帖称“只有恢复英国才能拯救英国”，反映其政治立场，但非直接科技事件，可忽略。
+6. 噪音：仅20%交易者成功，属于市场情绪泛谈，不构成具体事件，无需深究。
+7. 噪音：2026世界杯预测，与财经科技无关，跳过。
+8. 噪音：直升机主旋翼相关推文，属于军事或事故信息，非本播客重点。
+
+⏱ 时长：5分27秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-09</title>
       <description>badstan每日经济早报-2026-06-09
