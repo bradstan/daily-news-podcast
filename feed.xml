@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 8 分钟，和我一起快速看懂最重要的经济、市场、科技与国际变量。先抓主线，再看噪音。每早一杯咖啡的时间，让认知先人一步。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 07:31:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:31:35 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-12</title>
+      <description>badstan每日经济早报-2026-06-12
+
+📋 本期主线速览：
+1. 本期主线：AI编程工具爆发、特斯拉技术更新、中国材料出口限制，共同指向科技行业结构性分化与供应链调整。
+2. 信号：Cursor AI用户从15人增至700人，超60%财富500强使用其平台，AI编程工具正加速企业级渗透。
+3. 信号：特斯拉部署FSD v14.3.4，为Cybertruck增加智能召唤功能，自动驾驶技术向新车型扩展。
+4. 拐点：中国对磷化铟等材料实施出口管制，可能延迟AI数据中心建设，全球半导体供应链面临新变量。
+5. 拐点：SpaceX IPO价格定为每股135美元，标志太空经济进入公开市场，值得盯后续定价和认购热度。
+6. 值得盯的变量：X平台推出Big Charts功能，简化股票和加密货币分享，社交与金融数据融合趋势增强。
+7. 值得盯的变量：世界杯期间首次引入赛前广告，体育赛事商业化模式或成新增长点。
+8. 值得盯的变量：世界杯开幕式表演由Shakira和Burna Boy领衔，娱乐与体育跨界合作持续吸引流量。
+
+⏱ 时长：5分21秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 12 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-12</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-12-audio.mp3" length="2574210" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-12</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-12
+
+📋 本期主线速览：
+1. 本期主线：AI编程工具爆发、特斯拉技术更新、中国材料出口限制，共同指向科技行业结构性分化与供应链调整。
+2. 信号：Cursor AI用户从15人增至700人，超60%财富500强使用其平台，AI编程工具正加速企业级渗透。
+3. 信号：特斯拉部署FSD v14.3.4，为Cybertruck增加智能召唤功能，自动驾驶技术向新车型扩展。
+4. 拐点：中国对磷化铟等材料实施出口管制，可能延迟AI数据中心建设，全球半导体供应链面临新变量。
+5. 拐点：SpaceX IPO价格定为每股135美元，标志太空经济进入公开市场，值得盯后续定价和认购热度。
+6. 值得盯的变量：X平台推出Big Charts功能，简化股票和加密货币分享，社交与金融数据融合趋势增强。
+7. 值得盯的变量：世界杯期间首次引入赛前广告，体育赛事商业化模式或成新增长点。
+8. 值得盯的变量：世界杯开幕式表演由Shakira和Burna Boy领衔，娱乐与体育跨界合作持续吸引流量。
+
+⏱ 时长：5分21秒
+📰 新闻来源：X Timeline + Trending
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-11</title>
       <description>badstan每日经济早报-2026-06-11
