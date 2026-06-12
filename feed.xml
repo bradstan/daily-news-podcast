@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天 12 到 15 分钟，快速跟上美股、AI产业链、科技巨头与关键宏观变量。资讯是主体，分析是调味，宁缺毋滥。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 01:44:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 07:34:13 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -30,41 +30,39 @@
       <description>badstan每日经济早报-2026-06-13
 
 📋 本期主线速览：
-1. 本期主线：AI算力需求激增推动AWS自研芯片升级，但数据中心建设遭遇全球抗议，行业扩张面临技术与社会的双重拐点。
-2. 信号：AWS推出Graviton5芯片驱动的EC2 M9g实例，算力较前代提升25%，自研芯片路线加速，降低对Intel/AMD依赖。
-3. 拐点：今年已有价值1300亿美元的数据中心项目因抗议受阻，社区对AI基建的“政治权力”觉醒，可能改变选址与审批节奏。
-4. 值得盯的变量：AI数据中心虽整体水耗占比小，但局部影响被放大，水资源紧张地区或成新监管焦点。
-5. 信号：Google起诉中国黑客组织“Outsider Enterprise”，其用AI发送250万条诈骗短信，AI滥用风险从理论转向执法事件。
-6. 值得盯的变量：美联储6月24日公布银行压力测试结果，若AI相关信贷风险被纳入评估，可能影响科技行业融资环境。
-7. 拐点：科技巨头从技术竞赛转向应对AI负面效应，合规成本与公众信任成为新竞争维度。
+1. 本期主线：AI应用加速落地，但内部管理问题浮现，同时基础设施升级与宏观压力并存，市场关注点从技术突破转向实际落地效率。
+2. 信号：OpenAI推出AI学院课程，推动AI技能普及和代理应用，表明行业重心从研发转向规模化部署。
+3. 拐点：Preply结合AI与人类导师，展示AI在教育领域提升个性化学习的实际价值，验证人机协作模式。
+4. 值得盯的变量：AWS发布Graviton5处理器，性能提升25%，云计算基础设施升级可能带动AI成本下降。
+5. 值得盯的变量：Meta AI部门员工称工作环境压抑，6500人团队或生变，内部管理问题可能影响产品进度。
+6. 值得盯的变量：美联储将于6月24日发布年度银行压力测试结果，市场关注其对金融稳定和利率政策的信号。
 
-⏱ 时长：12分9秒
-📰 新闻来源：AWS Blog, Ars Technica, Federal Reserve, TechCrunch
+⏱ 时长：12分8秒
+📰 新闻来源：AWS Blog, Federal Reserve, OpenAI, TechCrunch
 🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sat, 13 Jun 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-06-13</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-13-audio.mp3" length="6778101" type="audio/mpeg" />
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-13-audio.mp3" length="6681669" type="audio/mpeg" />
       <itunes:author>Badstan</itunes:author>
       <itunes:title>badstan每日经济早报-2026-06-13</itunes:title>
       <itunes:summary>badstan每日经济早报-2026-06-13
 
 📋 本期主线速览：
-1. 本期主线：AI算力需求激增推动AWS自研芯片升级，但数据中心建设遭遇全球抗议，行业扩张面临技术与社会的双重拐点。
-2. 信号：AWS推出Graviton5芯片驱动的EC2 M9g实例，算力较前代提升25%，自研芯片路线加速，降低对Intel/AMD依赖。
-3. 拐点：今年已有价值1300亿美元的数据中心项目因抗议受阻，社区对AI基建的“政治权力”觉醒，可能改变选址与审批节奏。
-4. 值得盯的变量：AI数据中心虽整体水耗占比小，但局部影响被放大，水资源紧张地区或成新监管焦点。
-5. 信号：Google起诉中国黑客组织“Outsider Enterprise”，其用AI发送250万条诈骗短信，AI滥用风险从理论转向执法事件。
-6. 值得盯的变量：美联储6月24日公布银行压力测试结果，若AI相关信贷风险被纳入评估，可能影响科技行业融资环境。
-7. 拐点：科技巨头从技术竞赛转向应对AI负面效应，合规成本与公众信任成为新竞争维度。
+1. 本期主线：AI应用加速落地，但内部管理问题浮现，同时基础设施升级与宏观压力并存，市场关注点从技术突破转向实际落地效率。
+2. 信号：OpenAI推出AI学院课程，推动AI技能普及和代理应用，表明行业重心从研发转向规模化部署。
+3. 拐点：Preply结合AI与人类导师，展示AI在教育领域提升个性化学习的实际价值，验证人机协作模式。
+4. 值得盯的变量：AWS发布Graviton5处理器，性能提升25%，云计算基础设施升级可能带动AI成本下降。
+5. 值得盯的变量：Meta AI部门员工称工作环境压抑，6500人团队或生变，内部管理问题可能影响产品进度。
+6. 值得盯的变量：美联储将于6月24日发布年度银行压力测试结果，市场关注其对金融稳定和利率政策的信号。
 
-⏱ 时长：12分9秒
-📰 新闻来源：AWS Blog, Ars Technica, Federal Reserve, TechCrunch
+⏱ 时长：12分8秒
+📰 新闻来源：AWS Blog, Federal Reserve, OpenAI, TechCrunch
 🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:duration>00:12:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
