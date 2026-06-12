@@ -6,8 +6,8 @@
     <atom:link href="https://bradstan.github.io/daily-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
-    <description>每天 12 到 15 分钟，快速跟上美股、AI、科技巨头与关键宏观变量。先说事实，再讲关联，帮个人投资者抓住真正值得盯的变化。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 23:32:16 +0800</lastBuildDate>
+    <description>每天 12 到 15 分钟，快速跟上美股、AI产业链、科技巨头与关键宏观变量。资讯是主体，分析是调味，宁缺毋滥。</description>
+    <lastBuildDate>Sat, 13 Jun 2026 01:44:20 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -15,7 +15,7 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Badstan</itunes:author>
-    <itunes:summary>每天 12 到 15 分钟，快速跟上美股、AI、科技巨头与关键宏观变量。先说事实，再讲关联，帮个人投资者抓住真正值得盯的变化。</itunes:summary>
+    <itunes:summary>每天 12 到 15 分钟，快速跟上美股、AI产业链、科技巨头与关键宏观变量。资讯是主体，分析是调味，宁缺毋滥。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
     <itunes:owner>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-06-13</title>
+      <description>badstan每日经济早报-2026-06-13
+
+📋 本期主线速览：
+1. 本期主线：AI算力需求激增推动AWS自研芯片升级，但数据中心建设遭遇全球抗议，行业扩张面临技术与社会的双重拐点。
+2. 信号：AWS推出Graviton5芯片驱动的EC2 M9g实例，算力较前代提升25%，自研芯片路线加速，降低对Intel/AMD依赖。
+3. 拐点：今年已有价值1300亿美元的数据中心项目因抗议受阻，社区对AI基建的“政治权力”觉醒，可能改变选址与审批节奏。
+4. 值得盯的变量：AI数据中心虽整体水耗占比小，但局部影响被放大，水资源紧张地区或成新监管焦点。
+5. 信号：Google起诉中国黑客组织“Outsider Enterprise”，其用AI发送250万条诈骗短信，AI滥用风险从理论转向执法事件。
+6. 值得盯的变量：美联储6月24日公布银行压力测试结果，若AI相关信贷风险被纳入评估，可能影响科技行业融资环境。
+7. 拐点：科技巨头从技术竞赛转向应对AI负面效应，合规成本与公众信任成为新竞争维度。
+
+⏱ 时长：12分9秒
+📰 新闻来源：AWS Blog, Ars Technica, Federal Reserve, TechCrunch
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sat, 13 Jun 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-06-13</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-13-audio.mp3" length="6778101" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-06-13</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-06-13
+
+📋 本期主线速览：
+1. 本期主线：AI算力需求激增推动AWS自研芯片升级，但数据中心建设遭遇全球抗议，行业扩张面临技术与社会的双重拐点。
+2. 信号：AWS推出Graviton5芯片驱动的EC2 M9g实例，算力较前代提升25%，自研芯片路线加速，降低对Intel/AMD依赖。
+3. 拐点：今年已有价值1300亿美元的数据中心项目因抗议受阻，社区对AI基建的“政治权力”觉醒，可能改变选址与审批节奏。
+4. 值得盯的变量：AI数据中心虽整体水耗占比小，但局部影响被放大，水资源紧张地区或成新监管焦点。
+5. 信号：Google起诉中国黑客组织“Outsider Enterprise”，其用AI发送250万条诈骗短信，AI滥用风险从理论转向执法事件。
+6. 值得盯的变量：美联储6月24日公布银行压力测试结果，若AI相关信贷风险被纳入评估，可能影响科技行业融资环境。
+7. 拐点：科技巨头从技术竞赛转向应对AI负面效应，合规成本与公众信任成为新竞争维度。
+
+⏱ 时长：12分9秒
+📰 新闻来源：AWS Blog, Ars Technica, Federal Reserve, TechCrunch
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-12</title>
       <description>badstan每日经济早报-2026-06-12
