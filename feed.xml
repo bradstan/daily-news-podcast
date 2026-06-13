@@ -6,8 +6,8 @@
     <atom:link href="https://bradstan.github.io/daily-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
-    <description>每天 12 到 15 分钟，快速跟上美股、AI产业链、科技巨头与关键宏观变量。资讯是主体，分析是调味，宁缺毋滥。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 07:34:13 +0800</lastBuildDate>
+    <description>每天快速跟上AI、科技公司、数据中心产业链与上一交易日美股市场状态。</description>
+    <lastBuildDate>Sat, 13 Jun 2026 22:05:24 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -15,7 +15,7 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Badstan</itunes:author>
-    <itunes:summary>每天 12 到 15 分钟，快速跟上美股、AI产业链、科技巨头与关键宏观变量。资讯是主体，分析是调味，宁缺毋滥。</itunes:summary>
+    <itunes:summary>每天快速跟上AI、科技公司、数据中心产业链与上一交易日美股市场状态。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
     <itunes:owner>
@@ -30,39 +30,41 @@
       <description>badstan每日经济早报-2026-06-13
 
 📋 本期主线速览：
-1. 本期主线：AI应用加速落地，但内部管理问题浮现，同时基础设施升级与宏观压力并存，市场关注点从技术突破转向实际落地效率。
-2. 信号：OpenAI推出AI学院课程，推动AI技能普及和代理应用，表明行业重心从研发转向规模化部署。
-3. 拐点：Preply结合AI与人类导师，展示AI在教育领域提升个性化学习的实际价值，验证人机协作模式。
-4. 值得盯的变量：AWS发布Graviton5处理器，性能提升25%，云计算基础设施升级可能带动AI成本下降。
-5. 值得盯的变量：Meta AI部门员工称工作环境压抑，6500人团队或生变，内部管理问题可能影响产品进度。
-6. 值得盯的变量：美联储将于6月24日发布年度银行压力测试结果，市场关注其对金融稳定和利率政策的信号。
+1. 本期主线：AI基础设施竞争从算力规模转向代理型AI效率，NVIDIA和AWS各自推出新硬件抢占这一赛道。
+2. 信号：NVIDIA Blackwell Ultra NVL72在首个代理型AI基准测试AgentPerf中，每兆瓦可运行20倍更多代理，性能领先。
+3. 信号：AWS发布基于自研Graviton5处理器的EC2 M9g实例，计算性能比上一代提升25%，强调能效最优。
+4. 拐点：代理型AI基准测试出现，意味着行业开始用代理效率而非单纯算力衡量硬件价值。
+5. 值得盯的变量：AWS Graviton5能否在AI推理场景中挑战NVIDIA的GPU主导地位。
+6. 值得盯的变量：语言学习平台Preply结合OpenAI生成个性化课程摘要，AI垂直应用落地加速。
+7. 信号：Preply模式展示AI与人类导师协同的可行性，教育科技领域人机交互成新趋势。
 
-⏱ 时长：12分8秒
-📰 新闻来源：AWS Blog, Federal Reserve, OpenAI, TechCrunch
+⏱ 时长：5分46秒
+📰 新闻来源：AWS Blog, NVIDIA Blog, OpenAI, TechCrunch
 🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
       <pubDate>Sat, 13 Jun 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-06-13</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-13-audio.mp3" length="6681669" type="audio/mpeg" />
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-13-audio.mp3" length="2775381" type="audio/mpeg" />
       <itunes:author>Badstan</itunes:author>
       <itunes:title>badstan每日经济早报-2026-06-13</itunes:title>
       <itunes:summary>badstan每日经济早报-2026-06-13
 
 📋 本期主线速览：
-1. 本期主线：AI应用加速落地，但内部管理问题浮现，同时基础设施升级与宏观压力并存，市场关注点从技术突破转向实际落地效率。
-2. 信号：OpenAI推出AI学院课程，推动AI技能普及和代理应用，表明行业重心从研发转向规模化部署。
-3. 拐点：Preply结合AI与人类导师，展示AI在教育领域提升个性化学习的实际价值，验证人机协作模式。
-4. 值得盯的变量：AWS发布Graviton5处理器，性能提升25%，云计算基础设施升级可能带动AI成本下降。
-5. 值得盯的变量：Meta AI部门员工称工作环境压抑，6500人团队或生变，内部管理问题可能影响产品进度。
-6. 值得盯的变量：美联储将于6月24日发布年度银行压力测试结果，市场关注其对金融稳定和利率政策的信号。
+1. 本期主线：AI基础设施竞争从算力规模转向代理型AI效率，NVIDIA和AWS各自推出新硬件抢占这一赛道。
+2. 信号：NVIDIA Blackwell Ultra NVL72在首个代理型AI基准测试AgentPerf中，每兆瓦可运行20倍更多代理，性能领先。
+3. 信号：AWS发布基于自研Graviton5处理器的EC2 M9g实例，计算性能比上一代提升25%，强调能效最优。
+4. 拐点：代理型AI基准测试出现，意味着行业开始用代理效率而非单纯算力衡量硬件价值。
+5. 值得盯的变量：AWS Graviton5能否在AI推理场景中挑战NVIDIA的GPU主导地位。
+6. 值得盯的变量：语言学习平台Preply结合OpenAI生成个性化课程摘要，AI垂直应用落地加速。
+7. 信号：Preply模式展示AI与人类导师协同的可行性，教育科技领域人机交互成新趋势。
 
-⏱ 时长：12分8秒
-📰 新闻来源：AWS Blog, Federal Reserve, OpenAI, TechCrunch
+⏱ 时长：5分46秒
+📰 新闻来源：AWS Blog, NVIDIA Blog, OpenAI, TechCrunch
 🎙 主播：Badstan | 🔊 音色：小荷 2.0
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:duration>00:05:46</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
