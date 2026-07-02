@@ -6,8 +6,8 @@
     <atom:link href="https://bradstan.github.io/daily-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
-    <description>每天快速跟上AI、科技公司、数据中心产业链与上一交易日美股市场状态。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 22:05:24 +0800</lastBuildDate>
+    <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
+    <lastBuildDate>Thu, 02 Jul 2026 10:45:13 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -15,7 +15,7 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Badstan</itunes:author>
-    <itunes:summary>每天快速跟上AI、科技公司、数据中心产业链与上一交易日美股市场状态。</itunes:summary>
+    <itunes:summary>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
     <itunes:owner>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-02</title>
+      <description>badstan每日经济早报-2026-07-02
+
+📋 本期主线速览：
+1. 本期主线：AI芯片自主化加速，但全球半导体市场出现剧烈分化，腾讯与CXMT的存储交易和三星SK海力士的市场表现形成鲜明对比。
+2. 信号：腾讯与CXMT签署29亿美元存储协议，中国在AI芯片自给自足上迈出关键一步，为CXMT的里程碑式IPO铺路。
+3. 信号：NVIDIA与合作伙伴投资美国本土制造和供应链，旨在强化AI基础设施的国内生产能力，应对地缘政治风险。
+4. 值得盯的变量：三星和SK海力士市场表现单日暴跌超7%，全球芯片抛售潮蔓延至亚洲，需关注存储芯片需求是否见顶。
+5. 值得盯的变量：蚂蚁集团18个月内完成十余笔人形机器人交易，领投零次方5亿元融资，显示中国科技巨头正押注下一代AI硬件。
+6. 拐点：AWS推出Graviton5处理器实例，性能较前代提升25%，云厂商自研芯片加速，可能重塑服务器CPU市场格局。
+7. 值得盯的变量：Android与三星帮助B3企业安全扩展移动AI管理，企业级AI部署正从云端向移动端渗透。
+
+⏱ 时长：10分41秒
+📰 新闻来源：AWS Blog, CNBC Markets, Data Center Knowledge, Google Blog, NVIDIA Blog, Seeking Alpha, Tekedia
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Thu, 02 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-02</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-02-audio.mp3" length="5133750" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-02</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-02
+
+📋 本期主线速览：
+1. 本期主线：AI芯片自主化加速，但全球半导体市场出现剧烈分化，腾讯与CXMT的存储交易和三星SK海力士的市场表现形成鲜明对比。
+2. 信号：腾讯与CXMT签署29亿美元存储协议，中国在AI芯片自给自足上迈出关键一步，为CXMT的里程碑式IPO铺路。
+3. 信号：NVIDIA与合作伙伴投资美国本土制造和供应链，旨在强化AI基础设施的国内生产能力，应对地缘政治风险。
+4. 值得盯的变量：三星和SK海力士市场表现单日暴跌超7%，全球芯片抛售潮蔓延至亚洲，需关注存储芯片需求是否见顶。
+5. 值得盯的变量：蚂蚁集团18个月内完成十余笔人形机器人交易，领投零次方5亿元融资，显示中国科技巨头正押注下一代AI硬件。
+6. 拐点：AWS推出Graviton5处理器实例，性能较前代提升25%，云厂商自研芯片加速，可能重塑服务器CPU市场格局。
+7. 值得盯的变量：Android与三星帮助B3企业安全扩展移动AI管理，企业级AI部署正从云端向移动端渗透。
+
+⏱ 时长：10分41秒
+📰 新闻来源：AWS Blog, CNBC Markets, Data Center Knowledge, Google Blog, NVIDIA Blog, Seeking Alpha, Tekedia
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:10:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-06-13</title>
       <description>badstan每日经济早报-2026-06-13
