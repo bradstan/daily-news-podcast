@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 10:45:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:41:14 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-03</title>
+      <description>badstan每日经济早报-2026-07-03
+
+📋 本期主线速览：
+1. 本期主线：AI基础设施投资从单纯芯片竞赛，转向数据中心、内存、制造和终端应用的全链条布局，中美企业各自加速本土化。
+2. 信号：腾讯与长鑫存储签下29亿美元内存协议，中国在AI芯片自主化上迈出关键一步，为国产替代注入强心针。
+3. 信号：SK海力士批准294亿美元增发并计划纳斯达克ADR上市，全球AI内存巨头借资本市场融资扩张产能。
+4. 拐点：Firmus Tech融资5.05亿美元，计划2026年以55亿美元估值IPO数据中心，显示AI基础设施资产正从幕后走向公开市场。
+5. 值得盯的变量：NVIDIA宣布与美国伙伴共建本土制造、供应链和电网，AI产业回流美国将改变全球生产格局。
+6. 值得盯的变量：纽约教育界与谷歌共办AI峰会，AI从企业战场延伸到课堂，政策与人才储备成为长期竞争变量。
+7. 隐藏变量：B3交易所采用安卓提升AI生产力，金融行业对AI终端部署的需求正在规模化落地。
+
+⏱ 时长：8分9秒
+📰 新闻来源：AWS Blog, Google Blog, NVIDIA Blog, Tekedia, Yahoo Finance, tech-insider.org
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 03 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-03</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-03-audio.mp3" length="4516173" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-03</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-03
+
+📋 本期主线速览：
+1. 本期主线：AI基础设施投资从单纯芯片竞赛，转向数据中心、内存、制造和终端应用的全链条布局，中美企业各自加速本土化。
+2. 信号：腾讯与长鑫存储签下29亿美元内存协议，中国在AI芯片自主化上迈出关键一步，为国产替代注入强心针。
+3. 信号：SK海力士批准294亿美元增发并计划纳斯达克ADR上市，全球AI内存巨头借资本市场融资扩张产能。
+4. 拐点：Firmus Tech融资5.05亿美元，计划2026年以55亿美元估值IPO数据中心，显示AI基础设施资产正从幕后走向公开市场。
+5. 值得盯的变量：NVIDIA宣布与美国伙伴共建本土制造、供应链和电网，AI产业回流美国将改变全球生产格局。
+6. 值得盯的变量：纽约教育界与谷歌共办AI峰会，AI从企业战场延伸到课堂，政策与人才储备成为长期竞争变量。
+7. 隐藏变量：B3交易所采用安卓提升AI生产力，金融行业对AI终端部署的需求正在规模化落地。
+
+⏱ 时长：8分9秒
+📰 新闻来源：AWS Blog, Google Blog, NVIDIA Blog, Tekedia, Yahoo Finance, tech-insider.org
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:08:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-02</title>
       <description>badstan每日经济早报-2026-07-02
