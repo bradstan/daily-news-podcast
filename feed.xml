@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 07:31:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:31:55 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-09</title>
+      <description>badstan每日经济早报-2026-07-09
+
+📋 本期主线速览：
+1. 本期主线：AI行情继续从“模型能力竞赛”切向“基建兑现、能源成本、企业落地和资本回收”。
+2. OpenAI Stargate UK 被质疑执行基础薄弱，AI主权基建叙事需要看真实站点、电力和投资承诺。
+3. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+4. AI数据中心约束从GPU扩展到水资源、发电侧用水和地方许可，水电成本进入估值模型。
+5. 美国清洁电力PPA价格可能上行，低成本电力正在成为AI基础设施的核心竞争力。
+6. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+7. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+
+⏱ 时长：14分47秒
+📰 新闻来源：JARVIS Briefing
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Thu, 09 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-09</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-09-audio.mp3" length="7098387" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-09</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-09
+
+📋 本期主线速览：
+1. 本期主线：AI行情继续从“模型能力竞赛”切向“基建兑现、能源成本、企业落地和资本回收”。
+2. OpenAI Stargate UK 被质疑执行基础薄弱，AI主权基建叙事需要看真实站点、电力和投资承诺。
+3. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+4. AI数据中心约束从GPU扩展到水资源、发电侧用水和地方许可，水电成本进入估值模型。
+5. 美国清洁电力PPA价格可能上行，低成本电力正在成为AI基础设施的核心竞争力。
+6. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+7. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+
+⏱ 时长：14分47秒
+📰 新闻来源：JARVIS Briefing
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:14:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-08</title>
       <description>badstan每日经济早报-2026-07-08
