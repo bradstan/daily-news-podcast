@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 10:43:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:34:51 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-11</title>
+      <description>badstan每日经济早报-2026-07-11
+
+📋 本期主线速览：
+1. 本期主线：AI算力需求持续引爆芯片巨头的资本动作，同时OpenAI与微软的合作关系面临微妙调整，数据中心能源结构正出现新变量。
+2. 信号：SK海力士美股上市融资265亿美元，创美国史上最大外资IPO，市场表现首日涨13%，表明AI芯片投资热度不减。
+3. 信号：OpenAI确认GPT 5.6将作为微软Copilot 365的“首选模型”，在潜在分拆传闻中巩固双方合作基础。
+4. 拐点：OpenAI联合创始人Greg Brockman权力集中，在Fidji Simo因病离职后，为潜在IPO铺平管理层道路。
+5. 值得盯的变量：SK海力士与三星被敦促在美新建芯片工厂，可能改变全球AI存储供应链布局。
+6. 值得盯的变量：通用汽车转向钠离子电池为AI数据中心供电，传统车企跨界能源领域，或重塑数据中心能源结构。
+7. 值得盯的变量：AI数据中心建设动态持续更新，需关注能源效率、选址和电力供应瓶颈对行业扩张的制约。
+
+⏱ 时长：6分14秒
+📰 新闻来源：CNBC Markets, Financial Times, MSN, Midland Daily News, TechCrunch, TechCrunch AI, The Verge, WSJ Markets, Yahoo Finance
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sat, 11 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-11</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-11-audio.mp3" length="2994414" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-11</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-11
+
+📋 本期主线速览：
+1. 本期主线：AI算力需求持续引爆芯片巨头的资本动作，同时OpenAI与微软的合作关系面临微妙调整，数据中心能源结构正出现新变量。
+2. 信号：SK海力士美股上市融资265亿美元，创美国史上最大外资IPO，市场表现首日涨13%，表明AI芯片投资热度不减。
+3. 信号：OpenAI确认GPT 5.6将作为微软Copilot 365的“首选模型”，在潜在分拆传闻中巩固双方合作基础。
+4. 拐点：OpenAI联合创始人Greg Brockman权力集中，在Fidji Simo因病离职后，为潜在IPO铺平管理层道路。
+5. 值得盯的变量：SK海力士与三星被敦促在美新建芯片工厂，可能改变全球AI存储供应链布局。
+6. 值得盯的变量：通用汽车转向钠离子电池为AI数据中心供电，传统车企跨界能源领域，或重塑数据中心能源结构。
+7. 值得盯的变量：AI数据中心建设动态持续更新，需关注能源效率、选址和电力供应瓶颈对行业扩张的制约。
+
+⏱ 时长：6分14秒
+📰 新闻来源：CNBC Markets, Financial Times, MSN, Midland Daily News, TechCrunch, TechCrunch AI, The Verge, WSJ Markets, Yahoo Finance
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:06:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-10</title>
       <description>badstan每日经济早报-2026-07-10
