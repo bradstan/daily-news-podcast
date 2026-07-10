@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 07:31:55 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:31:08 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-07</title>
+      <description>badstan每日经济早报-2026-07-07
+
+📋 本期主线速览：
+1. 本期主线：AI巨头正从拼模型转向拼基础设施与生态，芯片、算力、资本运作和开源模型成为新竞争焦点。
+2. 信号：Perplexity计划采用Nvidia新款CPU，显示AI公司开始将定制芯片纳入算力架构，降低对通用GPU的依赖。
+3. 拐点：中国DeepSeek自研AI芯片，反映地缘技术脱钩下，中国AI企业加速硬件自主化，可能重塑全球芯片供应链。
+4. 值得盯的变量：前OpenAI研究员的对冲基金押注SK海力士美国IPO，表明资本正从纯AI模型转向半导体制造环节。
+5. 值得盯的变量：AI巨头向初创公司大量赠送免费算力，本质是争夺生态入口，可能加速行业整合并挤压独立云服务商。
+6. 值得盯的变量：Amazon发行250亿美元债券，微软调整AI模型策略，显示科技巨头正通过融资和架构优化为算力投资输血。
+7. 值得盯的变量：Nokia转攻AI数据中心设备，Meta发布新图像模型，表明传统通信商和社交平台都在争夺AI基建与内容生成的新市场。
+
+⏱ 时长：5分9秒
+📰 新闻来源：CNBC, Financial Times, Reuters, The Register, WSJ
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Tue, 07 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-07</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-07-audio.mp3" length="2472447" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-07</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-07
+
+📋 本期主线速览：
+1. 本期主线：AI巨头正从拼模型转向拼基础设施与生态，芯片、算力、资本运作和开源模型成为新竞争焦点。
+2. 信号：Perplexity计划采用Nvidia新款CPU，显示AI公司开始将定制芯片纳入算力架构，降低对通用GPU的依赖。
+3. 拐点：中国DeepSeek自研AI芯片，反映地缘技术脱钩下，中国AI企业加速硬件自主化，可能重塑全球芯片供应链。
+4. 值得盯的变量：前OpenAI研究员的对冲基金押注SK海力士美国IPO，表明资本正从纯AI模型转向半导体制造环节。
+5. 值得盯的变量：AI巨头向初创公司大量赠送免费算力，本质是争夺生态入口，可能加速行业整合并挤压独立云服务商。
+6. 值得盯的变量：Amazon发行250亿美元债券，微软调整AI模型策略，显示科技巨头正通过融资和架构优化为算力投资输血。
+7. 值得盯的变量：Nokia转攻AI数据中心设备，Meta发布新图像模型，表明传统通信商和社交平台都在争夺AI基建与内容生成的新市场。
+
+⏱ 时长：5分9秒
+📰 新闻来源：CNBC, Financial Times, Reuters, The Register, WSJ
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-09</title>
       <description>badstan每日经济早报-2026-07-09
@@ -109,50 +153,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:14:33</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-07</title>
-      <description>badstan每日经济早报-2026-07-07
-
-📋 本期主线速览：
-1. 本期主线：AI行情继续从“模型能力竞赛”切向“基建兑现、能源成本、企业落地和资本回收”。
-2. OpenAI Stargate UK 被质疑执行基础薄弱，AI主权基建叙事需要看真实站点、电力和投资承诺。
-3. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
-4. AI数据中心约束从GPU扩展到水资源、发电侧用水和地方许可，水电成本进入估值模型。
-5. 美国清洁电力PPA价格可能上行，低成本电力正在成为AI基础设施的核心竞争力。
-6. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
-7. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
-
-⏱ 时长：14分39秒
-📰 新闻来源：JARVIS Briefing
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Tue, 07 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-07</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-07-audio.mp3" length="7034643" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-07</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-07
-
-📋 本期主线速览：
-1. 本期主线：AI行情继续从“模型能力竞赛”切向“基建兑现、能源成本、企业落地和资本回收”。
-2. OpenAI Stargate UK 被质疑执行基础薄弱，AI主权基建叙事需要看真实站点、电力和投资承诺。
-3. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
-4. AI数据中心约束从GPU扩展到水资源、发电侧用水和地方许可，水电成本进入估值模型。
-5. 美国清洁电力PPA价格可能上行，低成本电力正在成为AI基础设施的核心竞争力。
-6. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
-7. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
-
-⏱ 时长：14分39秒
-📰 新闻来源：JARVIS Briefing
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:14:39</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
