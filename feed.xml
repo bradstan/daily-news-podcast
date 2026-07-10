@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 10:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:43:13 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,48 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-10</title>
+      <description>badstan每日经济早报-2026-07-10
+
+📋 本期主线速览：
+1. 本期主线：AI推动数据中心储能需求爆发，钠离子电池正从实验室走向大规模商用，成为能源存储领域新变量。
+2. 信号：ESS、GM、HiTHIUM等公司集中发布面向数据中心和电网的钠离子电池储能系统，技术落地加速。
+3. 拐点：钠离子电池成本优势显现，在数据中心等高耗能场景中开始替代传统锂电池，产业链趋于成熟。
+4. 值得盯的变量：CIBF 2026展会显示15家储能公司新品亮相，CORNER、Great Power、Pylontech等头部厂商竞争加剧。
+5. 值得盯的变量：微软将AI用于Windows安全更新，提前识别漏洞，预示科技巨头正将AI嵌入基础系统运维。
+6. 值得盯的变量：钠离子电池的模块化设计（如Bridge系统）降低部署门槛，可能改变数据中心备用电源市场格局。
+
+⏱ 时长：5分9秒
+📰 新闻来源：Business Wire, CleanTechnica, Energytrend, Engineering.com, Fortune, Medium, Semiconductor Engineering, The Verge, pv magazine USA
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Fri, 10 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-10</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-10-audio.mp3" length="2832981" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-10</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-10
+
+📋 本期主线速览：
+1. 本期主线：AI推动数据中心储能需求爆发，钠离子电池正从实验室走向大规模商用，成为能源存储领域新变量。
+2. 信号：ESS、GM、HiTHIUM等公司集中发布面向数据中心和电网的钠离子电池储能系统，技术落地加速。
+3. 拐点：钠离子电池成本优势显现，在数据中心等高耗能场景中开始替代传统锂电池，产业链趋于成熟。
+4. 值得盯的变量：CIBF 2026展会显示15家储能公司新品亮相，CORNER、Great Power、Pylontech等头部厂商竞争加剧。
+5. 值得盯的变量：微软将AI用于Windows安全更新，提前识别漏洞，预示科技巨头正将AI嵌入基础系统运维。
+6. 值得盯的变量：钠离子电池的模块化设计（如Bridge系统）降低部署门槛，可能改变数据中心备用电源市场格局。
+
+⏱ 时长：5分9秒
+📰 新闻来源：Business Wire, CleanTechnica, Energytrend, Engineering.com, Fortune, Medium, Semiconductor Engineering, The Verge, pv magazine USA
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-09</title>
       <description>badstan每日经济早报-2026-07-09
