@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天梳理AI产业链晨报：模型动态、数据中心、国产算力、内存、电力、核心公司和资金结构。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 07:34:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:33:44 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-12</title>
+      <description>badstan每日经济早报-2026-07-12
+
+📋 本期主线速览：
+1. 本周主线：AI 应用加速落地与行业洗牌并行，科技巨头在模型部署和健康等领域寻求新突破，但芯片市场周期波动显示繁荣背后仍有不确定性。
+2. 信号：Google Health 与高尔夫球手 Bryson DeChambeau 合作，将 Fitbit 数据驱动训练融入日常健康，显示 AI 向垂直场...
+3. 信号：Google 大规模推出 AlphaEvolve，解决云客户芯片设计、物流等难题，标志 AI 优化算法从实验室走向商业落地。
+4. 拐点：Meta 因用户反弹移除 Instagram 有争议的 AI 功能，表明公众对 AI 创作工具的控制权诉求成为产品迭代关键变量。
+5. 值得盯的变量：Dow 化工 CEO 交接，Jim Fitterling 任执行主席，Karen Carter 接任，可能预示公司战略重心调整。
+6. 值得盯的变量：NVIDIA Nemotron 3 Ultra 结合 LangChain 实现开源模型领先性能，低成本优势或冲击闭源模型市场格局。
+7. 值得盯的变量：FT 分析指出，尽管 AI 繁荣，内存芯片的景气周期未终结，市场对供需失衡的担忧可能影响硬件投资节奏。
+
+⏱ 时长：6分5秒
+📰 新闻来源：Financial Times, Google Blog, NVIDIA Blog, OpenAI, PR Newswire, TechCrunch AI, Yahoo Finance
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
+      <pubDate>Sun, 12 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-12</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-12-audio.mp3" length="2926266" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-12</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-12
+
+📋 本期主线速览：
+1. 本周主线：AI 应用加速落地与行业洗牌并行，科技巨头在模型部署和健康等领域寻求新突破，但芯片市场周期波动显示繁荣背后仍有不确定性。
+2. 信号：Google Health 与高尔夫球手 Bryson DeChambeau 合作，将 Fitbit 数据驱动训练融入日常健康，显示 AI 向垂直场...
+3. 信号：Google 大规模推出 AlphaEvolve，解决云客户芯片设计、物流等难题，标志 AI 优化算法从实验室走向商业落地。
+4. 拐点：Meta 因用户反弹移除 Instagram 有争议的 AI 功能，表明公众对 AI 创作工具的控制权诉求成为产品迭代关键变量。
+5. 值得盯的变量：Dow 化工 CEO 交接，Jim Fitterling 任执行主席，Karen Carter 接任，可能预示公司战略重心调整。
+6. 值得盯的变量：NVIDIA Nemotron 3 Ultra 结合 LangChain 实现开源模型领先性能，低成本优势或冲击闭源模型市场格局。
+7. 值得盯的变量：FT 分析指出，尽管 AI 繁荣，内存芯片的景气周期未终结，市场对供需失衡的担忧可能影响硬件投资节奏。
+
+⏱ 时长：6分5秒
+📰 新闻来源：Financial Times, Google Blog, NVIDIA Blog, OpenAI, PR Newswire, TechCrunch AI, Yahoo Finance
+🎙 主播：Badstan | 🔊 音色：小荷 2.0
+
+订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
+      <itunes:duration>00:06:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-11</title>
       <description>badstan每日经济早报-2026-07-11
