@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链和美股相关的重要新闻。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:32:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:58:20 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -32,7 +32,7 @@
 本期新闻：
 1. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
 
-⏱ 时长：5分49秒
+⏱ 时长：2分27秒
 新闻来源：
 - Fortune: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlAzNkZSMHBXdVRsZDlGT1lVY0hSMTdIOXFWakZWazdTYjdxNFNjRjV2Uy1ZblhmMGNZRURNeEp2eHVDWXBsRlVkazczazR1UUhhN19wUGtkTmNRaXZfbUhITExOelF6VFNrRUZWbzhSZ0FreXJ1NUM3ZHVGWE5QYkhtMnl1cHdFWHIwS2Ffajl0Qk10QlhtS0dUaGFoR2h1Tk5nbDVB?oc=5
 - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5
@@ -45,7 +45,7 @@
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
       <pubDate>Wed, 15 Jul 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-07-15</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-15-audio.mp3" length="2796060" type="audio/mpeg" />
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-15-audio.mp3" length="1181307" type="audio/mpeg" />
       <itunes:author>Badstan</itunes:author>
       <itunes:title>badstan每日经济早报-2026-07-15</itunes:title>
       <itunes:summary>badstan每日经济早报-2026-07-15
@@ -53,7 +53,7 @@
 本期新闻：
 1. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
 
-⏱ 时长：5分49秒
+⏱ 时长：2分27秒
 新闻来源：
 - Fortune: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlAzNkZSMHBXdVRsZDlGT1lVY0hSMTdIOXFWakZWazdTYjdxNFNjRjV2Uy1ZblhmMGNZRURNeEp2eHVDWXBsRlVkazczazR1UUhhN19wUGtkTmNRaXZfbUhITExOelF6VFNrRUZWbzhSZ0FreXJ1NUM3ZHVGWE5QYkhtMnl1cHdFWHIwS2Ffajl0Qk10QlhtS0dUaGFoR2h1Tk5nbDVB?oc=5
 - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5
@@ -64,7 +64,7 @@
 主播：Badstan | 音色：小何 2.0
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:duration>00:02:27</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
