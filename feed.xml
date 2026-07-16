@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链和美股相关的重要新闻。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 12:01:01 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:31:30 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,54 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-17</title>
+      <description>badstan每日经济早报-2026-07-17
+
+本期新闻：
+
+⏱ 时长：2分1秒
+新闻来源：
+- VentureBeat AI: https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
+- @googlecloud (Google Cloud): https://x.com/googlecloud/status/2077538697264742858
+- @nvidia (NVIDIA): https://x.com/nvidia/status/2077540620394958889
+- WSJ Markets: https://www.wsj.com/finance/stocks/nasdaq-falls-sharply-as-chip-stock-slump-overshadows-tsmc-record-15880f5b?mod=rss_markets_main
+- @intel (Intel): https://x.com/intel/status/2077786865466282365
+- @digitalrealty (Digital Realty): https://x.com/digitalrealty/status/2077770299693515050
+- @MicronTech (Micron Technology): https://x.com/MicronTech/status/2077745022922059831
+- @AnthropicAI (Anthropic): https://x.com/AnthropicAI/status/2077452646303006927
+- Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFk3Wi1yeVEtOV8tMDJLMXltS1c1WFlRVGhzeWxUa0laenY4d2ZYQ2pBVTR0MmJfY04xSTN3TXgzbDJBeU5FMmt6V3FUOTlWZUNJRk50d1N0MTJtbmhpWmd0WWdRb3pmQmFGRzRtOTd0a2EwOGtrZFh6cGxNbUNCZS1NYk5rTk1sYkQyQlY1RXE?oc=5
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Fri, 17 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-17</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-17-audio.mp3" length="969858" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-17</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-17
+
+本期新闻：
+
+⏱ 时长：2分1秒
+新闻来源：
+- VentureBeat AI: https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
+- @googlecloud (Google Cloud): https://x.com/googlecloud/status/2077538697264742858
+- @nvidia (NVIDIA): https://x.com/nvidia/status/2077540620394958889
+- WSJ Markets: https://www.wsj.com/finance/stocks/nasdaq-falls-sharply-as-chip-stock-slump-overshadows-tsmc-record-15880f5b?mod=rss_markets_main
+- @intel (Intel): https://x.com/intel/status/2077786865466282365
+- @digitalrealty (Digital Realty): https://x.com/digitalrealty/status/2077770299693515050
+- @MicronTech (Micron Technology): https://x.com/MicronTech/status/2077745022922059831
+- @AnthropicAI (Anthropic): https://x.com/AnthropicAI/status/2077452646303006927
+- Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFk3Wi1yeVEtOV8tMDJLMXltS1c1WFlRVGhzeWxUa0laenY4d2ZYQ2pBVTR0MmJfY04xSTN3TXgzbDJBeU5FMmt6V3FUOTlWZUNJRk50d1N0MTJtbmhpWmd0WWdRb3pmQmFGRzRtOTd0a2EwOGtrZFh6cGxNbUNCZS1NYk5rTk1sYkQyQlY1RXE?oc=5
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:02:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-16</title>
       <description>badstan每日经济早报-2026-07-16
