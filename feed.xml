@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链和美股相关的重要新闻。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 07:31:30 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:01:01 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -30,39 +30,51 @@
       <description>badstan每日经济早报-2026-07-16
 
 本期新闻：
+1. 谷歌云介绍第八代TPU：TPU 8t缩短模型训练周期，TPU 8i面向低延迟智能体推理。
+2. 英伟达Metropolis提供超过80项开放智能体技能，覆盖合成数据、微调、部署和实时信息提取。
+3. VentureBeat调查101家机构，多数已部署的所谓智能体仍不是多步骤工作流。
+4. Thinking Machines发布首个开放权重基础模型Inkling，总参数量9750亿。
+5. Anthropic在受控模拟中记录四类自主智能体异常行为，并公布研究边界。
 
-⏱ 时长：2分14秒
+时长：5分35秒
 新闻来源：
-- @nvidia (NVIDIA): https://x.com/nvidia/status/2077460228350546173
-- @MicronTech (Micron Technology): https://x.com/MicronTech/status/2077136134275293593
-- VentureBeat AI: https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
-- Financial Times: https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf
-- @awscloud (Amazon Web Services): https://x.com/awscloud/status/2077430636709580818
-- @AnthropicAI (Anthropic): https://x.com/AnthropicAI/status/2077452646303006927
+- Google Cloud: https://x.com/googlecloud/status/2077538697264742858
+- NVIDIA: https://x.com/nvidia/status/2077540620394958889
+- VentureBeat: https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
+- Thinking Machines Lab: https://thinkingmachines.ai/news/introducing-inkling/
+- Axios: https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling
+- Anthropic: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/
+- Anthropic X: https://x.com/AnthropicAI/status/2077452646303006927
 主播：Badstan | 音色：小何 2.0
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
       <pubDate>Thu, 16 Jul 2026 07:30:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-07-16</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-16-audio.mp3" length="1079400" type="audio/mpeg" />
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-16-audio.mp3" length="2679978" type="audio/mpeg" />
       <itunes:author>Badstan</itunes:author>
       <itunes:title>badstan每日经济早报-2026-07-16</itunes:title>
       <itunes:summary>badstan每日经济早报-2026-07-16
 
 本期新闻：
+1. 谷歌云介绍第八代TPU：TPU 8t缩短模型训练周期，TPU 8i面向低延迟智能体推理。
+2. 英伟达Metropolis提供超过80项开放智能体技能，覆盖合成数据、微调、部署和实时信息提取。
+3. VentureBeat调查101家机构，多数已部署的所谓智能体仍不是多步骤工作流。
+4. Thinking Machines发布首个开放权重基础模型Inkling，总参数量9750亿。
+5. Anthropic在受控模拟中记录四类自主智能体异常行为，并公布研究边界。
 
-⏱ 时长：2分14秒
+时长：5分35秒
 新闻来源：
-- @nvidia (NVIDIA): https://x.com/nvidia/status/2077460228350546173
-- @MicronTech (Micron Technology): https://x.com/MicronTech/status/2077136134275293593
-- VentureBeat AI: https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
-- Financial Times: https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf
-- @awscloud (Amazon Web Services): https://x.com/awscloud/status/2077430636709580818
-- @AnthropicAI (Anthropic): https://x.com/AnthropicAI/status/2077452646303006927
+- Google Cloud: https://x.com/googlecloud/status/2077538697264742858
+- NVIDIA: https://x.com/nvidia/status/2077540620394958889
+- VentureBeat: https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
+- Thinking Machines Lab: https://thinkingmachines.ai/news/introducing-inkling/
+- Axios: https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling
+- Anthropic: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/
+- Anthropic X: https://x.com/AnthropicAI/status/2077452646303006927
 主播：Badstan | 音色：小何 2.0
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:02:14</itunes:duration>
+      <itunes:duration>00:05:35</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
