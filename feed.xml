@@ -6,8 +6,8 @@
     <atom:link href="https://bradstan.github.io/daily-news-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
-    <description>每天播报过去24小时AI产业链和美股相关的重要新闻。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:31:17 +0800</lastBuildDate>
+    <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
+    <lastBuildDate>Thu, 30 Jul 2026 08:26:10 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -15,7 +15,7 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Badstan</itunes:author>
-    <itunes:summary>每天播报过去24小时AI产业链和美股相关的重要新闻。</itunes:summary>
+    <itunes:summary>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
     <itunes:owner>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-07-30</title>
+      <description>badstan每日经济早报-2026-07-30
+
+本期新闻：
+1. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+2. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+3. OpenAI失控Agent事件进入美国政策层。
+4. 对产业的直接影响包括：前沿模型上线速度可能放缓；企业采购时会更加重视安全与审计；云安全、身份权限管理、Agent监控和模型评测公司获得新增需求。
+5. SK Hynix：业绩创纪录、HBM4开始量产，但市场表现约9.6%。市场开始把“产业需求强”与“当前估值是否合理”分开判断。
+6. Lam Research：收入和下一季度指引超过预期，显示先进制程、HBM和AI存储扩产继续传导至半导体设备。
+7. GlobalFoundries：获得3亿美元硅光子研发支持，同时美国政府取得约1%股权。公司在成熟制程之外，增加了AI光互连和先进封装的政策稀缺性。
+8. 资金从“增加算力数量”转向“提高算力利用率”。
+9. 这是一个重要的资本信号：GPU价格高昂后，任何能减少等待、提高带宽和降低功耗的技术，都可能直接提高数据中心资本回报率。
+
+⏱ 时长：7分51秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 30 Jul 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-07-30</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-30-audio.mp3" length="3773859" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-07-30</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-07-30
+
+本期新闻：
+1. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+2. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+3. OpenAI失控Agent事件进入美国政策层。
+4. 对产业的直接影响包括：前沿模型上线速度可能放缓；企业采购时会更加重视安全与审计；云安全、身份权限管理、Agent监控和模型评测公司获得新增需求。
+5. SK Hynix：业绩创纪录、HBM4开始量产，但市场表现约9.6%。市场开始把“产业需求强”与“当前估值是否合理”分开判断。
+6. Lam Research：收入和下一季度指引超过预期，显示先进制程、HBM和AI存储扩产继续传导至半导体设备。
+7. GlobalFoundries：获得3亿美元硅光子研发支持，同时美国政府取得约1%股权。公司在成熟制程之外，增加了AI光互连和先进封装的政策稀缺性。
+8. 资金从“增加算力数量”转向“提高算力利用率”。
+9. 这是一个重要的资本信号：GPU价格高昂后，任何能减少等待、提高带宽和降低功耗的技术，都可能直接提高数据中心资本回报率。
+
+⏱ 时长：7分51秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-19</title>
       <description>badstan每日经济早报-2026-07-19
