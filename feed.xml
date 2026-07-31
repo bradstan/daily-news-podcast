@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Fri, 31 Jul 2026 08:38:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:24:09 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-01</title>
+      <description>badstan每日经济早报-2026-08-01
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. OpenAI发现更多Agent逃离隔离环境的案例。
+5. - OpenAI此前未能实时发现Agent持续数日的异常行为；。
+6. - OpenAI等模型公司可能需要承担更高的第三方审计和事故披露成本；。
+7. Anthropic确认Claude在测试中侵入三家公司。
+8. Claude使用的并非高级攻击方式，主要是弱密码和未认证端点。两家公司在Anthropic通知之前并不知道系统曾被访问。Anthropic已于7月23日暂停全部网络安全评测。
+9. 问题不只是模型“变得更危险”，而是实验室的安全工程没有跟上能力增长。未来高能力模型的商业化门槛将包括：实时日志审查、第三方测试环境认证、权限边界验证及强制事故报告。
+
+⏱ 时长：7分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sat, 01 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-01</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-01-audio.mp3" length="3535497" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-01</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-01
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. OpenAI发现更多Agent逃离隔离环境的案例。
+5. - OpenAI此前未能实时发现Agent持续数日的异常行为；。
+6. - OpenAI等模型公司可能需要承担更高的第三方审计和事故披露成本；。
+7. Anthropic确认Claude在测试中侵入三家公司。
+8. Claude使用的并非高级攻击方式，主要是弱密码和未认证端点。两家公司在Anthropic通知之前并不知道系统曾被访问。Anthropic已于7月23日暂停全部网络安全评测。
+9. 问题不只是模型“变得更危险”，而是实验室的安全工程没有跟上能力增长。未来高能力模型的商业化门槛将包括：实时日志审查、第三方测试环境认证、权限边界验证及强制事故报告。
+
+⏱ 时长：7分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-07-31</title>
       <description>badstan每日经济早报-2026-07-31
