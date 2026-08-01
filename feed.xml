@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sat, 01 Aug 2026 07:24:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:24:12 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-02</title>
+      <description>badstan每日经济早报-2026-08-02
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. OpenAI称Astra解决十个开放数学问题。
+5. 风险在于，这些结果目前主要来自OpenAI自身披露。Lean验证提高了论证可检查性，但仍不能替代独立数学家对问题定义、原创性和整体结论的审查。
+6. - xAI正在把Grok从文本助手扩展为多模态内容生产平台，与OpenAI Sora、Google Veo、Runway及Meta的视频工具竞争。
+7. - 燃气轮机、变压器、储能、冷却和电网工程仍是AI数据中心扩张的重要受益环节。
+8. Alphabet：Google Earth功能暂停构成产品治理负面信号，但对财务影响暂时有限。周一市场更可能关注其是否迅速恢复产品，以及安全问题是否扩展到其他生成式应用。
+9. Nvidia、AMD及半导体链：本期没有新增、可确认的GW级芯片订单。Astra科研推理和xAI视频生成仍支持长期算力需求，但周末缺乏市场表现验证，不能把产品发布直接等同于新增收入。
+
+⏱ 时长：7分34秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sun, 02 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-02</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-02-audio.mp3" length="3634185" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-02</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-02
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. OpenAI称Astra解决十个开放数学问题。
+5. 风险在于，这些结果目前主要来自OpenAI自身披露。Lean验证提高了论证可检查性，但仍不能替代独立数学家对问题定义、原创性和整体结论的审查。
+6. - xAI正在把Grok从文本助手扩展为多模态内容生产平台，与OpenAI Sora、Google Veo、Runway及Meta的视频工具竞争。
+7. - 燃气轮机、变压器、储能、冷却和电网工程仍是AI数据中心扩张的重要受益环节。
+8. Alphabet：Google Earth功能暂停构成产品治理负面信号，但对财务影响暂时有限。周一市场更可能关注其是否迅速恢复产品，以及安全问题是否扩展到其他生成式应用。
+9. Nvidia、AMD及半导体链：本期没有新增、可确认的GW级芯片订单。Astra科研推理和xAI视频生成仍支持长期算力需求，但周末缺乏市场表现验证，不能把产品发布直接等同于新增收入。
+
+⏱ 时长：7分34秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-01</title>
       <description>badstan每日经济早报-2026-08-01
