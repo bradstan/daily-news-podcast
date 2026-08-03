@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sun, 02 Aug 2026 07:24:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 09:35:10 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-03</title>
+      <description>badstan每日经济早报-2026-08-03
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+5. 过去24小时处于周末，新增的公司订单、融资和旗舰模型发布较少。真正影响产业判断的增量主要有三项：。
+6. OpenAI披露Astra在十项开放数学问题上取得新结果。
+
+⏱ 时长：7分23秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 03 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-03</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-03-audio.mp3" length="3550530" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-03</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-03
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+5. 过去24小时处于周末，新增的公司订单、融资和旗舰模型发布较少。真正影响产业判断的增量主要有三项：。
+6. OpenAI披露Astra在十项开放数学问题上取得新结果。
+
+⏱ 时长：7分23秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-02</title>
       <description>badstan每日经济早报-2026-08-02
@@ -887,50 +931,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:10:41</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-06-13</title>
-      <description>badstan每日经济早报-2026-06-13
-
-📋 本期主线速览：
-1. 本期主线：AI基础设施竞争从算力规模转向代理型AI效率，NVIDIA和AWS各自推出新硬件抢占这一赛道。
-2. 信号：NVIDIA Blackwell Ultra NVL72在首个代理型AI基准测试AgentPerf中，每兆瓦可运行20倍更多代理，性能领先。
-3. 信号：AWS发布基于自研Graviton5处理器的EC2 M9g实例，计算性能比上一代提升25%，强调能效最优。
-4. 拐点：代理型AI基准测试出现，意味着行业开始用代理效率而非单纯算力衡量硬件价值。
-5. 值得盯的变量：AWS Graviton5能否在AI推理场景中挑战NVIDIA的GPU主导地位。
-6. 值得盯的变量：语言学习平台Preply结合OpenAI生成个性化课程摘要，AI垂直应用落地加速。
-7. 信号：Preply模式展示AI与人类导师协同的可行性，教育科技领域人机交互成新趋势。
-
-⏱ 时长：5分46秒
-📰 新闻来源：AWS Blog, NVIDIA Blog, OpenAI, TechCrunch
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Sat, 13 Jun 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-06-13</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-06-13-audio.mp3" length="2775381" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-06-13</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-06-13
-
-📋 本期主线速览：
-1. 本期主线：AI基础设施竞争从算力规模转向代理型AI效率，NVIDIA和AWS各自推出新硬件抢占这一赛道。
-2. 信号：NVIDIA Blackwell Ultra NVL72在首个代理型AI基准测试AgentPerf中，每兆瓦可运行20倍更多代理，性能领先。
-3. 信号：AWS发布基于自研Graviton5处理器的EC2 M9g实例，计算性能比上一代提升25%，强调能效最优。
-4. 拐点：代理型AI基准测试出现，意味着行业开始用代理效率而非单纯算力衡量硬件价值。
-5. 值得盯的变量：AWS Graviton5能否在AI推理场景中挑战NVIDIA的GPU主导地位。
-6. 值得盯的变量：语言学习平台Preply结合OpenAI生成个性化课程摘要，AI垂直应用落地加速。
-7. 信号：Preply模式展示AI与人类导师协同的可行性，教育科技领域人机交互成新趋势。
-
-⏱ 时长：5分46秒
-📰 新闻来源：AWS Blog, NVIDIA Blog, OpenAI, TechCrunch
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:05:46</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
