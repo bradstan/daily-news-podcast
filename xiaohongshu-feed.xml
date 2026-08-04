@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 04 Aug 2026 10:12:09 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:24:11 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-05</title>
+      <description>badstan每日经济早报-2026-08-05
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+4. - OpenAI、Anthropic和Google的高能力闭源模型，可能增加政府测试、外部审计及事故报告成本；。
+5. Anthropic首次设立全球事务负责人。
+6. AMD数据中心收入翻倍，正式进入系统级竞争。
+7. AMD第二季度收入同比增长50%至115.4亿美元；数据中心收入超过翻倍，达到67.2亿美元。公司预计第三季度收入约130亿美元，高于市场预期的125.2亿美元。
+8. 原因：**AI集群不仅需要GPU，也需要服务器CPU、网络和完整机架系统。AMD正在从单颗加速器供应商，转向提供MI455X、Venice处理器和Helios机架系统的整体方案。
+9. 数据中心需求继续传导至工程建设。
+10. 这说明AI资本开支不仅停留在芯片订单，也在转化为规划、设计、施工管理和电力系统收入。
+
+⏱ 时长：7分30秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Wed, 05 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-05</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-05-audio.mp3" length="3607350" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-05</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-05
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+4. - OpenAI、Anthropic和Google的高能力闭源模型，可能增加政府测试、外部审计及事故报告成本；。
+5. Anthropic首次设立全球事务负责人。
+6. AMD数据中心收入翻倍，正式进入系统级竞争。
+7. AMD第二季度收入同比增长50%至115.4亿美元；数据中心收入超过翻倍，达到67.2亿美元。公司预计第三季度收入约130亿美元，高于市场预期的125.2亿美元。
+8. 原因：**AI集群不仅需要GPU，也需要服务器CPU、网络和完整机架系统。AMD正在从单颗加速器供应商，转向提供MI455X、Venice处理器和Helios机架系统的整体方案。
+9. 数据中心需求继续传导至工程建设。
+10. 这说明AI资本开支不仅停留在芯片订单，也在转化为规划、设计、施工管理和电力系统收入。
+
+⏱ 时长：7分30秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-04</title>
       <description>badstan每日经济早报-2026-08-04
@@ -885,50 +937,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:12:18</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-03</title>
-      <description>badstan每日经济早报-2026-07-03
-
-📋 本期主线速览：
-1. 本期主线：AI基础设施投资从单点突破转向全链条整合，科技巨头与政府联手加速本土化部署与自主可控。
-2. 信号：腾讯与长鑫存储签下29亿美元内存协议，中国在AI芯片自给上迈出关键一步，推动半导体本土化。
-3. 信号：Firmus Tech融资5.05亿美元，计划2026年以55亿美元估值IPO，显示AI数据中心资产正成为资本市场新热点。
-4. 拐点：NVIDIA携手美国伙伴投资制造与电网，标志美国AI供应链从依赖进口转向本土闭环，重塑产业格局。
-5. 值得盯的变量：纽约教育界与Google共办AI峰会，预示AI教育应用将从试点进入规模化部署，影响人才供给。
-6. 值得盯的变量：巴西交易所B3选用Android+Samsung方案管理移动设备与AI，表明企业级AI安全部署需求正在爆发。
-7. 值得盯的变量：AWS推出CloudFormation Express，将基础设施部署提速4倍，降低AI应用迭代门槛，加速开发者生态。
-
-⏱ 时长：5分9秒
-📰 新闻来源：AWS Blog, Google Blog, NVIDIA Blog, Tekedia, tech-insider.org
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Fri, 03 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-03</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-03-audio.mp3" length="2861637" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-03</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-03
-
-📋 本期主线速览：
-1. 本期主线：AI基础设施投资从单点突破转向全链条整合，科技巨头与政府联手加速本土化部署与自主可控。
-2. 信号：腾讯与长鑫存储签下29亿美元内存协议，中国在AI芯片自给上迈出关键一步，推动半导体本土化。
-3. 信号：Firmus Tech融资5.05亿美元，计划2026年以55亿美元估值IPO，显示AI数据中心资产正成为资本市场新热点。
-4. 拐点：NVIDIA携手美国伙伴投资制造与电网，标志美国AI供应链从依赖进口转向本土闭环，重塑产业格局。
-5. 值得盯的变量：纽约教育界与Google共办AI峰会，预示AI教育应用将从试点进入规模化部署，影响人才供给。
-6. 值得盯的变量：巴西交易所B3选用Android+Samsung方案管理移动设备与AI，表明企业级AI安全部署需求正在爆发。
-7. 值得盯的变量：AWS推出CloudFormation Express，将基础设施部署提速4倍，降低AI应用迭代门槛，加速开发者生态。
-
-⏱ 时长：5分9秒
-📰 新闻来源：AWS Blog, Google Blog, NVIDIA Blog, Tekedia, tech-insider.org
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:05:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />

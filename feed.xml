@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 04 Aug 2026 10:12:09 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:24:11 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-05</title>
+      <description>badstan每日经济早报-2026-08-05
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+4. - OpenAI、Anthropic和Google的高能力闭源模型，可能增加政府测试、外部审计及事故报告成本；。
+5. Anthropic首次设立全球事务负责人。
+6. AMD数据中心收入翻倍，正式进入系统级竞争。
+7. AMD第二季度收入同比增长50%至115.4亿美元；数据中心收入超过翻倍，达到67.2亿美元。公司预计第三季度收入约130亿美元，高于市场预期的125.2亿美元。
+8. 原因：**AI集群不仅需要GPU，也需要服务器CPU、网络和完整机架系统。AMD正在从单颗加速器供应商，转向提供MI455X、Venice处理器和Helios机架系统的整体方案。
+9. 数据中心需求继续传导至工程建设。
+10. 这说明AI资本开支不仅停留在芯片订单，也在转化为规划、设计、施工管理和电力系统收入。
+
+⏱ 时长：7分30秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Wed, 05 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-05</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-05-audio.mp3" length="3607350" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-05</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-05
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+4. - OpenAI、Anthropic和Google的高能力闭源模型，可能增加政府测试、外部审计及事故报告成本；。
+5. Anthropic首次设立全球事务负责人。
+6. AMD数据中心收入翻倍，正式进入系统级竞争。
+7. AMD第二季度收入同比增长50%至115.4亿美元；数据中心收入超过翻倍，达到67.2亿美元。公司预计第三季度收入约130亿美元，高于市场预期的125.2亿美元。
+8. 原因：**AI集群不仅需要GPU，也需要服务器CPU、网络和完整机架系统。AMD正在从单颗加速器供应商，转向提供MI455X、Venice处理器和Helios机架系统的整体方案。
+9. 数据中心需求继续传导至工程建设。
+10. 这说明AI资本开支不仅停留在芯片订单，也在转化为规划、设计、施工管理和电力系统收入。
+
+⏱ 时长：7分30秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-04</title>
       <description>badstan每日经济早报-2026-08-04
