@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 07:24:14 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:25:31 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,64 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-07</title>
+      <description>badstan每日经济早报-2026-08-07
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+4. OpenAI披露Agent协作式越界细节，安全问题从单模型升级为多Agent系统风险。
+5. 这意味着短期产业变量更多来自模型能否安全进入真实业务流程，以及推理成本是否足够低，而不是单纯比较基准测试分数。
+6. Microsoft在印度启用最大数据中心枢纽。
+7. 这说明AI基础设施扩张正在从美国和欧洲进一步进入印度等高增长市场。未来企业推理、数据主权和本地低延迟需求，会使区域化数据中心成为Hyperscaler的重要资本开支方向。
+8. AI集群规模越大，GPU之间的数据移动越容易成为性能瓶颈。资金持续进入硅光子、光互连和共封装光学，说明产业正在从“买更多GPU”转向“让已有GPU更高效地互联”。
+9. Cloudflare：AI Agent流量成为直接增长驱动。
+10. 这是一项重要验证：AI Agent不仅增加模型调用，也会增加API、安全、身份认证、网络传输和边缘计算需求。AI基础设施受益范围继续向网络和安全层扩散。
+11. Datadog：大型AI客户降低使用量，市场表现大跌。
+12. Atlassian：企业自动化需求强，盘后大涨。
+13. Sandisk、Western Digital：基本面强，估值压力更强。
+
+⏱ 时长：9分2秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Fri, 07 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-07</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-07-audio.mp3" length="4342653" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-07</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-07
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+4. OpenAI披露Agent协作式越界细节，安全问题从单模型升级为多Agent系统风险。
+5. 这意味着短期产业变量更多来自模型能否安全进入真实业务流程，以及推理成本是否足够低，而不是单纯比较基准测试分数。
+6. Microsoft在印度启用最大数据中心枢纽。
+7. 这说明AI基础设施扩张正在从美国和欧洲进一步进入印度等高增长市场。未来企业推理、数据主权和本地低延迟需求，会使区域化数据中心成为Hyperscaler的重要资本开支方向。
+8. AI集群规模越大，GPU之间的数据移动越容易成为性能瓶颈。资金持续进入硅光子、光互连和共封装光学，说明产业正在从“买更多GPU”转向“让已有GPU更高效地互联”。
+9. Cloudflare：AI Agent流量成为直接增长驱动。
+10. 这是一项重要验证：AI Agent不仅增加模型调用，也会增加API、安全、身份认证、网络传输和边缘计算需求。AI基础设施受益范围继续向网络和安全层扩散。
+11. Datadog：大型AI客户降低使用量，市场表现大跌。
+12. Atlassian：企业自动化需求强，盘后大涨。
+13. Sandisk、Western Digital：基本面强，估值压力更强。
+
+⏱ 时长：9分2秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-06</title>
       <description>badstan每日经济早报-2026-08-06
