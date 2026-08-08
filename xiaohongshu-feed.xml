@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 07:25:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:24:45 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,70 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-09</title>
+      <description>badstan每日经济早报-2026-08-09
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+5. xAI发布Imagine Image 2.0：从“生成图片”进一步走向设计工作流。
+6. Apple在中国Mac端接入Alibaba Qwen：Qwen获得系统级分发入口。
+7. 原因：**Apple需要在中国市场提供符合本地监管要求的生成式AI能力，同时缩小与Lenovo、Huawei等本土AI PC产品的功能差距。
+8. OpenAI收购NextSlide的信息正式披露。
+9. 在本窗口内，没有发现Anthropic、Google DeepMind、Meta和Mistral足以改变产业判断的新旗舰模型发布，因此不人为加入旧闻。
+10. Amazon押注超大规模“私有电网”：电力成为AI基础设施核心资产。
+11. 需要区分“获批容量”和“实际投运容量”：GW Ranch计划2027年一季度首次供电、2028年约1GW上线，并在2031年前扩展至5GW以上，并非一次性投运7.65GW。
+12. 原因：**大型AI数据中心的电网并网排队已经成为建设周期的重要限制，私有电网可以绕过公共电网接入等待，并提高供电可控性。
+13. 影响：**AI数据中心的竞争壁垒从土地、GPU和融资继续延伸到天然气供应、发电资产、储能、电网许可和环境审批。与此同时，这种模式也会显著提高长期资本强度、碳排放和监管风险。
+14. NVIDIA同时拟投资Firebird：下游投资开始形成体系。
+15. 这并不意味着需求是“虚构的”，但会让资本市场更重视几个指标：项目客户是否有不可取消合同、谁承担设备折旧、GPU利用率、融资成本以及资本回收期。
+16. OpenAI的NextSlide收购属于应用层整合，而非大额融资事件。
+
+⏱ 时长：9分39秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sun, 09 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-09</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-09-audio.mp3" length="4632324" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-09</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-09
+
+本期新闻：
+1. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
+2. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
+3. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
+4. 资金继续从平台型大科技转向芯片、内存、网络、冷却和电力等基础设施利润池。
+5. xAI发布Imagine Image 2.0：从“生成图片”进一步走向设计工作流。
+6. Apple在中国Mac端接入Alibaba Qwen：Qwen获得系统级分发入口。
+7. 原因：**Apple需要在中国市场提供符合本地监管要求的生成式AI能力，同时缩小与Lenovo、Huawei等本土AI PC产品的功能差距。
+8. OpenAI收购NextSlide的信息正式披露。
+9. 在本窗口内，没有发现Anthropic、Google DeepMind、Meta和Mistral足以改变产业判断的新旗舰模型发布，因此不人为加入旧闻。
+10. Amazon押注超大规模“私有电网”：电力成为AI基础设施核心资产。
+11. 需要区分“获批容量”和“实际投运容量”：GW Ranch计划2027年一季度首次供电、2028年约1GW上线，并在2031年前扩展至5GW以上，并非一次性投运7.65GW。
+12. 原因：**大型AI数据中心的电网并网排队已经成为建设周期的重要限制，私有电网可以绕过公共电网接入等待，并提高供电可控性。
+13. 影响：**AI数据中心的竞争壁垒从土地、GPU和融资继续延伸到天然气供应、发电资产、储能、电网许可和环境审批。与此同时，这种模式也会显著提高长期资本强度、碳排放和监管风险。
+14. NVIDIA同时拟投资Firebird：下游投资开始形成体系。
+15. 这并不意味着需求是“虚构的”，但会让资本市场更重视几个指标：项目客户是否有不可取消合同、谁承担设备折旧、GPU利用率、融资成本以及资本回收期。
+16. OpenAI的NextSlide收购属于应用层整合，而非大额融资事件。
+
+⏱ 时长：9分39秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-07</title>
       <description>badstan每日经济早报-2026-08-07
@@ -919,50 +983,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:05:09</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-08</title>
-      <description>badstan每日经济早报-2026-07-08
-
-📋 本期主线速览：
-1. 本期主线：AI行情继续从“模型能力竞赛”切向“基建兑现、能源成本、企业落地和资本回收”。
-2. OpenAI Stargate UK 被质疑执行基础薄弱，AI主权基建叙事需要看真实站点、电力和投资承诺。
-3. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
-4. AI数据中心约束从GPU扩展到水资源、发电侧用水和地方许可，水电成本进入估值模型。
-5. 美国清洁电力PPA价格可能上行，低成本电力正在成为AI基础设施的核心竞争力。
-6. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
-7. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
-
-⏱ 时长：14分33秒
-📰 新闻来源：JARVIS Briefing
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Wed, 08 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-08</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-08-audio.mp3" length="6987603" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-08</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-08
-
-📋 本期主线速览：
-1. 本期主线：AI行情继续从“模型能力竞赛”切向“基建兑现、能源成本、企业落地和资本回收”。
-2. OpenAI Stargate UK 被质疑执行基础薄弱，AI主权基建叙事需要看真实站点、电力和投资承诺。
-3. Anthropic 模型恢复事件显示前沿模型审批可能制度化，企业客户会更重视模型稳定可用性。
-4. AI数据中心约束从GPU扩展到水资源、发电侧用水和地方许可，水电成本进入估值模型。
-5. 美国清洁电力PPA价格可能上行，低成本电力正在成为AI基础设施的核心竞争力。
-6. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
-7. AWS 加码企业AI现场实施，云厂商竞争从卖资源转向帮客户做ROI落地。
-
-⏱ 时长：14分33秒
-📰 新闻来源：JARVIS Briefing
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:14:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
