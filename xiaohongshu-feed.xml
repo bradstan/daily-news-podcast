@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:24:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:24:31 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,68 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-10</title>
+      <description>badstan每日经济早报-2026-08-10
+
+本期新闻：
+1. OpenAI官方表示，其前沿模型Astra在最近的内部评测中，Agent编程和网络安全能力出现显著提升，公司目前无法排除该模型达到其“Preparedness Framework”中“Critical”网络能力等级的可能性。
+2. OpenAI官方确认，独立Atlas浏览器计划于8月9日停止工作，浏览器型Agent能力正在迁入ChatGPT和Codex。
+3. 严格按过去24小时筛选，没有发现Anthropic、Google DeepMind、Meta、xAI或Mistral发布足以改变当前模型竞争格局的新旗舰模型。
+4. The Information 8月9日的最新统计显示，美国地方层面对新数据中心的暂停或禁令已经超过500项。
+5. 严格24小时窗口内，没有出现足以改变Nvidia、AMD、Broadcom、TSMC等AI半导体需求判断的新大型订单或供给事件。
+6. 过去24小时跨周日，美股没有新的常规交易。
+7. 对数据中心运营商DLR、EQIX、CRWV而言，如果新建项目越来越难，已经通电和获批的容量理论上会获得更高的稀缺价值，这是一个推论，不是今天已经发生的股价事实。
+8. 对Nvidia、AMD、Broadcom而言，目前更直接的风险是部署节奏而非订单逻辑。
+9. Atlas停用后，OpenAI不再单独争夺浏览器壳层，但ChatGPT和Codex会更直接地和Copilot、Gemini争夺“桌面加浏览器Agent”的工作入口。
+10. 澳大利亚主权财富基金Future Fund CEO Raphael Arndt在8月9日表示，AI代表巨大的长期机会，但当前仍过早判断最终赢家。
+11. 500多项地方暂停或禁令会直接进入项目融资的尽调模型。
+12. 周一市场将观察如何给“500多项数据中心限制”定价，重点观察Amazon、Alphabet、Meta、Microsoft、Oracle、CoreWeave，以及数据中心REIT和电力设备板块。
+13. 需要继续确认OpenAI是否进一步调整Astra发布时间，包括Astra是否正式被评定为Critical、第三方和政府测试需要多长时间、哪些工具权限会在公开版本被关闭，以及多Agent能力是否影响部署范围。
+14. 需要观察OpenAI是否公布Atlas用户迁移后的使用数据，以及ChatGPT桌面端浏览器Agent是否能承担Atlas原本的工作流。
+15. CoreWeave确认将在8月11日美东时间17:00公布二季度业绩。
+
+⏱ 时长：9分52秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 10 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-10</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-10-audio.mp3" length="4743255" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-10</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-10
+
+本期新闻：
+1. OpenAI官方表示，其前沿模型Astra在最近的内部评测中，Agent编程和网络安全能力出现显著提升，公司目前无法排除该模型达到其“Preparedness Framework”中“Critical”网络能力等级的可能性。
+2. OpenAI官方确认，独立Atlas浏览器计划于8月9日停止工作，浏览器型Agent能力正在迁入ChatGPT和Codex。
+3. 严格按过去24小时筛选，没有发现Anthropic、Google DeepMind、Meta、xAI或Mistral发布足以改变当前模型竞争格局的新旗舰模型。
+4. The Information 8月9日的最新统计显示，美国地方层面对新数据中心的暂停或禁令已经超过500项。
+5. 严格24小时窗口内，没有出现足以改变Nvidia、AMD、Broadcom、TSMC等AI半导体需求判断的新大型订单或供给事件。
+6. 过去24小时跨周日，美股没有新的常规交易。
+7. 对数据中心运营商DLR、EQIX、CRWV而言，如果新建项目越来越难，已经通电和获批的容量理论上会获得更高的稀缺价值，这是一个推论，不是今天已经发生的股价事实。
+8. 对Nvidia、AMD、Broadcom而言，目前更直接的风险是部署节奏而非订单逻辑。
+9. Atlas停用后，OpenAI不再单独争夺浏览器壳层，但ChatGPT和Codex会更直接地和Copilot、Gemini争夺“桌面加浏览器Agent”的工作入口。
+10. 澳大利亚主权财富基金Future Fund CEO Raphael Arndt在8月9日表示，AI代表巨大的长期机会，但当前仍过早判断最终赢家。
+11. 500多项地方暂停或禁令会直接进入项目融资的尽调模型。
+12. 周一市场将观察如何给“500多项数据中心限制”定价，重点观察Amazon、Alphabet、Meta、Microsoft、Oracle、CoreWeave，以及数据中心REIT和电力设备板块。
+13. 需要继续确认OpenAI是否进一步调整Astra发布时间，包括Astra是否正式被评定为Critical、第三方和政府测试需要多长时间、哪些工具权限会在公开版本被关闭，以及多Agent能力是否影响部署范围。
+14. 需要观察OpenAI是否公布Atlas用户迁移后的使用数据，以及ChatGPT桌面端浏览器Agent是否能承担Atlas原本的工作流。
+15. CoreWeave确认将在8月11日美东时间17:00公布二季度业绩。
+
+⏱ 时长：9分52秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-09</title>
       <description>badstan每日经济早报-2026-08-09
@@ -943,50 +1005,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:05:02</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-07</title>
-      <description>badstan每日经济早报-2026-07-07
-
-📋 本期主线速览：
-1. 本期主线：AI巨头正从拼模型转向拼基础设施与生态，芯片、算力、资本运作和开源模型成为新竞争焦点。
-2. 信号：Perplexity计划采用Nvidia新款CPU，显示AI公司开始将定制芯片纳入算力架构，降低对通用GPU的依赖。
-3. 拐点：中国DeepSeek自研AI芯片，反映地缘技术脱钩下，中国AI企业加速硬件自主化，可能重塑全球芯片供应链。
-4. 值得盯的变量：前OpenAI研究员的对冲基金押注SK海力士美国IPO，表明资本正从纯AI模型转向半导体制造环节。
-5. 值得盯的变量：AI巨头向初创公司大量赠送免费算力，本质是争夺生态入口，可能加速行业整合并挤压独立云服务商。
-6. 值得盯的变量：Amazon发行250亿美元债券，微软调整AI模型策略，显示科技巨头正通过融资和架构优化为算力投资输血。
-7. 值得盯的变量：Nokia转攻AI数据中心设备，Meta发布新图像模型，表明传统通信商和社交平台都在争夺AI基建与内容生成的新市场。
-
-⏱ 时长：5分9秒
-📰 新闻来源：CNBC, Financial Times, Reuters, The Register, WSJ
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Tue, 07 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-07</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-07-audio.mp3" length="2472447" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-07</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-07
-
-📋 本期主线速览：
-1. 本期主线：AI巨头正从拼模型转向拼基础设施与生态，芯片、算力、资本运作和开源模型成为新竞争焦点。
-2. 信号：Perplexity计划采用Nvidia新款CPU，显示AI公司开始将定制芯片纳入算力架构，降低对通用GPU的依赖。
-3. 拐点：中国DeepSeek自研AI芯片，反映地缘技术脱钩下，中国AI企业加速硬件自主化，可能重塑全球芯片供应链。
-4. 值得盯的变量：前OpenAI研究员的对冲基金押注SK海力士美国IPO，表明资本正从纯AI模型转向半导体制造环节。
-5. 值得盯的变量：AI巨头向初创公司大量赠送免费算力，本质是争夺生态入口，可能加速行业整合并挤压独立云服务商。
-6. 值得盯的变量：Amazon发行250亿美元债券，微软调整AI模型策略，显示科技巨头正通过融资和架构优化为算力投资输血。
-7. 值得盯的变量：Nokia转攻AI数据中心设备，Meta发布新图像模型，表明传统通信商和社交平台都在争夺AI基建与内容生成的新市场。
-
-⏱ 时长：5分9秒
-📰 新闻来源：CNBC, Financial Times, Reuters, The Register, WSJ
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:05:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
