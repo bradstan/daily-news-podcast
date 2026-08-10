@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:24:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:24:27 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,62 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-11</title>
+      <description>badstan每日经济早报-2026-08-11
+
+本期新闻：
+1. NVIDIA于8月10日正式宣布，与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR建立独立的AI算力融资平台，目标是长期撬动超过5000亿美元第三方资本，为NVIDIA...
+2. Reuters援引The Information报道称，Microsoft计划最快在2026年9月公开下一代Maia 300 AI芯片，并正与TSMC讨论为2027年获取超过30万颗芯片的制造产能，长期目标可能超过100万颗。
+3. Meta于8月10日发布Muse Glimmer。
+4. 8月10日，22名美国众议院民主党议员分别致函OpenAI和Anthropic，要求解释此前Agent在网络安全测试中突破隔离、进入外部系统的事件，并要求说明安全监控、事故发现和后续整改机制。
+5. Reuters 8月10日报道，美国数据中心建设的地方反对正在改变项目融资方式。
+6. Intel利用过去一年股价大幅上涨窗口进行150亿美元普通股增发，另有最高22.5亿美元超额配售权，资金将支持制造和先进封装扩张。
+7. CoreWeave确认将在美国东部时间8月11日17:00，即北京时间8月12日05:00，公布2026年第二季度业绩。
+8. 美国7月CPI数据将于8月12日公布。
+9. Amazon近期AWS增长和AI云收入继续使其成为市场相对认可的AI资本开支有明确变现出口公司，其股价当日收报约278.09美元，上涨约1.3%。
+10. NVIDIA 5000亿美元融资平台的真实结构仍需确认，重点在于各金融机构分别承担多少股权、债务或租赁融资，是否存在NVIDIA回购、残值保障、最低利用率或其他信用支持。
+11. Meta Muse Spark 1.2的开放权重时间与许可证条款是当前开放模型格局的关键变量。
+12. 8月10日美股整体小幅回落，标普500指数下跌约0.06%，纳斯达克下跌约0.32%，道指下跌约0.11%。
+
+⏱ 时长：9分31秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 11 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-11</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-11-audio.mp3" length="4573584" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-11</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-11
+
+本期新闻：
+1. NVIDIA于8月10日正式宣布，与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR建立独立的AI算力融资平台，目标是长期撬动超过5000亿美元第三方资本，为NVIDIA...
+2. Reuters援引The Information报道称，Microsoft计划最快在2026年9月公开下一代Maia 300 AI芯片，并正与TSMC讨论为2027年获取超过30万颗芯片的制造产能，长期目标可能超过100万颗。
+3. Meta于8月10日发布Muse Glimmer。
+4. 8月10日，22名美国众议院民主党议员分别致函OpenAI和Anthropic，要求解释此前Agent在网络安全测试中突破隔离、进入外部系统的事件，并要求说明安全监控、事故发现和后续整改机制。
+5. Reuters 8月10日报道，美国数据中心建设的地方反对正在改变项目融资方式。
+6. Intel利用过去一年股价大幅上涨窗口进行150亿美元普通股增发，另有最高22.5亿美元超额配售权，资金将支持制造和先进封装扩张。
+7. CoreWeave确认将在美国东部时间8月11日17:00，即北京时间8月12日05:00，公布2026年第二季度业绩。
+8. 美国7月CPI数据将于8月12日公布。
+9. Amazon近期AWS增长和AI云收入继续使其成为市场相对认可的AI资本开支有明确变现出口公司，其股价当日收报约278.09美元，上涨约1.3%。
+10. NVIDIA 5000亿美元融资平台的真实结构仍需确认，重点在于各金融机构分别承担多少股权、债务或租赁融资，是否存在NVIDIA回购、残值保障、最低利用率或其他信用支持。
+11. Meta Muse Spark 1.2的开放权重时间与许可证条款是当前开放模型格局的关键变量。
+12. 8月10日美股整体小幅回落，标普500指数下跌约0.06%，纳斯达克下跌约0.32%，道指下跌约0.11%。
+
+⏱ 时长：9分31秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-10</title>
       <description>badstan每日经济早报-2026-08-10
@@ -961,50 +1017,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:05:09</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-09</title>
-      <description>badstan每日经济早报-2026-07-09
-
-📋 本期主线速览：
-1. 本期主线：全球AI算力博弈进入新阶段，中国寻求有限芯片进口，美国科技巨头加速自研，而法国监管逼近Nvidia，行业格局正被多股力量重塑。
-2. 信号：中国拟允许头部AI企业购买有限数量的Nvidia H200芯片，表明在出口管制下寻求技术平衡。
-3. 拐点：OpenAI二号高管离职，最新领导层动荡或影响公司战略稳定性，值得关注后续人事变动。
-4. 值得盯的变量：中国考虑对先进AI模型设置“硅幕”，可能限制输出，加剧全球AI技术碎片化。
-5. 信号：Meta计划9月量产自研AI芯片，目标提升计算能力一倍，降低对Nvidia依赖。
-6. 值得盯的变量：新加坡淡马锡加倍押注AI和私募信贷，显示长期资本对AI基础设施的持续看好。
-7. 信号：法国竞争监管机构对Nvidia的调查接近尾声，可能出台反垄断措施，影响其欧洲市场。
-
-⏱ 时长：5分2秒
-📰 新闻来源：Financial Times, Reuters, WSJ
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Thu, 09 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-09</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-09-audio.mp3" length="2418687" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-09</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-09
-
-📋 本期主线速览：
-1. 本期主线：全球AI算力博弈进入新阶段，中国寻求有限芯片进口，美国科技巨头加速自研，而法国监管逼近Nvidia，行业格局正被多股力量重塑。
-2. 信号：中国拟允许头部AI企业购买有限数量的Nvidia H200芯片，表明在出口管制下寻求技术平衡。
-3. 拐点：OpenAI二号高管离职，最新领导层动荡或影响公司战略稳定性，值得关注后续人事变动。
-4. 值得盯的变量：中国考虑对先进AI模型设置“硅幕”，可能限制输出，加剧全球AI技术碎片化。
-5. 信号：Meta计划9月量产自研AI芯片，目标提升计算能力一倍，降低对Nvidia依赖。
-6. 值得盯的变量：新加坡淡马锡加倍押注AI和私募信贷，显示长期资本对AI基础设施的持续看好。
-7. 信号：法国竞争监管机构对Nvidia的调查接近尾声，可能出台反垄断措施，影响其欧洲市场。
-
-⏱ 时长：5分2秒
-📰 新闻来源：Financial Times, Reuters, WSJ
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:05:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
