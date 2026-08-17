@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 17 Aug 2026 09:13:21 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:25:41 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-18</title>
+      <description>badstan每日经济早报-2026-08-18
+
+本期新闻：
+1. 路透社8月17日报道，人工智能公司Anthropic截至今年7月底的年度收入运行规模已经超过650亿美元，高于今年5月的470亿美元，也远高于2025年底约90亿美元的水平。
+2. OpenAI在8月17日正式宣布加入美国俄亥俄州PORTS-Pike项目，并签约约8吉瓦信息技术负载容量。
+3. 围绕同一个俄亥俄州数据中心项目，Nvidia的角色已经超出芯片供应。
+4. PORTS-Pike项目还显示，大型人工智能数据中心的约束正在从GPU供应进一步转向发电和电网。
+5. 人工智能内容平台Higgsfield完成4亿美元B轮融资，估值升至54亿美元，约六个月内增长四倍。
+6. ByteDance与美国电影协会MPA达成版权保护协议，将加强旗下Seedance视频模型和Seedream图像模型的版权治理。
+7. Google同意以1000万美元购买破产航空公司Spirit Airlines的内部业务数据，交易仍需法院批准。
+8. 路透社援引The Information报道，Tesla已经告知员工，公司正准备最快在8月于得克萨斯州奥斯汀推进Cybercab公开推出，初期将从员工乘坐开始。
+9. 语音输入工具Wispr Flow完成2.8亿美元B轮融资，估值达到20亿美元，在九个月内接近增长两倍。
+10. 中国人形机器人公司Unitree计划在8月19日登陆上海科创板。
+
+⏱ 时长：12分56秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 18 Aug 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-18</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-18-audio.mp3" length="6210405" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-18</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-18
+
+本期新闻：
+1. 路透社8月17日报道，人工智能公司Anthropic截至今年7月底的年度收入运行规模已经超过650亿美元，高于今年5月的470亿美元，也远高于2025年底约90亿美元的水平。
+2. OpenAI在8月17日正式宣布加入美国俄亥俄州PORTS-Pike项目，并签约约8吉瓦信息技术负载容量。
+3. 围绕同一个俄亥俄州数据中心项目，Nvidia的角色已经超出芯片供应。
+4. PORTS-Pike项目还显示，大型人工智能数据中心的约束正在从GPU供应进一步转向发电和电网。
+5. 人工智能内容平台Higgsfield完成4亿美元B轮融资，估值升至54亿美元，约六个月内增长四倍。
+6. ByteDance与美国电影协会MPA达成版权保护协议，将加强旗下Seedance视频模型和Seedream图像模型的版权治理。
+7. Google同意以1000万美元购买破产航空公司Spirit Airlines的内部业务数据，交易仍需法院批准。
+8. 路透社援引The Information报道，Tesla已经告知员工，公司正准备最快在8月于得克萨斯州奥斯汀推进Cybercab公开推出，初期将从员工乘坐开始。
+9. 语音输入工具Wispr Flow完成2.8亿美元B轮融资，估值达到20亿美元，在九个月内接近增长两倍。
+10. 中国人形机器人公司Unitree计划在8月19日登陆上海科创板。
+
+⏱ 时长：12分56秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:12:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-17</title>
       <description>badstan每日经济早报-2026-08-17
