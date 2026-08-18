@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 15:26:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:26:09 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-19</title>
+      <description>badstan每日经济早报-2026-08-19
+
+本期新闻：
+1. 路透社8月18日报道，OpenAI正在放慢部分模型研发工作，并重构研究和训练环境的安全体系。
+2. OpenAI在8月18日推出面向13岁至17岁用户的ChatGPT for Teens。
+3. 法国政府8月18日表示，计划聘用包括法国人工智能公司Mistral在内的“主权AI”供应商，使用人工智能工具寻找政府信息系统中的网络安全漏洞。
+4. 宾夕法尼亚州州长Josh Shapiro在8月18日签署行政命令，对AI数据中心开发商提出新的环境保护和信息透明要求，并要求项目获得当地社区支持。
+5. AI芯片创业公司Etched在8月18日宣布完成七亿美元融资，由Jane Street领投，Kleiner Perkins、Sequoia、a16z和Tiger等机构参与，公司估值达到二百一十亿美元。
+6. Pony.ai披露，其海外Robotaxi已经签约或处于规划阶段的车辆管线超过四千辆。
+7. 百度公布二季度收入三百一十三点三亿元人民币，同比下降4%，低于市场预期的三百一十九点六亿元。
+8. 电子测试和测量设备公司Keysight公布三季度收入十八点五亿美元，同比增长36.5%。
+9. 过去24小时内，两项与Anthropic上市准备直接相关的融资和治理结构安排被媒体披露。
+10. 8月18日，美国市场出现明显避险交易。
+
+⏱ 时长：15分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 18 Aug 2026 23:26:08 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-19</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-19-audio.mp3" length="7372590" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-19</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-19
+
+本期新闻：
+1. 路透社8月18日报道，OpenAI正在放慢部分模型研发工作，并重构研究和训练环境的安全体系。
+2. OpenAI在8月18日推出面向13岁至17岁用户的ChatGPT for Teens。
+3. 法国政府8月18日表示，计划聘用包括法国人工智能公司Mistral在内的“主权AI”供应商，使用人工智能工具寻找政府信息系统中的网络安全漏洞。
+4. 宾夕法尼亚州州长Josh Shapiro在8月18日签署行政命令，对AI数据中心开发商提出新的环境保护和信息透明要求，并要求项目获得当地社区支持。
+5. AI芯片创业公司Etched在8月18日宣布完成七亿美元融资，由Jane Street领投，Kleiner Perkins、Sequoia、a16z和Tiger等机构参与，公司估值达到二百一十亿美元。
+6. Pony.ai披露，其海外Robotaxi已经签约或处于规划阶段的车辆管线超过四千辆。
+7. 百度公布二季度收入三百一十三点三亿元人民币，同比下降4%，低于市场预期的三百一十九点六亿元。
+8. 电子测试和测量设备公司Keysight公布三季度收入十八点五亿美元，同比增长36.5%。
+9. 过去24小时内，两项与Anthropic上市准备直接相关的融资和治理结构安排被媒体披露。
+10. 8月18日，美国市场出现明显避险交易。
+
+⏱ 时长：15分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-18</title>
       <description>badstan每日经济早报-2026-08-18

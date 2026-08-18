@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 15:26:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:26:09 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-19</title>
+      <description>badstan每日经济早报-2026-08-19
+
+本期新闻：
+1. 路透社8月18日报道，OpenAI正在放慢部分模型研发工作，并重构研究和训练环境的安全体系。
+2. OpenAI在8月18日推出面向13岁至17岁用户的ChatGPT for Teens。
+3. 法国政府8月18日表示，计划聘用包括法国人工智能公司Mistral在内的“主权AI”供应商，使用人工智能工具寻找政府信息系统中的网络安全漏洞。
+4. 宾夕法尼亚州州长Josh Shapiro在8月18日签署行政命令，对AI数据中心开发商提出新的环境保护和信息透明要求，并要求项目获得当地社区支持。
+5. AI芯片创业公司Etched在8月18日宣布完成七亿美元融资，由Jane Street领投，Kleiner Perkins、Sequoia、a16z和Tiger等机构参与，公司估值达到二百一十亿美元。
+6. Pony.ai披露，其海外Robotaxi已经签约或处于规划阶段的车辆管线超过四千辆。
+7. 百度公布二季度收入三百一十三点三亿元人民币，同比下降4%，低于市场预期的三百一十九点六亿元。
+8. 电子测试和测量设备公司Keysight公布三季度收入十八点五亿美元，同比增长36.5%。
+9. 过去24小时内，两项与Anthropic上市准备直接相关的融资和治理结构安排被媒体披露。
+10. 8月18日，美国市场出现明显避险交易。
+
+⏱ 时长：15分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 18 Aug 2026 23:26:08 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-19</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-19-audio.mp3" length="7372590" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-19</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-19
+
+本期新闻：
+1. 路透社8月18日报道，OpenAI正在放慢部分模型研发工作，并重构研究和训练环境的安全体系。
+2. OpenAI在8月18日推出面向13岁至17岁用户的ChatGPT for Teens。
+3. 法国政府8月18日表示，计划聘用包括法国人工智能公司Mistral在内的“主权AI”供应商，使用人工智能工具寻找政府信息系统中的网络安全漏洞。
+4. 宾夕法尼亚州州长Josh Shapiro在8月18日签署行政命令，对AI数据中心开发商提出新的环境保护和信息透明要求，并要求项目获得当地社区支持。
+5. AI芯片创业公司Etched在8月18日宣布完成七亿美元融资，由Jane Street领投，Kleiner Perkins、Sequoia、a16z和Tiger等机构参与，公司估值达到二百一十亿美元。
+6. Pony.ai披露，其海外Robotaxi已经签约或处于规划阶段的车辆管线超过四千辆。
+7. 百度公布二季度收入三百一十三点三亿元人民币，同比下降4%，低于市场预期的三百一十九点六亿元。
+8. 电子测试和测量设备公司Keysight公布三季度收入十八点五亿美元，同比增长36.5%。
+9. 过去24小时内，两项与Anthropic上市准备直接相关的融资和治理结构安排被媒体披露。
+10. 8月18日，美国市场出现明显避险交易。
+
+⏱ 时长：15分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-18</title>
       <description>badstan每日经济早报-2026-08-18
@@ -995,50 +1047,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:05:35</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-15</title>
-      <description>badstan每日经济早报-2026-07-15
-
-本期新闻：
-1. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
-
-⏱ 时长：2分27秒
-新闻来源：
-- Fortune: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlAzNkZSMHBXdVRsZDlGT1lVY0hSMTdIOXFWakZWazdTYjdxNFNjRjV2Uy1ZblhmMGNZRURNeEp2eHVDWXBsRlVkazczazR1UUhhN19wUGtkTmNRaXZfbUhITExOelF6VFNrRUZWbzhSZ0FreXJ1NUM3ZHVGWE5QYkhtMnl1cHdFWHIwS2Ffajl0Qk10QlhtS0dUaGFoR2h1Tk5nbDVB?oc=5
-- Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5
-- Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0tmc3Q2V2ZUaWFEMXgxM3YyX2pzWXdxT2tJb0prTURJZ3NCdzQwT0RIbWtZUlZYaXlRQXpLbUlzZk5NdElFNFRraEgtSWE1Tm5BbHB3dnJqcWpmWlZfTDVuU3pnVllBcHpTR0xhS3hOM1N0Mnk4NkN2bnozLVFQd0ZGNGw0elhjTUpBaUZKeWQzUVpjVl8w?oc=5
-- The Verge: https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
-- Yahoo Finance: https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-ibm-plunges-on-second-quarter-warning-as-enterprise-spending-shifts/?.tsrc=rss
-- TechCrunch: https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Wed, 15 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-15</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-15-audio.mp3" length="1181307" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-15</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-15
-
-本期新闻：
-1. Meta 继续推进多余算力外售，独立AI云需要证明客户结构和合同质量。
-
-⏱ 时长：2分27秒
-新闻来源：
-- Fortune: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlAzNkZSMHBXdVRsZDlGT1lVY0hSMTdIOXFWakZWazdTYjdxNFNjRjV2Uy1ZblhmMGNZRURNeEp2eHVDWXBsRlVkazczazR1UUhhN19wUGtkTmNRaXZfbUhITExOelF6VFNrRUZWbzhSZ0FreXJ1NUM3ZHVGWE5QYkhtMnl1cHdFWHIwS2Ffajl0Qk10QlhtS0dUaGFoR2h1Tk5nbDVB?oc=5
-- Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5
-- Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0tmc3Q2V2ZUaWFEMXgxM3YyX2pzWXdxT2tJb0prTURJZ3NCdzQwT0RIbWtZUlZYaXlRQXpLbUlzZk5NdElFNFRraEgtSWE1Tm5BbHB3dnJqcWpmWlZfTDVuU3pnVllBcHpTR0xhS3hOM1N0Mnk4NkN2bnozLVFQd0ZGNGw0elhjTUpBaUZKeWQzUVpjVl8w?oc=5
-- The Verge: https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
-- Yahoo Finance: https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-ibm-plunges-on-second-quarter-warning-as-enterprise-spending-shifts/?.tsrc=rss
-- TechCrunch: https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:02:27</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
