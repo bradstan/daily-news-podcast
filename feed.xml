@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:26:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:23:47 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-20</title>
+      <description>badstan每日经济早报-2026-08-20
+
+本期新闻：
+1. 8月19日，Guidelight AI Standards发布对五家主要前沿模型公司的安全实践评估。
+2. Marvell在8月19日宣布扩大与Google在TPU及相关定制芯片上的合作，并给予Google最多认购约5897万股Marvell股票的权利，按执行价计算，潜在认购规模约122亿美元。
+3. Samsung对部分先进晶圆代工新订单提价，面向部分美国和中国客户的4纳米、5纳米等制程涨幅达到10%至15%。
+4. 据英国《金融时报》报道并由Reuters转述，ByteDance和Tencent近期各收到约1万颗英伟达H200芯片，美国此前允许相关公司最多采购10万颗。
+5. JLL公布的数据显示，2026年至2028年，欧洲新建超大规模数据中心与主要城市之间的平均距离预计将达到175公里，而2022年至2025年只有46公里。
+6. 美国数据中心扩张也在推高配套电气设备需求。
+7. SK Hynix宣布回购并注销价值约40万亿韩元、折合约286亿美元的股份，同时计划把2025年至2027年超过50%的自由现金流用于股东回报。
+8. Unitree于8月19日在科创板上市，发行价为150.8元，收盘报845元，上市首日上涨约460%，对应市值约500亿美元，公司通过首次公开发行募资约9亿美元。
+9. Stripe在8月19日宣布同意收购OpenRouter。
+10. 美国商品期货交易委员会8月19日开始就算力衍生品征求公众意见，讨论范围包括现货算力市场、市场操纵、客户保护以及永久算力期货等问题。
+
+⏱ 时长：12分9秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 20 Aug 2026 06:23:46 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-20</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-20-audio.mp3" length="5837292" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-20</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-20
+
+本期新闻：
+1. 8月19日，Guidelight AI Standards发布对五家主要前沿模型公司的安全实践评估。
+2. Marvell在8月19日宣布扩大与Google在TPU及相关定制芯片上的合作，并给予Google最多认购约5897万股Marvell股票的权利，按执行价计算，潜在认购规模约122亿美元。
+3. Samsung对部分先进晶圆代工新订单提价，面向部分美国和中国客户的4纳米、5纳米等制程涨幅达到10%至15%。
+4. 据英国《金融时报》报道并由Reuters转述，ByteDance和Tencent近期各收到约1万颗英伟达H200芯片，美国此前允许相关公司最多采购10万颗。
+5. JLL公布的数据显示，2026年至2028年，欧洲新建超大规模数据中心与主要城市之间的平均距离预计将达到175公里，而2022年至2025年只有46公里。
+6. 美国数据中心扩张也在推高配套电气设备需求。
+7. SK Hynix宣布回购并注销价值约40万亿韩元、折合约286亿美元的股份，同时计划把2025年至2027年超过50%的自由现金流用于股东回报。
+8. Unitree于8月19日在科创板上市，发行价为150.8元，收盘报845元，上市首日上涨约460%，对应市值约500亿美元，公司通过首次公开发行募资约9亿美元。
+9. Stripe在8月19日宣布同意收购OpenRouter。
+10. 美国商品期货交易委员会8月19日开始就算力衍生品征求公众意见，讨论范围包括现货算力市场、市场操纵、客户保护以及永久算力期货等问题。
+
+⏱ 时长：12分9秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-19</title>
       <description>badstan每日经济早报-2026-08-19
