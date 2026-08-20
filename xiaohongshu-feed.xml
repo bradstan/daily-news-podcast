@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 14:23:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:27:25 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-21</title>
+      <description>badstan每日经济早报-2026-08-21
+
+本期新闻：
+1. 路透社8月20日转引彭博社报道称，博通正在与贷款机构讨论一项规模超过600亿美元的AI芯片债务融资安排，资金将用于支持Anthropic等AI公司的算力建设。
+2. Anthropic计划调整企业客户的数据留存方案，让客户对使用其先进模型时产生的数据拥有更大控制权。
+3. 美股大型科技公司的AI股权重估，正在显著放大标普500指数的账面利润增速。
+4. 美光科技8月20日宣布，未来十年将在爱达荷州博伊西的新美光研究实验室投入100亿美元，用于研究下一代存储技术、计算系统和未来芯片制造。
+5. 英伟达8月20日否认了有关公司将在年底前推出中国专用LPU的报道。
+6. 巴西政府8月20日宣布，将投入约23亿雷亚尔，折合4.442亿美元，建设本国AI生态。
+7. Google DeepMind在8月20日宣布，Gemma开放模型家族累计下载量已经突破10亿次，开发者发布的Gemma衍生模型版本超过10万个。
+8. OpenAI在8月20日正式推出AI Futures，作为新成立的Strategic Futures团队面向公众的研究平台。
+9. 英国部分影院运营商开始禁止或限制观众使用带摄像头的智能眼镜，其中包括Meta AI眼镜，给出的原因是隐私和盗录风险。
+
+⏱ 时长：14分56秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 20 Aug 2026 23:27:24 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-21</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-21-audio.mp3" length="7172403" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-21</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-21
+
+本期新闻：
+1. 路透社8月20日转引彭博社报道称，博通正在与贷款机构讨论一项规模超过600亿美元的AI芯片债务融资安排，资金将用于支持Anthropic等AI公司的算力建设。
+2. Anthropic计划调整企业客户的数据留存方案，让客户对使用其先进模型时产生的数据拥有更大控制权。
+3. 美股大型科技公司的AI股权重估，正在显著放大标普500指数的账面利润增速。
+4. 美光科技8月20日宣布，未来十年将在爱达荷州博伊西的新美光研究实验室投入100亿美元，用于研究下一代存储技术、计算系统和未来芯片制造。
+5. 英伟达8月20日否认了有关公司将在年底前推出中国专用LPU的报道。
+6. 巴西政府8月20日宣布，将投入约23亿雷亚尔，折合4.442亿美元，建设本国AI生态。
+7. Google DeepMind在8月20日宣布，Gemma开放模型家族累计下载量已经突破10亿次，开发者发布的Gemma衍生模型版本超过10万个。
+8. OpenAI在8月20日正式推出AI Futures，作为新成立的Strategic Futures团队面向公众的研究平台。
+9. 英国部分影院运营商开始禁止或限制观众使用带摄像头的智能眼镜，其中包括Meta AI眼镜，给出的原因是隐私和盗录风险。
+
+⏱ 时长：14分56秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:14:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-20</title>
       <description>badstan每日经济早报-2026-08-20
@@ -997,54 +1047,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:01:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-17</title>
-      <description>badstan每日经济早报-2026-07-17
-
-本期新闻：
-
-⏱ 时长：2分1秒
-新闻来源：
-- VentureBeat AI: https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
-- @googlecloud (Google Cloud): https://x.com/googlecloud/status/2077538697264742858
-- @nvidia (NVIDIA): https://x.com/nvidia/status/2077540620394958889
-- WSJ Markets: https://www.wsj.com/finance/stocks/nasdaq-falls-sharply-as-chip-stock-slump-overshadows-tsmc-record-15880f5b?mod=rss_markets_main
-- @intel (Intel): https://x.com/intel/status/2077786865466282365
-- @digitalrealty (Digital Realty): https://x.com/digitalrealty/status/2077770299693515050
-- @MicronTech (Micron Technology): https://x.com/MicronTech/status/2077745022922059831
-- @AnthropicAI (Anthropic): https://x.com/AnthropicAI/status/2077452646303006927
-- Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFk3Wi1yeVEtOV8tMDJLMXltS1c1WFlRVGhzeWxUa0laenY4d2ZYQ2pBVTR0MmJfY04xSTN3TXgzbDJBeU5FMmt6V3FUOTlWZUNJRk50d1N0MTJtbmhpWmd0WWdRb3pmQmFGRzRtOTd0a2EwOGtrZFh6cGxNbUNCZS1NYk5rTk1sYkQyQlY1RXE?oc=5
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Fri, 17 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-17</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-17-audio.mp3" length="969858" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-17</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-17
-
-本期新闻：
-
-⏱ 时长：2分1秒
-新闻来源：
-- VentureBeat AI: https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
-- @googlecloud (Google Cloud): https://x.com/googlecloud/status/2077538697264742858
-- @nvidia (NVIDIA): https://x.com/nvidia/status/2077540620394958889
-- WSJ Markets: https://www.wsj.com/finance/stocks/nasdaq-falls-sharply-as-chip-stock-slump-overshadows-tsmc-record-15880f5b?mod=rss_markets_main
-- @intel (Intel): https://x.com/intel/status/2077786865466282365
-- @digitalrealty (Digital Realty): https://x.com/digitalrealty/status/2077770299693515050
-- @MicronTech (Micron Technology): https://x.com/MicronTech/status/2077745022922059831
-- @AnthropicAI (Anthropic): https://x.com/AnthropicAI/status/2077452646303006927
-- Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFk3Wi1yeVEtOV8tMDJLMXltS1c1WFlRVGhzeWxUa0laenY4d2ZYQ2pBVTR0MmJfY04xSTN3TXgzbDJBeU5FMmt6V3FUOTlWZUNJRk50d1N0MTJtbmhpWmd0WWdRb3pmQmFGRzRtOTd0a2EwOGtrZFh6cGxNbUNCZS1NYk5rTk1sYkQyQlY1RXE?oc=5
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:02:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
