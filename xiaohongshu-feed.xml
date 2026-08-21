@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 07:27:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:25:53 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,54 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-22</title>
+      <description>badstan每日经济早报-2026-08-22
+
+本期新闻：
+1. Nvidia在8月21日宣布，对美国数据中心开发商Cloverleaf Infrastructure进行少数股权投资，具体金额没有披露。
+2. 长江存储母公司CCSH的科创板上市申请已经获得上海证券交易所受理。
+3. 路透社8月21日报道，TCS、Infosys、Wipro、HCLTech和Cognizant等印度IT服务企业正在把合同模式由按投入工时收费转向按交付结果收费。
+4. Samsung Electronics在8月21日表示，公司2026年的股东回报最高可能达到110万亿韩元，约合795亿美元，规模超过此前历史最高水平的五倍。
+5. Nvidia将在8月26日公布第二季度财报，这将成为公司近期一系列基础设施投入之后的重要经营验证。
+6. 路透社8月21日报道，AI基础设施债务发行规模快速增长后，传统债券投资者已经开始要求更高的风险补偿。
+7. Citadel披露，公司已经通过接近100笔大宗交易，出售此前从Leopold Aschenbrenner旗下Situational Awareness接手的AI主题投资组合中超过80%的仓位，相关交易涉及的总市值超过40亿美元。
+8. 太空数据中心初创公司Starcloud完成2.5亿美元融资，投后估值达到23亿美元，较今年3月的11亿美元估值增加一倍以上。
+
+⏱ 时长：13分41秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Fri, 21 Aug 2026 23:25:52 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-22</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-22-audio.mp3" length="6568710" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-22</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-22
+
+本期新闻：
+1. Nvidia在8月21日宣布，对美国数据中心开发商Cloverleaf Infrastructure进行少数股权投资，具体金额没有披露。
+2. 长江存储母公司CCSH的科创板上市申请已经获得上海证券交易所受理。
+3. 路透社8月21日报道，TCS、Infosys、Wipro、HCLTech和Cognizant等印度IT服务企业正在把合同模式由按投入工时收费转向按交付结果收费。
+4. Samsung Electronics在8月21日表示，公司2026年的股东回报最高可能达到110万亿韩元，约合795亿美元，规模超过此前历史最高水平的五倍。
+5. Nvidia将在8月26日公布第二季度财报，这将成为公司近期一系列基础设施投入之后的重要经营验证。
+6. 路透社8月21日报道，AI基础设施债务发行规模快速增长后，传统债券投资者已经开始要求更高的风险补偿。
+7. Citadel披露，公司已经通过接近100笔大宗交易，出售此前从Leopold Aschenbrenner旗下Situational Awareness接手的AI主题投资组合中超过80%的仓位，相关交易涉及的总市值超过40亿美元。
+8. 太空数据中心初创公司Starcloud完成2.5亿美元融资，投后估值达到23亿美元，较今年3月的11亿美元估值增加一倍以上。
+
+⏱ 时长：13分41秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-21</title>
       <description>badstan每日经济早报-2026-08-21
@@ -1005,48 +1053,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:01:39</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-18</title>
-      <description>badstan每日经济早报-2026-07-18
-
-本期新闻：
-
-⏱ 时长：1分58秒
-新闻来源：
-- @CoreWeave (CoreWeave): https://x.com/CoreWeave/status/2078214461337321941
-- @NVIDIAAI (NVIDIA AI): https://x.com/NVIDIAAI/status/2078204725921771890
-- Yahoo Finance: https://finance.yahoo.com/video/wall-st-ends-lower-day-221449448.html?.tsrc=rss
-- @Vertiv (Vertiv): https://x.com/Vertiv/status/2078072219662451075
-- @OpenAI (OpenAI): https://x.com/OpenAI/status/2078243667081617826
-- @digitalrealty (Digital Realty): https://x.com/digitalrealty/status/2077981659165532251
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Sat, 18 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-18</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-18-audio.mp3" length="944232" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-18</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-18
-
-本期新闻：
-
-⏱ 时长：1分58秒
-新闻来源：
-- @CoreWeave (CoreWeave): https://x.com/CoreWeave/status/2078214461337321941
-- @NVIDIAAI (NVIDIA AI): https://x.com/NVIDIAAI/status/2078204725921771890
-- Yahoo Finance: https://finance.yahoo.com/video/wall-st-ends-lower-day-221449448.html?.tsrc=rss
-- @Vertiv (Vertiv): https://x.com/Vertiv/status/2078072219662451075
-- @OpenAI (OpenAI): https://x.com/OpenAI/status/2078243667081617826
-- @digitalrealty (Digital Realty): https://x.com/digitalrealty/status/2077981659165532251
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:01:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
