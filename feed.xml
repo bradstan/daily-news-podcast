@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:25:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:26:22 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-23</title>
+      <description>badstan每日经济早报-2026-08-23
+
+本期新闻：
+1. 8月22日，法新社综合美国媒体报道称，Anthropic的银行家已经向潜在投资者讨论过首次公开募股方案，其中包括募资超过1000亿美元、公司估值最高约2万亿美元的情景。
+2. Anthropic潜在上市方案所反映的另一项变化，是前沿模型公司未来的算力和数据中心投入，可能已经超出传统私募基金能够独立承受的范围。
+3. 路透社8月22日报道，英伟达部分最大客户已经被告知，搭载其人工智能芯片的服务器，在很多情况下将提价15%以上。
+4. 内存成本已经开始成为人工智能服务器整机价格的系统性变量。
+5. 对英伟达而言，服务器提价首先说明客户仍在承受较高的人工智能基础设施成本，也反映出公司在相关供应链中的定价能力。
+6. 为微软、谷歌和甲骨文建设人工智能服务器的厂商，已经向这些大型数据中心客户传达即将涨价的信息。
+7. 在三家大型云服务商中，谷歌已经拥有自研芯片路线。
+8. 如果英伟达整机涨价的主要原因之一确实是内存成本，那么美光、SK海力士和三星面对的人工智能内存需求仍然较强。
+9. 过去24小时，OpenAI、Anthropic、Google DeepMind、Meta、xAI和Mistral均没有正式发布足以改变现有竞争排序的新旗舰模型。
+
+⏱ 时长：9分24秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sat, 22 Aug 2026 23:26:21 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-23</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-23-audio.mp3" length="4513566" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-23</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-23
+
+本期新闻：
+1. 8月22日，法新社综合美国媒体报道称，Anthropic的银行家已经向潜在投资者讨论过首次公开募股方案，其中包括募资超过1000亿美元、公司估值最高约2万亿美元的情景。
+2. Anthropic潜在上市方案所反映的另一项变化，是前沿模型公司未来的算力和数据中心投入，可能已经超出传统私募基金能够独立承受的范围。
+3. 路透社8月22日报道，英伟达部分最大客户已经被告知，搭载其人工智能芯片的服务器，在很多情况下将提价15%以上。
+4. 内存成本已经开始成为人工智能服务器整机价格的系统性变量。
+5. 对英伟达而言，服务器提价首先说明客户仍在承受较高的人工智能基础设施成本，也反映出公司在相关供应链中的定价能力。
+6. 为微软、谷歌和甲骨文建设人工智能服务器的厂商，已经向这些大型数据中心客户传达即将涨价的信息。
+7. 在三家大型云服务商中，谷歌已经拥有自研芯片路线。
+8. 如果英伟达整机涨价的主要原因之一确实是内存成本，那么美光、SK海力士和三星面对的人工智能内存需求仍然较强。
+9. 过去24小时，OpenAI、Anthropic、Google DeepMind、Meta、xAI和Mistral均没有正式发布足以改变现有竞争排序的新旗舰模型。
+
+⏱ 时长：9分24秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-22</title>
       <description>badstan每日经济早报-2026-08-22
