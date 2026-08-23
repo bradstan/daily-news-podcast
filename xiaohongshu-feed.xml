@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:26:22 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:25:22 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-24</title>
+      <description>badstan每日经济早报-2026-08-24
+
+本期新闻：
+1. 阿里巴巴8月23日宣布，将在香港配售7.10亿股新股，配售价为每股112.70港元，较最近收盘价折让3.6%，预计募集约800亿港元，折合102亿美元，配售预计在8月26日完成。
+2. 路透社8月23日报道，Hugging Face正在探索出售，潜在估值为130亿美元或更高，并已与银行合作，测试潜在买家的兴趣。
+3. Hugging Face被曝探索出售，也显示AI产业的资本定价正在从模型本身继续延伸到分发层。
+4. 北京世界人形机器人运动会在过去24小时披露了新的比赛结果。
+5. 阿里巴巴此次配售获得超额认购，并吸引包括主权财富基金在内的长期资本，说明大型AI平台仍然具备较强的融资能力。
+6. Hugging Face潜在130亿美元出售，为AI中间层提供了一次可能的并购价格发现。
+7. 过去24小时，前沿模型公司的主要新增信息并不是新的性能测试或旗舰模型发布，而是围绕模型生态资本化和分发控制权的变化。
+
+⏱ 时长：10分7秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sun, 23 Aug 2026 23:25:21 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-24</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-24-audio.mp3" length="4857618" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-24</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-24
+
+本期新闻：
+1. 阿里巴巴8月23日宣布，将在香港配售7.10亿股新股，配售价为每股112.70港元，较最近收盘价折让3.6%，预计募集约800亿港元，折合102亿美元，配售预计在8月26日完成。
+2. 路透社8月23日报道，Hugging Face正在探索出售，潜在估值为130亿美元或更高，并已与银行合作，测试潜在买家的兴趣。
+3. Hugging Face被曝探索出售，也显示AI产业的资本定价正在从模型本身继续延伸到分发层。
+4. 北京世界人形机器人运动会在过去24小时披露了新的比赛结果。
+5. 阿里巴巴此次配售获得超额认购，并吸引包括主权财富基金在内的长期资本，说明大型AI平台仍然具备较强的融资能力。
+6. Hugging Face潜在130亿美元出售，为AI中间层提供了一次可能的并购价格发现。
+7. 过去24小时，前沿模型公司的主要新增信息并不是新的性能测试或旗舰模型发布，而是围绕模型生态资本化和分发控制权的变化。
+
+⏱ 时长：10分7秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:10:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-23</title>
       <description>badstan每日经济早报-2026-08-23
@@ -1007,60 +1053,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:07:23</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-30</title>
-      <description>badstan每日经济早报-2026-07-30
-
-本期新闻：
-1. OpenAI失控Agent事件进入美国政策层。
-2. 过去24小时并未出现足以改变能力格局的新旗舰模型发布。
-3. Microsoft的AI投入开始得到收入验证。
-4. 硅光子和CPO成为美国AI基础设施政策重点。
-5. SK Hynix需求强劲，但资本市场开始拒绝“只要增长就够了”。
-6. 半导体设备订单继续验证真实扩产。
-7. Meta第二季度收入增长28%至608亿美元，广告展示量增长14%、平均广告价格增长12%；但成本增长55%，自由现金流仅7.84亿美元，同比下降91%。
-8. 资金从“增加算力数量”转向“提高算力利用率”。
-9. AI开始进入芯片设计流程本身。
-10. Big Tech的AI资本开支出现明显分化。
-11. 7月29日标普500下跌1.52%，纳斯达克下跌1.74%，道指下跌2.19%；AI相关芯片股继续承压。
-
-⏱ 时长：7分51秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Thu, 30 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-30</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-30-audio.mp3" length="3773859" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-30</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-30
-
-本期新闻：
-1. OpenAI失控Agent事件进入美国政策层。
-2. 过去24小时并未出现足以改变能力格局的新旗舰模型发布。
-3. Microsoft的AI投入开始得到收入验证。
-4. 硅光子和CPO成为美国AI基础设施政策重点。
-5. SK Hynix需求强劲，但资本市场开始拒绝“只要增长就够了”。
-6. 半导体设备订单继续验证真实扩产。
-7. Meta第二季度收入增长28%至608亿美元，广告展示量增长14%、平均广告价格增长12%；但成本增长55%，自由现金流仅7.84亿美元，同比下降91%。
-8. 资金从“增加算力数量”转向“提高算力利用率”。
-9. AI开始进入芯片设计流程本身。
-10. Big Tech的AI资本开支出现明显分化。
-11. 7月29日标普500下跌1.52%，纳斯达克下跌1.74%，道指下跌2.19%；AI相关芯片股继续承压。
-
-⏱ 时长：7分51秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:07:51</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
