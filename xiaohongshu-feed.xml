@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 07:25:22 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:25:55 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-25</title>
+      <description>badstan每日经济早报-2026-08-25
+
+本期新闻：
+1. OpenAI在8月24日宣布，GPT-5.6 Sol、Terra和Luna三款模型已经进入亚马逊云科技的软件开发Agent Kiro。
+2. Meta在8月24日同时公布自研AI加速器MTIA 300和面向大规模AI以太网的新传输协议MetaRoCE，把自研基础设施的控制范围从芯片进一步延伸至网卡、通信和网络协议。
+3. 英伟达8月24日宣布，Groq 3 LPX已经进入量产，并被纳入Vera Rubin机架级系统，主要用于降低Agent应用在生成阶段的token解码延迟。
+4. 台湾检方8月24日起诉9人，其中包括英伟达台湾员工和超微电脑台湾员工，指控他们参与将受限制的高端AI服务器非法出口至中国。
+5. 阿里巴巴8月24日正式推出视频生成模型Wan3.0。
+6. 法国AI公司Mistral在8月24日宣布与沙特阿拉伯HUMAIN开展规模达数亿欧元的战略合作。
+7. 小鹏汽车8月24日宣布，其机器人业务完成首轮超过9亿美元的融资，投后估值超过63亿美元，创下中国具身智能领域的融资纪录。
+8. 路透社8月24日转述The Information的报道说，英伟达正在讨论参与AI搜索和Agent公司Perplexity的新一轮融资，本轮估值将超过300亿美元，高于大约一年前的200亿美元。
+9. RUM Group在8月24日宣布，与一家未披露身份的美国云计算客户签订约137亿美元、期限六年的GPU服务协议，服务将由其正在建设的美国乔治亚州Maysville站点提供。
+10. 路透社8月24日报道，美国证券交易委员会正在调查AI主题基金Situational Awareness在7月发生巨额亏损时的交易时点，并审查该基金与贷款方围绕交易杠杆进行的沟通。
+11. 8月24日，美股AI半导体板块集体承压，英伟达下跌约2.9%，美光科技下跌约5.8%，博通下跌约2.6%，纳斯达克指数收跌0.76%。
+
+⏱ 时长：13分33秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 24 Aug 2026 23:25:54 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-25</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-25-audio.mp3" length="6506400" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-25</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-25
+
+本期新闻：
+1. OpenAI在8月24日宣布，GPT-5.6 Sol、Terra和Luna三款模型已经进入亚马逊云科技的软件开发Agent Kiro。
+2. Meta在8月24日同时公布自研AI加速器MTIA 300和面向大规模AI以太网的新传输协议MetaRoCE，把自研基础设施的控制范围从芯片进一步延伸至网卡、通信和网络协议。
+3. 英伟达8月24日宣布，Groq 3 LPX已经进入量产，并被纳入Vera Rubin机架级系统，主要用于降低Agent应用在生成阶段的token解码延迟。
+4. 台湾检方8月24日起诉9人，其中包括英伟达台湾员工和超微电脑台湾员工，指控他们参与将受限制的高端AI服务器非法出口至中国。
+5. 阿里巴巴8月24日正式推出视频生成模型Wan3.0。
+6. 法国AI公司Mistral在8月24日宣布与沙特阿拉伯HUMAIN开展规模达数亿欧元的战略合作。
+7. 小鹏汽车8月24日宣布，其机器人业务完成首轮超过9亿美元的融资，投后估值超过63亿美元，创下中国具身智能领域的融资纪录。
+8. 路透社8月24日转述The Information的报道说，英伟达正在讨论参与AI搜索和Agent公司Perplexity的新一轮融资，本轮估值将超过300亿美元，高于大约一年前的200亿美元。
+9. RUM Group在8月24日宣布，与一家未披露身份的美国云计算客户签订约137亿美元、期限六年的GPU服务协议，服务将由其正在建设的美国乔治亚州Maysville站点提供。
+10. 路透社8月24日报道，美国证券交易委员会正在调查AI主题基金Situational Awareness在7月发生巨额亏损时的交易时点，并审查该基金与贷款方围绕交易杠杆进行的沟通。
+11. 8月24日，美股AI半导体板块集体承压，英伟达下跌约2.9%，美光科技下跌约5.8%，博通下跌约2.6%，纳斯达克指数收跌0.76%。
+
+⏱ 时长：13分33秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:13:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-24</title>
       <description>badstan每日经济早报-2026-08-24
@@ -1005,54 +1059,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:07:21</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-07-31</title>
-      <description>badstan每日经济早报-2026-07-31
-
-本期新闻：
-1. OpenAI大幅下调中小模型价格，将GPT-5.6 Luna的价格下调80%，Terra下调20%，旗舰模型Sol价格保持不变。
-2. Amazon第二季度AWS收入达到422亿美元，同比增长37%，为18个季度以来最快增速。
-3. Samsung第二季度半导体业务经营利润达到89.2万亿韩元，同比增长超过250倍。
-4. 欧盟将公共资金规模提高至100亿欧元，在成员国建设七座AI Gigafactory，并计划吸引至少200亿欧元私人投资。
-5. Apple本季度iPhone收入增长21.7%，Mac收入增长28.7%。
-6. Nexus Data Centers正在为与Anthropic相关的得州园区洽谈150亿美元融资。
-7. AI云服务商Nscale宣布收购Anyscale，交易金额未正式披露，外部报道估值约16.5亿美元。
-8. 美国商务部签署意向书，计划向七家开发AI和先进计算半导体技术的公司提供8.74亿美元激励，并在每家公司取得少数股权。
-
-⏱ 时长：7分23秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Fri, 31 Jul 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-07-31</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-07-31-audio.mp3" length="3548508" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-07-31</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-07-31
-
-本期新闻：
-1. OpenAI大幅下调中小模型价格，将GPT-5.6 Luna的价格下调80%，Terra下调20%，旗舰模型Sol价格保持不变。
-2. Amazon第二季度AWS收入达到422亿美元，同比增长37%，为18个季度以来最快增速。
-3. Samsung第二季度半导体业务经营利润达到89.2万亿韩元，同比增长超过250倍。
-4. 欧盟将公共资金规模提高至100亿欧元，在成员国建设七座AI Gigafactory，并计划吸引至少200亿欧元私人投资。
-5. Apple本季度iPhone收入增长21.7%，Mac收入增长28.7%。
-6. Nexus Data Centers正在为与Anthropic相关的得州园区洽谈150亿美元融资。
-7. AI云服务商Nscale宣布收购Anyscale，交易金额未正式披露，外部报道估值约16.5亿美元。
-8. 美国商务部签署意向书，计划向七家开发AI和先进计算半导体技术的公司提供8.74亿美元激励，并在每家公司取得少数股权。
-
-⏱ 时长：7分23秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:07:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
