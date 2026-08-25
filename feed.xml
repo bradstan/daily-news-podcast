@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 07:25:55 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:26:34 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-26</title>
+      <description>badstan每日经济早报-2026-08-26
+
+本期新闻：
+1. OpenAI在8月25日公布了首款自研推理芯片Jalapeño的第一批性能数据，意味着这款芯片开始从研发项目进入经济性验证阶段。
+2. 路透社8月25日援引《华尔街日报》报道，Anthropic预计将在筹备首次公开募股的过程中向投资者表示，公司面对的潜在总市场超过30万亿美元。
+3. 路透社8月25日晚间报道，西班牙政府正在准备一份新的数据中心法规草案，拟对电力、水资源、数据驻留和网络安全提出更严格的要求。
+4. Emerald AI在8月25日完成1.5亿美元A轮融资，公司估值达到10.5亿美元。
+5. 中国AI芯片公司燧原科技将在9月2日启动科创板申购，计划募集60亿元人民币，约合8.92亿美元。
+6. 苹果在8月25日发布新一代Mac mini和Mac Studio。
+7. 宇树科技上市首日一度上涨460%，公司市值最高达到约660亿美元，但此后股价连续下跌，从高点累计回撤约45%，市值减少约300亿美元。
+8. 英伟达将在8月26日公布财报，市场已经把这份业绩视为AI基础设施需求和科技股估值的一次集中检验。
+9. 除了产品和财务表现，英伟达越来越深入地参与客户融资，也成为这次财报前受到审视的交易结构。
+10. 英伟达财报公布前，期权市场隐含公司股价在业绩发布后单日波动约为正负5.4%，对应市值变化约2800亿美元。
+
+⏱ 时长：16分31秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 25 Aug 2026 23:26:33 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-26</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-26-audio.mp3" length="7930170" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-26</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-26
+
+本期新闻：
+1. OpenAI在8月25日公布了首款自研推理芯片Jalapeño的第一批性能数据，意味着这款芯片开始从研发项目进入经济性验证阶段。
+2. 路透社8月25日援引《华尔街日报》报道，Anthropic预计将在筹备首次公开募股的过程中向投资者表示，公司面对的潜在总市场超过30万亿美元。
+3. 路透社8月25日晚间报道，西班牙政府正在准备一份新的数据中心法规草案，拟对电力、水资源、数据驻留和网络安全提出更严格的要求。
+4. Emerald AI在8月25日完成1.5亿美元A轮融资，公司估值达到10.5亿美元。
+5. 中国AI芯片公司燧原科技将在9月2日启动科创板申购，计划募集60亿元人民币，约合8.92亿美元。
+6. 苹果在8月25日发布新一代Mac mini和Mac Studio。
+7. 宇树科技上市首日一度上涨460%，公司市值最高达到约660亿美元，但此后股价连续下跌，从高点累计回撤约45%，市值减少约300亿美元。
+8. 英伟达将在8月26日公布财报，市场已经把这份业绩视为AI基础设施需求和科技股估值的一次集中检验。
+9. 除了产品和财务表现，英伟达越来越深入地参与客户融资，也成为这次财报前受到审视的交易结构。
+10. 英伟达财报公布前，期权市场隐含公司股价在业绩发布后单日波动约为正负5.4%，对应市值变化约2800亿美元。
+
+⏱ 时长：16分31秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:16:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-25</title>
       <description>badstan每日经济早报-2026-08-25
