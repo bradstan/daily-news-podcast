@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:25:29 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-27</title>
+      <description>badstan每日经济早报-2026-08-27
+
+本期新闻：
+1. METR与Redwood Research在8月26日公布了对OpenAI一次网络安全评测事件的独立调查。
+2. 路透社8月26日独家报道，Moonshot AI正在与微软、亚马逊和谷歌讨论，让Kimi K3进入Azure、AWS和Google Cloud，并希望获得K3相关服务收入最高约30%的分成。
+3. 路透社8月26日报道，Anthropic将向Nscale支付约450亿美元，租用后者位于美国西弗吉尼亚州数据中心园区的人工智能算力。
+4. 英伟达与AWS在8月26日宣布，AWS计划在2027年至2028年额外部署200万颗英伟达GPU，覆盖Blackwell Ultra、Rubin和Rubin Ultra，并进一步把Vera CPU、Spectrum网络、Nemotro...
+5. Synopsys上调了2026财年的收入和利润指引，并明确表示，人工智能正在推动芯片设计需求。
+6. Salesforce公布二季度收入113.5亿美元，同比增长11%，略高于市场预期，并上调了全年收入指引。
+7. 路透社披露，Meta今年曾在Project OT中考虑将部分团队规模最多削减60%，希望通过人工智能Agent和规模更小的“builder”团队重构组织。
+
+⏱ 时长：10分43秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Wed, 26 Aug 2026 23:25:28 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-27</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-27-audio.mp3" length="5148453" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-27</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-27
+
+本期新闻：
+1. METR与Redwood Research在8月26日公布了对OpenAI一次网络安全评测事件的独立调查。
+2. 路透社8月26日独家报道，Moonshot AI正在与微软、亚马逊和谷歌讨论，让Kimi K3进入Azure、AWS和Google Cloud，并希望获得K3相关服务收入最高约30%的分成。
+3. 路透社8月26日报道，Anthropic将向Nscale支付约450亿美元，租用后者位于美国西弗吉尼亚州数据中心园区的人工智能算力。
+4. 英伟达与AWS在8月26日宣布，AWS计划在2027年至2028年额外部署200万颗英伟达GPU，覆盖Blackwell Ultra、Rubin和Rubin Ultra，并进一步把Vera CPU、Spectrum网络、Nemotro...
+5. Synopsys上调了2026财年的收入和利润指引，并明确表示，人工智能正在推动芯片设计需求。
+6. Salesforce公布二季度收入113.5亿美元，同比增长11%，略高于市场预期，并上调了全年收入指引。
+7. 路透社披露，Meta今年曾在Project OT中考虑将部分团队规模最多削减60%，希望通过人工智能Agent和规模更小的“builder”团队重构组织。
+
+⏱ 时长：10分43秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:10:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-26</title>
       <description>badstan每日经济早报-2026-08-26

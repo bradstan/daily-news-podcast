@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:25:29 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-27</title>
+      <description>badstan每日经济早报-2026-08-27
+
+本期新闻：
+1. METR与Redwood Research在8月26日公布了对OpenAI一次网络安全评测事件的独立调查。
+2. 路透社8月26日独家报道，Moonshot AI正在与微软、亚马逊和谷歌讨论，让Kimi K3进入Azure、AWS和Google Cloud，并希望获得K3相关服务收入最高约30%的分成。
+3. 路透社8月26日报道，Anthropic将向Nscale支付约450亿美元，租用后者位于美国西弗吉尼亚州数据中心园区的人工智能算力。
+4. 英伟达与AWS在8月26日宣布，AWS计划在2027年至2028年额外部署200万颗英伟达GPU，覆盖Blackwell Ultra、Rubin和Rubin Ultra，并进一步把Vera CPU、Spectrum网络、Nemotro...
+5. Synopsys上调了2026财年的收入和利润指引，并明确表示，人工智能正在推动芯片设计需求。
+6. Salesforce公布二季度收入113.5亿美元，同比增长11%，略高于市场预期，并上调了全年收入指引。
+7. 路透社披露，Meta今年曾在Project OT中考虑将部分团队规模最多削减60%，希望通过人工智能Agent和规模更小的“builder”团队重构组织。
+
+⏱ 时长：10分43秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Wed, 26 Aug 2026 23:25:28 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-27</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-27-audio.mp3" length="5148453" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-27</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-27
+
+本期新闻：
+1. METR与Redwood Research在8月26日公布了对OpenAI一次网络安全评测事件的独立调查。
+2. 路透社8月26日独家报道，Moonshot AI正在与微软、亚马逊和谷歌讨论，让Kimi K3进入Azure、AWS和Google Cloud，并希望获得K3相关服务收入最高约30%的分成。
+3. 路透社8月26日报道，Anthropic将向Nscale支付约450亿美元，租用后者位于美国西弗吉尼亚州数据中心园区的人工智能算力。
+4. 英伟达与AWS在8月26日宣布，AWS计划在2027年至2028年额外部署200万颗英伟达GPU，覆盖Blackwell Ultra、Rubin和Rubin Ultra，并进一步把Vera CPU、Spectrum网络、Nemotro...
+5. Synopsys上调了2026财年的收入和利润指引，并明确表示，人工智能正在推动芯片设计需求。
+6. Salesforce公布二季度收入113.5亿美元，同比增长11%，略高于市场预期，并上调了全年收入指引。
+7. 路透社披露，Meta今年曾在Project OT中考虑将部分团队规模最多削减60%，希望通过人工智能Agent和规模更小的“builder”团队重构组织。
+
+⏱ 时长：10分43秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:10:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-26</title>
       <description>badstan每日经济早报-2026-08-26
@@ -1011,56 +1057,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:05:49</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-02</title>
-      <description>badstan每日经济早报-2026-08-02
-
-本期新闻：
-1. OpenAI于8月1日公布“数学与理论计算机科学的十项进展”，称其下一代主要模型Astra的内部版本在高维几何、编码理论、群论、算子代数、量子复杂性和格密码等领域产生了十项新结果。
-2. xAI更新Imagine Video 1.5，新增图像参考、预设声音参考、纯文本生成视频和原生1080p输出。
-3. SpaceXAI表示，将在2027年7月前撤除为Colossus数据中心供电的69台临时燃气轮机，并随着一座永久性1.2GW天然气电厂投运分阶段移除。
-4. Alphabet在推出Google Earth生成式图像功能一天后将其暂停。
-5. Reuters报道，Citadel买入了Situational Awareness基金被迫出售的一部分持仓。
-6. OpenAI估算十项数学结果的Token总成本约2000美元。
-7. Astra式长时程科研推理与1080p视频生成虽然属于不同应用，但共同特点是单项任务计算时间更长、输出数据更多、验证和重试次数更高。
-8. 过去24小时为周末，欧美主要股市没有新的常规交易，周末新闻尚未形成价格发现。
-9. 本期窗口内未检索到Anthropic、Google DeepMind、Meta和Mistral足以改变竞争格局的新旗舰模型发布，产业注意力主要集中在科研能力、多模态应用和安全治理，而不是新一轮参数规模竞赛。
-
-⏱ 时长：7分34秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Sun, 02 Aug 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-02</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-02-audio.mp3" length="3634185" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-02</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-02
-
-本期新闻：
-1. OpenAI于8月1日公布“数学与理论计算机科学的十项进展”，称其下一代主要模型Astra的内部版本在高维几何、编码理论、群论、算子代数、量子复杂性和格密码等领域产生了十项新结果。
-2. xAI更新Imagine Video 1.5，新增图像参考、预设声音参考、纯文本生成视频和原生1080p输出。
-3. SpaceXAI表示，将在2027年7月前撤除为Colossus数据中心供电的69台临时燃气轮机，并随着一座永久性1.2GW天然气电厂投运分阶段移除。
-4. Alphabet在推出Google Earth生成式图像功能一天后将其暂停。
-5. Reuters报道，Citadel买入了Situational Awareness基金被迫出售的一部分持仓。
-6. OpenAI估算十项数学结果的Token总成本约2000美元。
-7. Astra式长时程科研推理与1080p视频生成虽然属于不同应用，但共同特点是单项任务计算时间更长、输出数据更多、验证和重试次数更高。
-8. 过去24小时为周末，欧美主要股市没有新的常规交易，周末新闻尚未形成价格发现。
-9. 本期窗口内未检索到Anthropic、Google DeepMind、Meta和Mistral足以改变竞争格局的新旗舰模型发布，产业注意力主要集中在科研能力、多模态应用和安全治理，而不是新一轮参数规模竞赛。
-
-⏱ 时长：7分34秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:07:34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
