@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 07:25:29 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:26:38 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,64 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-28</title>
+      <description>badstan每日经济早报-2026-08-28
+
+本期新闻：
+1. Anthropic在8月27日发布Model Hardware Standard，也就是MHS研究预览，目标是让AI Agent直接操作显微镜、机械臂等实验室和制造设备，并通过网络协调多台可编程硬件。
+2. 路透社8月27日援引知情人士独家报道，Anthropic此前曾讨论以大约70亿美元收购AI芯片初创公司MatX，希望借此加快自研芯片进程。
+3. Google DeepMind在8月27日公布首个面向前沿闭源模型的“双盲评测”试点。
+4. OpenAI牵头发布的一封公开信警告，未来几个月，由AI驱动的网络攻击可能明显变得更加普遍和复杂，医院、水务系统和互联网基础设施等关键系统都可能面临风险。
+5. The Information经路透社转述称，Nvidia已经同意以129亿美元收购开放模型平台Hugging Face，但双方尚未向路透社正式确认这项交易。
+6. 《华尔街日报》8月27日报道，Nvidia已经暂停部分AI Compute Partnership交易。
+7. SK Hynix在8月27日为美国印第安纳州的新项目举行开工仪式。
+8. 路透社8月27日报道，一个俄语黑客团伙今年早些时候使用Cursor AI编码Agent，协助入侵至少7家公司。
+9. Nvidia财报本身已经在此前披露，过去24小时出现的新信息主要是财报后的正常交易时段价格发现。
+10. Marvell公布第二季度收入27.4亿美元，同比增长37%；其中数据中心收入21.7亿美元，同比增长46%。
+11. Thinking Machines Lab联合创始人Barret Zoph宣布加入Google DeepMind，担任研究副总裁。
+12. The Information经路透社转述称，Anthropic计划在美国劳工节之后公开披露首次公开募股招股书，潜在上市时间为9月底或10月初。
+13. The Information经路透社转述称，SoftBank正在洽谈收购人形机器人公司1X的多数股权，潜在估值约为60亿美元。
+
+⏱ 时长：18分56秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 27 Aug 2026 23:26:36 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-28</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-28-audio.mp3" length="9094581" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-28</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-28
+
+本期新闻：
+1. Anthropic在8月27日发布Model Hardware Standard，也就是MHS研究预览，目标是让AI Agent直接操作显微镜、机械臂等实验室和制造设备，并通过网络协调多台可编程硬件。
+2. 路透社8月27日援引知情人士独家报道，Anthropic此前曾讨论以大约70亿美元收购AI芯片初创公司MatX，希望借此加快自研芯片进程。
+3. Google DeepMind在8月27日公布首个面向前沿闭源模型的“双盲评测”试点。
+4. OpenAI牵头发布的一封公开信警告，未来几个月，由AI驱动的网络攻击可能明显变得更加普遍和复杂，医院、水务系统和互联网基础设施等关键系统都可能面临风险。
+5. The Information经路透社转述称，Nvidia已经同意以129亿美元收购开放模型平台Hugging Face，但双方尚未向路透社正式确认这项交易。
+6. 《华尔街日报》8月27日报道，Nvidia已经暂停部分AI Compute Partnership交易。
+7. SK Hynix在8月27日为美国印第安纳州的新项目举行开工仪式。
+8. 路透社8月27日报道，一个俄语黑客团伙今年早些时候使用Cursor AI编码Agent，协助入侵至少7家公司。
+9. Nvidia财报本身已经在此前披露，过去24小时出现的新信息主要是财报后的正常交易时段价格发现。
+10. Marvell公布第二季度收入27.4亿美元，同比增长37%；其中数据中心收入21.7亿美元，同比增长46%。
+11. Thinking Machines Lab联合创始人Barret Zoph宣布加入Google DeepMind，担任研究副总裁。
+12. The Information经路透社转述称，Anthropic计划在美国劳工节之后公开披露首次公开募股招股书，潜在上市时间为9月底或10月初。
+13. The Information经路透社转述称，SoftBank正在洽谈收购人形机器人公司1X的多数股权，潜在估值约为60亿美元。
+
+⏱ 时长：18分56秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:18:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-27</title>
       <description>badstan每日经济早报-2026-08-27
