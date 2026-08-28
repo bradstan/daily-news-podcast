@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 07:26:38 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:25:32 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,54 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-29</title>
+      <description>badstan每日经济早报-2026-08-29
+
+本期新闻：
+1. 美国联邦法官丽塔·林裁定，五角大楼将人工智能公司Anthropic列为供应链风险的做法违法。
+2. 腾讯8月28日发布开放模型Hy4预览版，面向软件工程、研究和金融分析等任务。
+3. Blue Owl管理的基金8月28日宣布，为算力和数据中心运营商IREN安排24亿美元人工智能设备融资。
+4. 澳大利亚数据中心公司NextDC公布，截至今年6月的财年收入增长16%，基础息税折旧摊销前利润增长15%，公司实现扭亏为盈。
+5. Marvell周五盘中一度下跌超过8%，尽管公司的人工智能业务预期和与谷歌的长期合作规模仍然强劲。
+6. 中国存储芯片厂商长鑫存储公布上市后首份半年报。
+7. 摩根大通私人银行8月28日指出，今年以来，人工智能相关债务发行规模已经超过2200亿美元，是去年全年总额的两倍以上。
+8. 风险投资机构Andreessen Horowitz在8月28日宣布募集11亿美元的Machine Age Fund。
+
+⏱ 时长：12分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Fri, 28 Aug 2026 23:25:31 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-29</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-29-audio.mp3" length="5932377" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-29</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-29
+
+本期新闻：
+1. 美国联邦法官丽塔·林裁定，五角大楼将人工智能公司Anthropic列为供应链风险的做法违法。
+2. 腾讯8月28日发布开放模型Hy4预览版，面向软件工程、研究和金融分析等任务。
+3. Blue Owl管理的基金8月28日宣布，为算力和数据中心运营商IREN安排24亿美元人工智能设备融资。
+4. 澳大利亚数据中心公司NextDC公布，截至今年6月的财年收入增长16%，基础息税折旧摊销前利润增长15%，公司实现扭亏为盈。
+5. Marvell周五盘中一度下跌超过8%，尽管公司的人工智能业务预期和与谷歌的长期合作规模仍然强劲。
+6. 中国存储芯片厂商长鑫存储公布上市后首份半年报。
+7. 摩根大通私人银行8月28日指出，今年以来，人工智能相关债务发行规模已经超过2200亿美元，是去年全年总额的两倍以上。
+8. 风险投资机构Andreessen Horowitz在8月28日宣布募集11亿美元的Machine Age Fund。
+
+⏱ 时长：12分21秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:12:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-28</title>
       <description>badstan每日经济早报-2026-08-28
