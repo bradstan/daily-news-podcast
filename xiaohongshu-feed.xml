@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 07:25:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:27:12 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,48 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-30</title>
+      <description>badstan每日经济早报-2026-08-30
+
+本期新闻：
+1. OpenAI在8月29日宣布，计划结束向AI编程平台Cursor直接提供OpenAI模型的合同，拟定停止日期为2026年11月12日。
+2. The Information在8月29日报道，SpaceX已经采取措施，准备在得州Bastrop建立大型燃气轮机叶片和导向叶片的铸造及制造能力。
+3. 中国DRAM制造商长鑫存储在美国联邦法院起诉五角大楼，要求撤销将其列入“中国军工企业”名单的决定。
+4. SpaceX以大约600亿美元的全股票交易收购Cursor母公司Anysphere后，OpenAI准备依据控制权变更条款终止模型供应，使AI并购中一个原本容易被忽视的问题变得具体：目标公司的关键模型合同，未必能够随着控制权一起转移给买方。
+5. SpaceX筹备燃气轮机叶片和导向叶片生产能力，也显示AI资本开支正在从图形处理器、服务器和机房进一步进入重工业资产。
+
+⏱ 时长：9分44秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sat, 29 Aug 2026 23:27:11 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-30</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-30-audio.mp3" length="4674168" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-30</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-30
+
+本期新闻：
+1. OpenAI在8月29日宣布，计划结束向AI编程平台Cursor直接提供OpenAI模型的合同，拟定停止日期为2026年11月12日。
+2. The Information在8月29日报道，SpaceX已经采取措施，准备在得州Bastrop建立大型燃气轮机叶片和导向叶片的铸造及制造能力。
+3. 中国DRAM制造商长鑫存储在美国联邦法院起诉五角大楼，要求撤销将其列入“中国军工企业”名单的决定。
+4. SpaceX以大约600亿美元的全股票交易收购Cursor母公司Anysphere后，OpenAI准备依据控制权变更条款终止模型供应，使AI并购中一个原本容易被忽视的问题变得具体：目标公司的关键模型合同，未必能够随着控制权一起转移给买方。
+5. SpaceX筹备燃气轮机叶片和导向叶片生产能力，也显示AI资本开支正在从图形处理器、服务器和机房进一步进入重工业资产。
+
+⏱ 时长：9分44秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-29</title>
       <description>badstan每日经济早报-2026-08-29
@@ -1025,58 +1067,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:07:57</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-05</title>
-      <description>badstan每日经济早报-2026-08-05
-
-本期新闻：
-1. 美国政府与Meta、Anthropic、Google、Nvidia和OpenAI讨论了尚未公开的模型网络安全测试规则，并明确表示开放权重模型不会纳入这一自愿测试体系，测试主要针对具备高级网络攻击能力、由公司控制访问权限的闭源模型。
-2. Anthropic任命Mariano-Florentino Cuéllar为首任首席全球事务官，负责美国政府关系、国际政策和全球扩张。
-3. SpaceX首次以上市公司身份披露季度结果，其AI业务——包括xAI、Grok、X和数据中心业务——收入同比增长约250%，相关收入来自模型产品和向Anthropic、Google、Reflection AI等客户提供的算力合同。
-4. AMD第二季度收入同比增长50%至115.4亿美元，数据中心收入超过翻倍，达到67.2亿美元。
-5. Arista第二季度收入30.4亿美元，高于市场预期；第三季度收入指引为33亿美元，明显高于市场预期的29.4亿美元。
-6. Samsung发布V10 BV-NAND原型，采用超过400层结构及晶圆键合技术。
-7. Jacobs季度收入同比增长34.5%至40.8亿美元，其基础设施和先进设施业务利润增长13.6%。
-8. 《金融时报》披露，Google正联合Broadcom、Morgan Stanley、Apollo、Blackstone及多家数据中心开发商，为Anthropic构建约2000亿美元的算力融资体系。
-9. 从Google—Anthropic到AMD—Core Scientific，芯片供应商、云平台、数据中心开发商和金融机构正在共同承担项目融资。
-10. 美国联邦上诉法院推翻了此前禁止Perplexity购物Agent访问Amazon平台的临时禁令。
-
-⏱ 时长：7分30秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Wed, 05 Aug 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-05</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-05-audio.mp3" length="3607350" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-05</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-05
-
-本期新闻：
-1. 美国政府与Meta、Anthropic、Google、Nvidia和OpenAI讨论了尚未公开的模型网络安全测试规则，并明确表示开放权重模型不会纳入这一自愿测试体系，测试主要针对具备高级网络攻击能力、由公司控制访问权限的闭源模型。
-2. Anthropic任命Mariano-Florentino Cuéllar为首任首席全球事务官，负责美国政府关系、国际政策和全球扩张。
-3. SpaceX首次以上市公司身份披露季度结果，其AI业务——包括xAI、Grok、X和数据中心业务——收入同比增长约250%，相关收入来自模型产品和向Anthropic、Google、Reflection AI等客户提供的算力合同。
-4. AMD第二季度收入同比增长50%至115.4亿美元，数据中心收入超过翻倍，达到67.2亿美元。
-5. Arista第二季度收入30.4亿美元，高于市场预期；第三季度收入指引为33亿美元，明显高于市场预期的29.4亿美元。
-6. Samsung发布V10 BV-NAND原型，采用超过400层结构及晶圆键合技术。
-7. Jacobs季度收入同比增长34.5%至40.8亿美元，其基础设施和先进设施业务利润增长13.6%。
-8. 《金融时报》披露，Google正联合Broadcom、Morgan Stanley、Apollo、Blackstone及多家数据中心开发商，为Anthropic构建约2000亿美元的算力融资体系。
-9. 从Google—Anthropic到AMD—Core Scientific，芯片供应商、云平台、数据中心开发商和金融机构正在共同承担项目融资。
-10. 美国联邦上诉法院推翻了此前禁止Perplexity购物Agent访问Amazon平台的临时禁令。
-
-⏱ 时长：7分30秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:07:30</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
