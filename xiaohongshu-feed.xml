@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 07:27:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:24:20 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,44 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-08-31</title>
+      <description>badstan每日经济早报-2026-08-31
+
+本期新闻：
+1. TechCrunch 8月30日报道，埃隆·马斯克确认，SpaceX在得克萨斯州巴斯特罗普秘密建设的铸造设施，确实用于制造燃气轮机的叶片和导向叶片。
+2. TechCrunch 8月30日发布的卡特彼勒管理层访谈显示，AI基础设施资本开支带来的收入，正在从芯片和网络设备扩散到发电设备及其他工业环节。
+3. 《金融时报》8月30日汇总显示，Alphabet、亚马逊、英伟达和微软最近一个季度合计因为所持其他AI公司股权升值，获得了超过1600亿美元的利润增量。
+
+⏱ 时长：5分28秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sun, 30 Aug 2026 23:24:19 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-08-31</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-31-audio.mp3" length="2629155" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-08-31</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-08-31
+
+本期新闻：
+1. TechCrunch 8月30日报道，埃隆·马斯克确认，SpaceX在得克萨斯州巴斯特罗普秘密建设的铸造设施，确实用于制造燃气轮机的叶片和导向叶片。
+2. TechCrunch 8月30日发布的卡特彼勒管理层访谈显示，AI基础设施资本开支带来的收入，正在从芯片和网络设备扩散到发电设备及其他工业环节。
+3. 《金融时报》8月30日汇总显示，Alphabet、亚马逊、英伟达和微软最近一个季度合计因为所持其他AI公司股权升值，获得了超过1600亿美元的利润增量。
+
+⏱ 时长：5分28秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-30</title>
       <description>badstan每日经济早报-2026-08-30
@@ -1011,62 +1049,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:09:02</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-06</title>
-      <description>badstan每日经济早报-2026-08-06
-
-本期新闻：
-1. Google DeepMind进行了成立以来最重要的领导层调整。
-2. Anthropic确认正在组建为Claude设计定制AI芯片的团队，目前正在招聘横跨硬件和软件栈的工程师。
-3. Meta发布编程Agent Muse Code，由Muse Spark 1.2驱动，可编写、调试和验证代码，处理长周期项目，并并行运行多个子Agent。
-4. Foxconn 7月收入同比增长54.2%，达到9465亿新台币，约合279亿美元，单月收入首次突破9000亿新台币，创下历史纪录。
-5. Sandisk预计下一季度收入中值高于市场预期，其数据中心收入环比翻倍至29.8亿美元，企业SSD和闪存需求受生成式AI数据存储增长推动。
-6. GlobalFoundries二季度收入17.9亿美元，高于预期。
-7. AMD股价下跌约7%。
-8. SpaceX股价下跌13.6%。
-9. Shopify股价上涨超过18%。
-10. Figma盘后承压。
-11. Google投资由Jeff Dean等人创建的Discovery Loop，并与其签署云算力合作。
-12. 8月5日美股收盘，道指上涨0.49%并创纪录，标普500下跌0.17%，纳斯达克下跌0.83%。
-
-⏱ 时长：7分57秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Thu, 06 Aug 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-06</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-06-audio.mp3" length="3820368" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-06</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-06
-
-本期新闻：
-1. Google DeepMind进行了成立以来最重要的领导层调整。
-2. Anthropic确认正在组建为Claude设计定制AI芯片的团队，目前正在招聘横跨硬件和软件栈的工程师。
-3. Meta发布编程Agent Muse Code，由Muse Spark 1.2驱动，可编写、调试和验证代码，处理长周期项目，并并行运行多个子Agent。
-4. Foxconn 7月收入同比增长54.2%，达到9465亿新台币，约合279亿美元，单月收入首次突破9000亿新台币，创下历史纪录。
-5. Sandisk预计下一季度收入中值高于市场预期，其数据中心收入环比翻倍至29.8亿美元，企业SSD和闪存需求受生成式AI数据存储增长推动。
-6. GlobalFoundries二季度收入17.9亿美元，高于预期。
-7. AMD股价下跌约7%。
-8. SpaceX股价下跌13.6%。
-9. Shopify股价上涨超过18%。
-10. Figma盘后承压。
-11. Google投资由Jeff Dean等人创建的Discovery Loop，并与其签署云算力合作。
-12. 8月5日美股收盘，道指上涨0.49%并创纪录，标普500下跌0.17%，纳斯达克下跌0.83%。
-
-⏱ 时长：7分57秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:07:57</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
