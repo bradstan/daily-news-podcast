@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 07:24:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:26:24 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-01</title>
+      <description>badstan每日经济早报-2026-09-01
+
+本期新闻：
+1. OpenAI在8月31日宣布，ChatGPT Ads的年化收入运行规模已经达到10亿美元。
+2. Anthropic在8月31日公布安全整改方案。
+3. Sony Music和Warner Music的出版部门对Anthropic提起诉讼，指控该公司未经授权使用数百首歌曲的歌词和乐谱训练Claude，并要求法院下达禁令，同时按每项侵权行为最高15万美元追究法定赔偿。
+4. Nvidia宣布向MediaTek投资35亿美元，成为MediaTek规模创纪录的39亿美元海外可转债融资中的核心参与方。
+5. 据The Information报道并经路透社转述，中国DRAM厂商长鑫存储已经开始小批量生产HBM3E，并计划在2027年扩大产量。
+6. 法国半导体材料公司Soitec表示，随着AI数据中心对光互连的需求大幅增长，公司正在与客户签订多年期、固定价格并要求支付押金的光子绝缘体上硅晶圆供应协议。
+7. 全球油田服务公司SLB宣布，以41亿美元企业价值收购冷却设备制造商Kelvion，交易结构包括34亿美元现金和约7亿美元承接债务。
+8. 智谱AI公布，上半年收入达到9.539亿元人民币，同比增长400%；净亏损由24亿元收窄至20亿元，但研发费用同比增加36.6%，达到21亿元。
+9. 《华尔街日报》根据SB Energy首次公开募股草案披露，OpenAI获得了估值约55亿美元的SB Energy认股权证。
+10. MediaTek本次海外可转债融资规模达到39亿美元，其中Nvidia投入35亿美元，Alphabet也参与融资，但没有披露认购金额。
+11. 中国AI芯片公司燧原科技计划以每股142.18元人民币的价格登陆科创板，拟发行约4300万股，募集资金约61亿元人民币，折合约9.08亿美元。
+
+⏱ 时长：15分4秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 31 Aug 2026 23:26:22 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-01</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-01-audio.mp3" length="7232226" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-01</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-01
+
+本期新闻：
+1. OpenAI在8月31日宣布，ChatGPT Ads的年化收入运行规模已经达到10亿美元。
+2. Anthropic在8月31日公布安全整改方案。
+3. Sony Music和Warner Music的出版部门对Anthropic提起诉讼，指控该公司未经授权使用数百首歌曲的歌词和乐谱训练Claude，并要求法院下达禁令，同时按每项侵权行为最高15万美元追究法定赔偿。
+4. Nvidia宣布向MediaTek投资35亿美元，成为MediaTek规模创纪录的39亿美元海外可转债融资中的核心参与方。
+5. 据The Information报道并经路透社转述，中国DRAM厂商长鑫存储已经开始小批量生产HBM3E，并计划在2027年扩大产量。
+6. 法国半导体材料公司Soitec表示，随着AI数据中心对光互连的需求大幅增长，公司正在与客户签订多年期、固定价格并要求支付押金的光子绝缘体上硅晶圆供应协议。
+7. 全球油田服务公司SLB宣布，以41亿美元企业价值收购冷却设备制造商Kelvion，交易结构包括34亿美元现金和约7亿美元承接债务。
+8. 智谱AI公布，上半年收入达到9.539亿元人民币，同比增长400%；净亏损由24亿元收窄至20亿元，但研发费用同比增加36.6%，达到21亿元。
+9. 《华尔街日报》根据SB Energy首次公开募股草案披露，OpenAI获得了估值约55亿美元的SB Energy认股权证。
+10. MediaTek本次海外可转债融资规模达到39亿美元，其中Nvidia投入35亿美元，Alphabet也参与融资，但没有披露认购金额。
+11. 中国AI芯片公司燧原科技计划以每股142.18元人民币的价格登陆科创板，拟发行约4300万股，募集资金约61亿元人民币，折合约9.08亿美元。
+
+⏱ 时长：15分4秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-08-31</title>
       <description>badstan每日经济早报-2026-08-31
@@ -991,64 +1045,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:09:39</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-07</title>
-      <description>badstan每日经济早报-2026-08-07
-
-本期新闻：
-1. OpenAI在Black Hat安全会议上披露此前网络安全测试事故细节。
-2. 过去24小时内，OpenAI、Anthropic、Google DeepMind、Meta、xAI或Mistral均未发布足以改变能力上限的新旗舰模型。
-3. AMD宣布收购AI芯片创业公司Taalas，交易金额未披露。
-4. SpaceX与Tesla披露，计划在得州Grimes County建设先进AI半导体综合体，一期投资约168亿美元。
-5. Microsoft在海得拉巴启用其印度最大数据中心枢纽，使其在印度拥有四个云区域。
-6. 光互连创业公司Lumilens完成超过7亿美元融资，估值约55亿美元，并称已经开始向一家未具名Hyperscaler供货，相关多年协议规模达到数十亿美元。
-7. Cloudflare二季度收入6.961亿美元，高于市场预期，并将全年收入预期上调至28.6亿—28.7亿美元。
-8. Datadog二季度收入同比增长36%至11.2亿美元，仍高于市场预期，但公司表示，一名大型AI客户降低了平台使用量，因此预计三季度增长放缓，并给出低于市场预期的全年收入指引，股价一度下跌约19%。
-9. Sandisk和Western Digital都给出了高于一致预期的收入指引，AI数据中心对企业SSD和大容量存储的需求仍然强劲，但两家公司股价分别显著下跌。
-10. Alphabet计划发行约200亿—250亿美元美元债券，期限覆盖2年至40年。
-11. SoftBank披露已同意以OpenAI股权作为抵押获得100亿美元贷款。
-12. 多位美联储官员公开表示，AI基础设施投资的规模、增长速度、债务融资和不确定回报已经进入监管视野。
-13. 8月6日美股收盘，道指下跌约0.85%，标普500下跌约0.18%，纳斯达克下跌约0.06%。
-
-⏱ 时长：9分2秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Fri, 07 Aug 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-07</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-07-audio.mp3" length="4342653" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-07</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-07
-
-本期新闻：
-1. OpenAI在Black Hat安全会议上披露此前网络安全测试事故细节。
-2. 过去24小时内，OpenAI、Anthropic、Google DeepMind、Meta、xAI或Mistral均未发布足以改变能力上限的新旗舰模型。
-3. AMD宣布收购AI芯片创业公司Taalas，交易金额未披露。
-4. SpaceX与Tesla披露，计划在得州Grimes County建设先进AI半导体综合体，一期投资约168亿美元。
-5. Microsoft在海得拉巴启用其印度最大数据中心枢纽，使其在印度拥有四个云区域。
-6. 光互连创业公司Lumilens完成超过7亿美元融资，估值约55亿美元，并称已经开始向一家未具名Hyperscaler供货，相关多年协议规模达到数十亿美元。
-7. Cloudflare二季度收入6.961亿美元，高于市场预期，并将全年收入预期上调至28.6亿—28.7亿美元。
-8. Datadog二季度收入同比增长36%至11.2亿美元，仍高于市场预期，但公司表示，一名大型AI客户降低了平台使用量，因此预计三季度增长放缓，并给出低于市场预期的全年收入指引，股价一度下跌约19%。
-9. Sandisk和Western Digital都给出了高于一致预期的收入指引，AI数据中心对企业SSD和大容量存储的需求仍然强劲，但两家公司股价分别显著下跌。
-10. Alphabet计划发行约200亿—250亿美元美元债券，期限覆盖2年至40年。
-11. SoftBank披露已同意以OpenAI股权作为抵押获得100亿美元贷款。
-12. 多位美联储官员公开表示，AI基础设施投资的规模、增长速度、债务融资和不确定回报已经进入监管视野。
-13. 8月6日美股收盘，道指下跌约0.85%，标普500下跌约0.18%，纳斯达克下跌约0.06%。
-
-⏱ 时长：9分2秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:09:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
