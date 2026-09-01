@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 07:26:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:26:12 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,62 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-02</title>
+      <description>badstan每日经济早报-2026-09-02
+
+本期新闻：
+1. Anthropic在9月1日正式推出Claude Fable 5.1和Claude Mythos 5.1。
+2. OpenAI在9月1日确认，即将发布的Astra已经达到公司Preparedness Framework所规定的“Critical网络安全能力”门槛。
+3. 路透社8月31日晚披露并在本报道窗口内持续发酵的消息显示，Anthropic与获得英伟达支持的AI云服务商Lambda签署了约350亿美元的云计算协议。
+4. 在与Lambda签订约350亿美元合同之前，Anthropic上周刚刚公布了与Nscale相关的西弗吉尼亚州算力合同，合同价值约450亿美元。
+5. 软银支持的SB Energy在9月1日正式递交美国首次公开募股文件，计划在纳斯达克上市，股票代码为SBE。
+6. SB Energy此次上市申请，也把AI数据中心的未来现金流正式交给公开市场定价。
+7. 法国云服务商OVHcloud获得了法国SecNumCloud网络安全资格，可以向政府、受监管企业以及公共部门软件供应商提供经过认证的公共云服务。
+8. 戴尔在9月1日公布创纪录的季度业绩，并在本财年内第二次上调全年预测。
+9. Palo Alto Networks公布的第四季度收入为34.1亿美元，高于市场预期的33.5亿美元；调整后每股收益为1.02美元，同样超过预期。
+10. Palo Alto Networks同时宣布收购AI原生平台Console。
+11. 9月1日正常交易时段，英伟达下跌约1.5%，CoreWeave下跌约3.6%，Hut 8也小幅走弱。
+12. 9月1日，美国10年期国债收益率升至约4.8%，全球债券市场继续遭遇抛售。
+
+⏱ 时长：13分47秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 01 Sep 2026 23:26:11 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-02</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-02-audio.mp3" length="6621996" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-02</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-02
+
+本期新闻：
+1. Anthropic在9月1日正式推出Claude Fable 5.1和Claude Mythos 5.1。
+2. OpenAI在9月1日确认，即将发布的Astra已经达到公司Preparedness Framework所规定的“Critical网络安全能力”门槛。
+3. 路透社8月31日晚披露并在本报道窗口内持续发酵的消息显示，Anthropic与获得英伟达支持的AI云服务商Lambda签署了约350亿美元的云计算协议。
+4. 在与Lambda签订约350亿美元合同之前，Anthropic上周刚刚公布了与Nscale相关的西弗吉尼亚州算力合同，合同价值约450亿美元。
+5. 软银支持的SB Energy在9月1日正式递交美国首次公开募股文件，计划在纳斯达克上市，股票代码为SBE。
+6. SB Energy此次上市申请，也把AI数据中心的未来现金流正式交给公开市场定价。
+7. 法国云服务商OVHcloud获得了法国SecNumCloud网络安全资格，可以向政府、受监管企业以及公共部门软件供应商提供经过认证的公共云服务。
+8. 戴尔在9月1日公布创纪录的季度业绩，并在本财年内第二次上调全年预测。
+9. Palo Alto Networks公布的第四季度收入为34.1亿美元，高于市场预期的33.5亿美元；调整后每股收益为1.02美元，同样超过预期。
+10. Palo Alto Networks同时宣布收购AI原生平台Console。
+11. 9月1日正常交易时段，英伟达下跌约1.5%，CoreWeave下跌约3.6%，Hut 8也小幅走弱。
+12. 9月1日，美国10年期国债收益率升至约4.8%，全球债券市场继续遭遇抛售。
+
+⏱ 时长：13分47秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:13:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-01</title>
       <description>badstan每日经济早报-2026-09-01
@@ -981,70 +1037,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:09:52</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-09</title>
-      <description>badstan每日经济早报-2026-08-09
-
-本期新闻：
-1. xAI的Imagine Image 2.0已在Grok网页端、iOS和Android上作为Quality Mode全面上线。
-2. Apple发布中国大陆使用指南，符合条件的Mac用户可以把Alibaba的Qwen连接到Siri和Writing Tools，用于更复杂的问答、文档和图片分析、文字及图像生成。
-3. NextSlide团队宣布加入OpenAI并参与ChatGPT产品，交易金额未披露。
-4. Amazon确认在西得州Pecos County购入数据中心用地，并计划从Pacifico Energy开发的GW Ranch购买电力。
-5. Firebird于8月8日在亚美尼亚正式启用AI Factory，NVIDIA、Dell Technologies、CoreWeave以及当地政府参与项目。
-6. Reuters援引The Information报道，NVIDIA计划先投入20亿美元，取得Blackstone支持的电力基础设施开发商Lancium约20%股权；若Lancium达到包括电网接入在内的部分条件，NVIDIA还可能再投...
-7. NVIDIA官方确认有意投资Firebird，但尚未披露金额。
-8. NextSlide交易金额没有披露，而且交易在几个月前已经完成，因此它今天的价值主要在产品战略，而不是新增资本流。
-9. 今天是周日，短期重点不在盘中行情，而在为下周几项AI产业链验证做准备。
-10. CoreWeave将于8月11日美股盘后公布二季度业绩，重点看收入增长之外的五项：合同积压、资本开支、利息费用、客户集中度、GPU利用率。
-11. Nebius将于8月12日美股盘前公布二季度业绩，重点观察已上线容量、AI云收入增长、融资与债务、客户合同和资产利用率。
-12. Cisco将于8月12日公布FY2026第四季度业绩，重点看数据中心交换机和AI网络订单。
-13. Applied Materials将于8月13日公布2026财年第三季度业绩，重点看先进逻辑、DRAM/HBM、先进封装相关设备需求。
-14. Apple与Qwen的合作给Alibaba带来的核心资产不是一次模型调用收入，而是系统级分发。
-15. NVIDIA一方面据报准备最多投入30亿美元进入Lancium，另一方面官方确认拟投资Firebird。
-16. GW Ranch反映Amazon正在通过自备和私网电力解决AI基础设施最现实的瓶颈。
-
-⏱ 时长：9分39秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Sun, 09 Aug 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-09</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-09-audio.mp3" length="4632324" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-09</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-09
-
-本期新闻：
-1. xAI的Imagine Image 2.0已在Grok网页端、iOS和Android上作为Quality Mode全面上线。
-2. Apple发布中国大陆使用指南，符合条件的Mac用户可以把Alibaba的Qwen连接到Siri和Writing Tools，用于更复杂的问答、文档和图片分析、文字及图像生成。
-3. NextSlide团队宣布加入OpenAI并参与ChatGPT产品，交易金额未披露。
-4. Amazon确认在西得州Pecos County购入数据中心用地，并计划从Pacifico Energy开发的GW Ranch购买电力。
-5. Firebird于8月8日在亚美尼亚正式启用AI Factory，NVIDIA、Dell Technologies、CoreWeave以及当地政府参与项目。
-6. Reuters援引The Information报道，NVIDIA计划先投入20亿美元，取得Blackstone支持的电力基础设施开发商Lancium约20%股权；若Lancium达到包括电网接入在内的部分条件，NVIDIA还可能再投...
-7. NVIDIA官方确认有意投资Firebird，但尚未披露金额。
-8. NextSlide交易金额没有披露，而且交易在几个月前已经完成，因此它今天的价值主要在产品战略，而不是新增资本流。
-9. 今天是周日，短期重点不在盘中行情，而在为下周几项AI产业链验证做准备。
-10. CoreWeave将于8月11日美股盘后公布二季度业绩，重点看收入增长之外的五项：合同积压、资本开支、利息费用、客户集中度、GPU利用率。
-11. Nebius将于8月12日美股盘前公布二季度业绩，重点观察已上线容量、AI云收入增长、融资与债务、客户合同和资产利用率。
-12. Cisco将于8月12日公布FY2026第四季度业绩，重点看数据中心交换机和AI网络订单。
-13. Applied Materials将于8月13日公布2026财年第三季度业绩，重点看先进逻辑、DRAM/HBM、先进封装相关设备需求。
-14. Apple与Qwen的合作给Alibaba带来的核心资产不是一次模型调用收入，而是系统级分发。
-15. NVIDIA一方面据报准备最多投入30亿美元进入Lancium，另一方面官方确认拟投资Firebird。
-16. GW Ranch反映Amazon正在通过自备和私网电力解决AI基础设施最现实的瓶颈。
-
-⏱ 时长：9分39秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:09:39</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />

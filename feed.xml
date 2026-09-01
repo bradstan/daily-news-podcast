@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 07:26:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:26:12 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,62 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-02</title>
+      <description>badstan每日经济早报-2026-09-02
+
+本期新闻：
+1. Anthropic在9月1日正式推出Claude Fable 5.1和Claude Mythos 5.1。
+2. OpenAI在9月1日确认，即将发布的Astra已经达到公司Preparedness Framework所规定的“Critical网络安全能力”门槛。
+3. 路透社8月31日晚披露并在本报道窗口内持续发酵的消息显示，Anthropic与获得英伟达支持的AI云服务商Lambda签署了约350亿美元的云计算协议。
+4. 在与Lambda签订约350亿美元合同之前，Anthropic上周刚刚公布了与Nscale相关的西弗吉尼亚州算力合同，合同价值约450亿美元。
+5. 软银支持的SB Energy在9月1日正式递交美国首次公开募股文件，计划在纳斯达克上市，股票代码为SBE。
+6. SB Energy此次上市申请，也把AI数据中心的未来现金流正式交给公开市场定价。
+7. 法国云服务商OVHcloud获得了法国SecNumCloud网络安全资格，可以向政府、受监管企业以及公共部门软件供应商提供经过认证的公共云服务。
+8. 戴尔在9月1日公布创纪录的季度业绩，并在本财年内第二次上调全年预测。
+9. Palo Alto Networks公布的第四季度收入为34.1亿美元，高于市场预期的33.5亿美元；调整后每股收益为1.02美元，同样超过预期。
+10. Palo Alto Networks同时宣布收购AI原生平台Console。
+11. 9月1日正常交易时段，英伟达下跌约1.5%，CoreWeave下跌约3.6%，Hut 8也小幅走弱。
+12. 9月1日，美国10年期国债收益率升至约4.8%，全球债券市场继续遭遇抛售。
+
+⏱ 时长：13分47秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 01 Sep 2026 23:26:11 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-02</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-02-audio.mp3" length="6621996" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-02</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-02
+
+本期新闻：
+1. Anthropic在9月1日正式推出Claude Fable 5.1和Claude Mythos 5.1。
+2. OpenAI在9月1日确认，即将发布的Astra已经达到公司Preparedness Framework所规定的“Critical网络安全能力”门槛。
+3. 路透社8月31日晚披露并在本报道窗口内持续发酵的消息显示，Anthropic与获得英伟达支持的AI云服务商Lambda签署了约350亿美元的云计算协议。
+4. 在与Lambda签订约350亿美元合同之前，Anthropic上周刚刚公布了与Nscale相关的西弗吉尼亚州算力合同，合同价值约450亿美元。
+5. 软银支持的SB Energy在9月1日正式递交美国首次公开募股文件，计划在纳斯达克上市，股票代码为SBE。
+6. SB Energy此次上市申请，也把AI数据中心的未来现金流正式交给公开市场定价。
+7. 法国云服务商OVHcloud获得了法国SecNumCloud网络安全资格，可以向政府、受监管企业以及公共部门软件供应商提供经过认证的公共云服务。
+8. 戴尔在9月1日公布创纪录的季度业绩，并在本财年内第二次上调全年预测。
+9. Palo Alto Networks公布的第四季度收入为34.1亿美元，高于市场预期的33.5亿美元；调整后每股收益为1.02美元，同样超过预期。
+10. Palo Alto Networks同时宣布收购AI原生平台Console。
+11. 9月1日正常交易时段，英伟达下跌约1.5%，CoreWeave下跌约3.6%，Hut 8也小幅走弱。
+12. 9月1日，美国10年期国债收益率升至约4.8%，全球债券市场继续遭遇抛售。
+
+⏱ 时长：13分47秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:13:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-01</title>
       <description>badstan每日经济早报-2026-09-01
