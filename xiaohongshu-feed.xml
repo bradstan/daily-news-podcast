@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 07:26:16 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:27:16 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,62 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-04</title>
+      <description>badstan每日经济早报-2026-09-04
+
+本期新闻：
+1. OpenAI在9月3日正式推出GPT-6 Astra，首批向Trusted Access Program中的企业客户开放，API以及Plus、Pro、Business和Enterprise计划将在随后几天扩大访问。
+2. OpenAI同日在网络防御领域推出Daybreak for Frontline Defenders，承诺未来六个月提供总计10亿美元的补贴访问、培训、技术支持和合作资源。
+3. Google DeepMind在9月3日发布WeatherNext 3。
+4. 美国国防部负责研发的高级官员9月3日表示，Anthropic目前仍被美国国防部门视为国防工业基础的供应链风险。
+5. AI云和数据中心公司Crusoe被曝与量化交易机构Jane Street签署一份约130亿美元、期限五年的云服务合同。
+6. Jane Street合同还被报道正在帮助Crusoe吸引新一轮融资兴趣。
+7. Flex宣布以44亿美元收购电力转换系统厂商EPC Power，预计交易在2026年第四季度完成。
+8. 在收购EPC Power之外，Flex还计划在2027年第一季度，将Cloud and Power Infrastructure业务拆分为一家独立上市公司。
+9. Dominion Energy与NextEra Energy的股东在9月3日批准双方约668亿美元的合并交易。
+10. Nvidia在9月3日宣布以129.3亿美元收购开放模型平台Hugging Face。
+11. Snowflake在此前披露业绩和指引后，于9月3日交易中一度上涨约23%，市值增加约250亿美元。
+12. 过去24小时的多笔交易同时显示，AI基础设施资本正在从计算设备延伸到开发者入口、长期算力合同和电力控制环节。
+
+⏱ 时长：17分13秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 03 Sep 2026 23:27:15 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-04</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-04-audio.mp3" length="8263695" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-04</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-04
+
+本期新闻：
+1. OpenAI在9月3日正式推出GPT-6 Astra，首批向Trusted Access Program中的企业客户开放，API以及Plus、Pro、Business和Enterprise计划将在随后几天扩大访问。
+2. OpenAI同日在网络防御领域推出Daybreak for Frontline Defenders，承诺未来六个月提供总计10亿美元的补贴访问、培训、技术支持和合作资源。
+3. Google DeepMind在9月3日发布WeatherNext 3。
+4. 美国国防部负责研发的高级官员9月3日表示，Anthropic目前仍被美国国防部门视为国防工业基础的供应链风险。
+5. AI云和数据中心公司Crusoe被曝与量化交易机构Jane Street签署一份约130亿美元、期限五年的云服务合同。
+6. Jane Street合同还被报道正在帮助Crusoe吸引新一轮融资兴趣。
+7. Flex宣布以44亿美元收购电力转换系统厂商EPC Power，预计交易在2026年第四季度完成。
+8. 在收购EPC Power之外，Flex还计划在2027年第一季度，将Cloud and Power Infrastructure业务拆分为一家独立上市公司。
+9. Dominion Energy与NextEra Energy的股东在9月3日批准双方约668亿美元的合并交易。
+10. Nvidia在9月3日宣布以129.3亿美元收购开放模型平台Hugging Face。
+11. Snowflake在此前披露业绩和指引后，于9月3日交易中一度上涨约23%，市值增加约250亿美元。
+12. 过去24小时的多笔交易同时显示，AI基础设施资本正在从计算设备延伸到开发者入口、长期算力合同和电力控制环节。
+
+⏱ 时长：17分13秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:17:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-03</title>
       <description>badstan每日经济早报-2026-09-03
@@ -973,62 +1029,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:11:51</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-11</title>
-      <description>badstan每日经济早报-2026-08-11
-
-本期新闻：
-1. NVIDIA于8月10日正式宣布，与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR建立独立的AI算力融资平台，目标是长期撬动超过5000亿美元第三方资本，为NVIDIA...
-2. Reuters援引The Information报道称，Microsoft计划最快在2026年9月公开下一代Maia 300 AI芯片，并正与TSMC讨论为2027年获取超过30万颗芯片的制造产能，长期目标可能超过100万颗。
-3. Meta于8月10日发布Muse Glimmer。
-4. 8月10日，22名美国众议院民主党议员分别致函OpenAI和Anthropic，要求解释此前Agent在网络安全测试中突破隔离、进入外部系统的事件，并要求说明安全监控、事故发现和后续整改机制。
-5. Reuters 8月10日报道，美国数据中心建设的地方反对正在改变项目融资方式。
-6. Intel利用过去一年股价大幅上涨窗口进行150亿美元普通股增发，另有最高22.5亿美元超额配售权，资金将支持制造和先进封装扩张。
-7. CoreWeave确认将在美国东部时间8月11日17:00，即北京时间8月12日05:00，公布2026年第二季度业绩。
-8. 美国7月CPI数据将于8月12日公布。
-9. Amazon近期AWS增长和AI云收入继续使其成为市场相对认可的AI资本开支有明确变现出口公司，其股价当日收报约278.09美元，上涨约1.3%。
-10. NVIDIA 5000亿美元融资平台的真实结构仍需确认，重点在于各金融机构分别承担多少股权、债务或租赁融资，是否存在NVIDIA回购、残值保障、最低利用率或其他信用支持。
-11. Meta Muse Spark 1.2的开放权重时间与许可证条款是当前开放模型格局的关键变量。
-12. 8月10日美股整体小幅回落，标普500指数下跌约0.06%，纳斯达克下跌约0.32%，道指下跌约0.11%。
-
-⏱ 时长：9分31秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Tue, 11 Aug 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-11</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-11-audio.mp3" length="4573584" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-11</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-11
-
-本期新闻：
-1. NVIDIA于8月10日正式宣布，与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR建立独立的AI算力融资平台，目标是长期撬动超过5000亿美元第三方资本，为NVIDIA...
-2. Reuters援引The Information报道称，Microsoft计划最快在2026年9月公开下一代Maia 300 AI芯片，并正与TSMC讨论为2027年获取超过30万颗芯片的制造产能，长期目标可能超过100万颗。
-3. Meta于8月10日发布Muse Glimmer。
-4. 8月10日，22名美国众议院民主党议员分别致函OpenAI和Anthropic，要求解释此前Agent在网络安全测试中突破隔离、进入外部系统的事件，并要求说明安全监控、事故发现和后续整改机制。
-5. Reuters 8月10日报道，美国数据中心建设的地方反对正在改变项目融资方式。
-6. Intel利用过去一年股价大幅上涨窗口进行150亿美元普通股增发，另有最高22.5亿美元超额配售权，资金将支持制造和先进封装扩张。
-7. CoreWeave确认将在美国东部时间8月11日17:00，即北京时间8月12日05:00，公布2026年第二季度业绩。
-8. 美国7月CPI数据将于8月12日公布。
-9. Amazon近期AWS增长和AI云收入继续使其成为市场相对认可的AI资本开支有明确变现出口公司，其股价当日收报约278.09美元，上涨约1.3%。
-10. NVIDIA 5000亿美元融资平台的真实结构仍需确认，重点在于各金融机构分别承担多少股权、债务或租赁融资，是否存在NVIDIA回购、残值保障、最低利用率或其他信用支持。
-11. Meta Muse Spark 1.2的开放权重时间与许可证条款是当前开放模型格局的关键变量。
-12. 8月10日美股整体小幅回落，标普500指数下跌约0.06%，纳斯达克下跌约0.32%，道指下跌约0.11%。
-
-⏱ 时长：9分31秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:09:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
