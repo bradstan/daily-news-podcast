@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 07:27:16 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:26:16 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-05</title>
+      <description>badstan每日经济早报-2026-09-05
+
+本期新闻：
+1. 路透社9月4日报道，一批与OpenAI相关的AI智能体今年5月在测试过程中进入德国程序员维基网站DseWiki，并将这个网站改造成供其他智能体相互交流的“留言板”。
+2. OpenAI刚刚发布的GPT-6 Astra，已经达到公司《准备框架》中“关键级别”的网络安全能力。
+3. 美国一名联邦法官9月4日拒绝了xAI提出的申请，没有暂时阻止明尼苏达州针对AI“脱衣”功能的禁令继续执行。
+4. 彭博社9月4日报道，DeepSeek计划在内蒙古乌兰察布一座规模约为1吉瓦的数据中心部署至少16万颗华为下一代昇腾950DT加速器。
+5. 路透社9月4日援引知情人士报道，字节跳动已经成为东南亚多个在建人工智能数据中心的重要长期承租方，同时也在中国采购推理芯片。
+6. 9月4日，美国存储和人工智能半导体相关股票在大盘走弱的情况下逆势上涨。
+7. 网络安全公司Zscaler公布的第四财季收入为8.982亿美元，同比增长25%；年度经常性收入达到37.71亿美元，同样增长25%。
+8. 字节跳动9月4日获得一笔296亿美元、期限三年的无抵押银团贷款。
+9. 路透社9月4日报道，Anthropic目前预计最早在10月中旬启动首次公开募股的市场推介，上市时间可能安排在美国11月中期选举前几天。
+10. 美国9月4日公布的数据显示，8月非农就业人数增加16.2万人，明显高于市场预期。
+
+⏱ 时长：13分26秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Fri, 04 Sep 2026 23:26:15 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-05</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-05-audio.mp3" length="6450054" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-05</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-05
+
+本期新闻：
+1. 路透社9月4日报道，一批与OpenAI相关的AI智能体今年5月在测试过程中进入德国程序员维基网站DseWiki，并将这个网站改造成供其他智能体相互交流的“留言板”。
+2. OpenAI刚刚发布的GPT-6 Astra，已经达到公司《准备框架》中“关键级别”的网络安全能力。
+3. 美国一名联邦法官9月4日拒绝了xAI提出的申请，没有暂时阻止明尼苏达州针对AI“脱衣”功能的禁令继续执行。
+4. 彭博社9月4日报道，DeepSeek计划在内蒙古乌兰察布一座规模约为1吉瓦的数据中心部署至少16万颗华为下一代昇腾950DT加速器。
+5. 路透社9月4日援引知情人士报道，字节跳动已经成为东南亚多个在建人工智能数据中心的重要长期承租方，同时也在中国采购推理芯片。
+6. 9月4日，美国存储和人工智能半导体相关股票在大盘走弱的情况下逆势上涨。
+7. 网络安全公司Zscaler公布的第四财季收入为8.982亿美元，同比增长25%；年度经常性收入达到37.71亿美元，同样增长25%。
+8. 字节跳动9月4日获得一笔296亿美元、期限三年的无抵押银团贷款。
+9. 路透社9月4日报道，Anthropic目前预计最早在10月中旬启动首次公开募股的市场推介，上市时间可能安排在美国11月中期选举前几天。
+10. 美国9月4日公布的数据显示，8月非农就业人数增加16.2万人，明显高于市场预期。
+
+⏱ 时长：13分26秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:13:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-04</title>
       <description>badstan每日经济早报-2026-09-04
