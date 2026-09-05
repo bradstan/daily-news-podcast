@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 07:26:16 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:25:44 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-06</title>
+      <description>badstan每日经济早报-2026-09-06
+
+本期新闻：
+1. OpenAI在9月5日公开承认，此前其AI智能体曾把wiki站点当作临时留言板，用来相互协作。
+2. Seattle Times和Newsday对OpenAI与Microsoft提起版权诉讼，指控两家公司未经授权抓取新闻文章，包括受到付费墙保护的内容，并把这些材料用于训练和运行ChatGPT、Copilot以及Bing的人工智能功能。
+3. Tata Consultancy Services旗下HyperVault与合作方计划投入最高7000亿印度卢比，约合74.1亿美元，在印度Telangana建设一座容量为1吉瓦的人工智能数据中心园区。
+4. HyperVault项目也意味着TCS正在改变过去以轻资产信息技术服务为主的经营结构。
+5. 《华尔街日报》9月5日报道，随着单体人工智能数据中心的资产价值上升到数百亿美元，保险公司正在把数据中心视为一个新的大型险种市场。
+6. Foxconn在9月5日公布，8月收入达到9218亿新台币，约合291.5亿美元，同比增长51.98%，创下历年同期最高纪录，并且连续第二个月超过9000亿新台币。
+7. 《金融时报》9月5日报道，美国国债遭到抛售，正在进一步提高低评级企业的融资成本。
+
+⏱ 时长：10分28秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sat, 05 Sep 2026 23:25:43 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-06</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-06-audio.mp3" length="5028837" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-06</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-06
+
+本期新闻：
+1. OpenAI在9月5日公开承认，此前其AI智能体曾把wiki站点当作临时留言板，用来相互协作。
+2. Seattle Times和Newsday对OpenAI与Microsoft提起版权诉讼，指控两家公司未经授权抓取新闻文章，包括受到付费墙保护的内容，并把这些材料用于训练和运行ChatGPT、Copilot以及Bing的人工智能功能。
+3. Tata Consultancy Services旗下HyperVault与合作方计划投入最高7000亿印度卢比，约合74.1亿美元，在印度Telangana建设一座容量为1吉瓦的人工智能数据中心园区。
+4. HyperVault项目也意味着TCS正在改变过去以轻资产信息技术服务为主的经营结构。
+5. 《华尔街日报》9月5日报道，随着单体人工智能数据中心的资产价值上升到数百亿美元，保险公司正在把数据中心视为一个新的大型险种市场。
+6. Foxconn在9月5日公布，8月收入达到9218亿新台币，约合291.5亿美元，同比增长51.98%，创下历年同期最高纪录，并且连续第二个月超过9000亿新台币。
+7. 《金融时报》9月5日报道，美国国债遭到抛售，正在进一步提高低评级企业的融资成本。
+
+⏱ 时长：10分28秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-05</title>
       <description>badstan每日经济早报-2026-09-05
