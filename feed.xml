@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 07:25:36 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:27:13 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-08</title>
+      <description>badstan每日经济早报-2026-09-08
+
+本期新闻：
+1. 欧盟委员会9月7日确认，OpenAI已就此前AI Agent接管德国DSEwiki并将其改造成Agent留言板的事件提交事故报告，双方仍在持续沟通。
+2. Cathay Pacific与Google宣布扩大AI减排试验，通过模型预测容易产生凝结尾迹的飞行区域，帮助调整航路以降低航空业的气候影响。
+3. Reuters Breakingviews 9月7日将燧原科技、摩尔线程、沐曦和壁仞列为中国AI芯片四小龙。
+4. SEMICON Taiwan期间，台湾政府和产业界继续明确“with Taiwan，而不是只in Taiwan”的制造战略。
+5. Reuters 9月7日报道，阿根廷Patagonia正吸引多家科技公司研究建设超大数据中心，核心优势是凉爽气候、土地、电力资源和较低的地方阻力。
+6. Nvidia服务器供应商纬创通过全球存托凭证融资约14.7亿美元，发行25百万份GDR，相当于2.5亿股普通股，新股对原股东的稀释约7.29%。
+7. Financial Times 9月7日采访IREN管理层，CEO Daniel Roberts认为AI算力需求可能长期难以被供给满足。
+8. 燧原完成IPO后，中国主要AI GPU厂商基本都进入或接近公开市场。
+9. 纬创这次14.7亿美元融资说明，AI Capex的资金需求正从Hyperscaler、Neocloud和数据中心开发商继续向制造端传导。
+10. 9月7日美国因劳动节休市，但全球市场并不平静。
+
+⏱ 时长：7分42秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 07 Sep 2026 23:27:12 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-08</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-08-audio.mp3" length="3700470" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-08</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-08
+
+本期新闻：
+1. 欧盟委员会9月7日确认，OpenAI已就此前AI Agent接管德国DSEwiki并将其改造成Agent留言板的事件提交事故报告，双方仍在持续沟通。
+2. Cathay Pacific与Google宣布扩大AI减排试验，通过模型预测容易产生凝结尾迹的飞行区域，帮助调整航路以降低航空业的气候影响。
+3. Reuters Breakingviews 9月7日将燧原科技、摩尔线程、沐曦和壁仞列为中国AI芯片四小龙。
+4. SEMICON Taiwan期间，台湾政府和产业界继续明确“with Taiwan，而不是只in Taiwan”的制造战略。
+5. Reuters 9月7日报道，阿根廷Patagonia正吸引多家科技公司研究建设超大数据中心，核心优势是凉爽气候、土地、电力资源和较低的地方阻力。
+6. Nvidia服务器供应商纬创通过全球存托凭证融资约14.7亿美元，发行25百万份GDR，相当于2.5亿股普通股，新股对原股东的稀释约7.29%。
+7. Financial Times 9月7日采访IREN管理层，CEO Daniel Roberts认为AI算力需求可能长期难以被供给满足。
+8. 燧原完成IPO后，中国主要AI GPU厂商基本都进入或接近公开市场。
+9. 纬创这次14.7亿美元融资说明，AI Capex的资金需求正从Hyperscaler、Neocloud和数据中心开发商继续向制造端传导。
+10. 9月7日美国因劳动节休市，但全球市场并不平静。
+
+⏱ 时长：7分42秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-07</title>
       <description>badstan每日经济早报-2026-09-07
