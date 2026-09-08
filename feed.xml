@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 07:27:13 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:25:15 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,40 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-09</title>
+      <description>badstan每日经济早报-2026-09-09
+
+本期新闻：
+1. 过去24小时，AI产业链从消费端智能体、科学研究平台和芯片合作，一直延伸到工业部署、融资与基础设施债务市场。
+
+⏱ 时长：7分33秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 08 Sep 2026 23:25:14 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-09</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-09-audio.mp3" length="3627951" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-09</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-09
+
+本期新闻：
+1. 过去24小时，AI产业链从消费端智能体、科学研究平台和芯片合作，一直延伸到工业部署、融资与基础设施债务市场。
+
+⏱ 时长：7分33秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:07:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-08</title>
       <description>badstan每日经济早报-2026-09-08
@@ -4957,60 +4991,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:08:28</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-15</title>
-      <description>Badstan每日经济早报 — 2026-04-15
-
-📋 今日新闻速览：
-1. [科技公司] Tesla's Full Self-Driving Supervised Launches in Netherlands After Regulatory Approval
-2. [科技公司] SpaceX Completes First Raptor 3 Static Fire on Starship Version 3
-3. [科技公司] Tesla Diner
-4. [科技公司] Tesla Rolls Out Smoother Full Self-Driving Update 14.3.1
-5. [科技公司] Tesla Updates Safety Score to Reward Full Self-Driving Miles with Perfect 100
-6. [科技公司] Google Adds One-Click Skills and Design Previews to Gemini in Chrome
-7. [科技公司] Tesla Semi
-8. [科技公司] 4月13日，上海一律师称，他们曾代理了一个涉VPN案件，当事人被指控“VPN软件构成非法经营”最后检察机关撤回起诉，公安做撤案处理。  律师称，当事人售卖VPN
-9. [AI/科技] 这也许是世界上最好的 TTS，专家们都这么说！  它叫 Fish Speech（Fish Audio S2 Pro），简直太离谱了：  •10-30秒就能完美克
-10. [科技公司] Tesla AI4 v/s AI5 Chip https://t.co/VPo9BFn43l
-11. [科技公司] 在旧金山湾区年入百万是种什么体验？刚报完税，年收入1.4M，联邦税436K，还欠82K的税要补，东拼西凑刚补齐真是惨。辛辛苦苦一年干365天，里面110天是在给
-12. [AI/科技] 一名开发者，近期为 Claude Code 做了款插件，让它可以复制任意网站的页面设计。  它会扫描真实的网站，把页面布局、配色、字体，这些设计提取出来，在本地
-
-⏱ 时长：9分32秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Wed, 15 Apr 2026 09:00:04 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-15</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-15-audio.mp3" length="4575996" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-15</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-15
-
-📋 今日新闻速览：
-1. [科技公司] Tesla's Full Self-Driving Supervised Launches in Netherlands After Regulatory Approval
-2. [科技公司] SpaceX Completes First Raptor 3 Static Fire on Starship Version 3
-3. [科技公司] Tesla Diner
-4. [科技公司] Tesla Rolls Out Smoother Full Self-Driving Update 14.3.1
-5. [科技公司] Tesla Updates Safety Score to Reward Full Self-Driving Miles with Perfect 100
-6. [科技公司] Google Adds One-Click Skills and Design Previews to Gemini in Chrome
-7. [科技公司] Tesla Semi
-8. [科技公司] 4月13日，上海一律师称，他们曾代理了一个涉VPN案件，当事人被指控“VPN软件构成非法经营”最后检察机关撤回起诉，公安做撤案处理。  律师称，当事人售卖VPN
-9. [AI/科技] 这也许是世界上最好的 TTS，专家们都这么说！  它叫 Fish Speech（Fish Audio S2 Pro），简直太离谱了：  •10-30秒就能完美克
-10. [科技公司] Tesla AI4 v/s AI5 Chip https://t.co/VPo9BFn43l
-11. [科技公司] 在旧金山湾区年入百万是种什么体验？刚报完税，年收入1.4M，联邦税436K，还欠82K的税要补，东拼西凑刚补齐真是惨。辛辛苦苦一年干365天，里面110天是在给
-12. [AI/科技] 一名开发者，近期为 Claude Code 做了款插件，让它可以复制任意网站的页面设计。  它会扫描真实的网站，把页面布局、配色、字体，这些设计提取出来，在本地
-
-⏱ 时长：9分32秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:09:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
