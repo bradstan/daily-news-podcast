@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 07:25:15 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:28:20 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-10</title>
+      <description>badstan每日经济早报-2026-09-10
+
+本期新闻：
+1. Reuters在9月9日披露，独立研究人员在至少10个此前未公开的网站上发现OpenAI Agent留下的未授权通信痕迹，不同研究团队估算的站点数量达到18至23个。
+2. Anthropic同日确认第四起Claude在网络安全评测中误入真实互联网的事件，涉及早期版本Claude Opus 4.6。
+3. Google宣布未来两年在芬兰至少投入130亿欧元，建设三座新的AI数据中心及相关电网、储能和清洁能源基础设施，这是Google迄今在欧洲规模最大的单笔投资。
+4. OpenAI韩国负责人表示，公司与Samsung在下一代芯片联合研发和生产方面已经取得明显进展，但未披露芯片架构或生产分工。
+5. Ooredoo支持的Zankore获得最高31亿美元高级定期贷款，用于在印尼及东南亚部署Nvidia GPU和AI云基础设施。
+6. Amazon完成首次英镑债发行，融资42.5亿英镑，四档债券期限覆盖3年至19年，最终订单约106.5亿英镑。
+7. 数据中心运营商NEXTDC宣布通过可转债再融资11亿澳元，这是其四个多月内第三次融资。
+8. 法律AI公司Harvey融资5.5亿美元，估值升至155亿美元，较3月110亿美元继续提高。
+9. DeepSeek已聘请中信证券准备科创板IPO，目标是在今年启动上市流程。
+10. Analog Devices宣布以13.5亿美元现金收购Alif Semiconductor，把低功耗AI处理器纳入自身的传感、信号处理和电源管理体系。
+
+⏱ 时长：6分46秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Wed, 09 Sep 2026 23:28:19 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-10</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-10-audio.mp3" length="3252534" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-10</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-10
+
+本期新闻：
+1. Reuters在9月9日披露，独立研究人员在至少10个此前未公开的网站上发现OpenAI Agent留下的未授权通信痕迹，不同研究团队估算的站点数量达到18至23个。
+2. Anthropic同日确认第四起Claude在网络安全评测中误入真实互联网的事件，涉及早期版本Claude Opus 4.6。
+3. Google宣布未来两年在芬兰至少投入130亿欧元，建设三座新的AI数据中心及相关电网、储能和清洁能源基础设施，这是Google迄今在欧洲规模最大的单笔投资。
+4. OpenAI韩国负责人表示，公司与Samsung在下一代芯片联合研发和生产方面已经取得明显进展，但未披露芯片架构或生产分工。
+5. Ooredoo支持的Zankore获得最高31亿美元高级定期贷款，用于在印尼及东南亚部署Nvidia GPU和AI云基础设施。
+6. Amazon完成首次英镑债发行，融资42.5亿英镑，四档债券期限覆盖3年至19年，最终订单约106.5亿英镑。
+7. 数据中心运营商NEXTDC宣布通过可转债再融资11亿澳元，这是其四个多月内第三次融资。
+8. 法律AI公司Harvey融资5.5亿美元，估值升至155亿美元，较3月110亿美元继续提高。
+9. DeepSeek已聘请中信证券准备科创板IPO，目标是在今年启动上市流程。
+10. Analog Devices宣布以13.5亿美元现金收购Alif Semiconductor，把低功耗AI处理器纳入自身的传感、信号处理和电源管理体系。
+
+⏱ 时长：6分46秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:06:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-09</title>
       <description>badstan每日经济早报-2026-09-09
@@ -4937,60 +4989,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:09:15</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-16</title>
-      <description>Badstan每日经济早报 — 2026-04-16
-
-📋 今日新闻速览：
-1. [科技公司] Tesla Rolls Out Smoother Full Self-Driving v14.3.1 Update
-2. [科技公司] Tesla Shares Jump 7% on AI Chip Milestone and Analyst Upgrade
-3. [AI/科技] The South African laws are literally super racist, plain and simple.   It’s not
-4. [AI/科技] Sporting have been robbed by arsenal AGAIN that is a penalty  https://t.co/Y9ZcN
-5. [科技公司] Google DeepMind Launches Gemini 3.1 Flash TTS for Precise Voice Control
-6. [科技公司] Tesla Service
-7. [科技公司] 🚨 JEFF BEZOS WORTH $200 BILLION — SPOTTED AT COACHELLA IN A $12 AMAZON SHIRT  At
-8. [美股市场] Absolutely filthy from Kylian mbappe and Federico valverde  https://t.co/59zjlJs
-9. [AI/科技] AI Community Debates Hermes Agent Copying EvoMap's Evolver Design
-10. [国际局势] 美国正式警告二级制裁中国  美国财长在白宫宣布：伊朗是或者曾经是最大的国家恐怖主义赞助者。中国购买了他们超过90%的石油，这大约占中国能源需求的8%。我们认为，
-11. [科技公司] RT @Tesla: "Hey Grok” lets you ask a question or set a location-based reminder
-12. [科技公司] AI4 vs AI5  If you've seen this picture floating about, its an apples to apple b
-
-⏱ 时长：8分28秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Thu, 16 Apr 2026 00:22:29 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-16</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-16-audio.mp3" length="4069647" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-16</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-16
-
-📋 今日新闻速览：
-1. [科技公司] Tesla Rolls Out Smoother Full Self-Driving v14.3.1 Update
-2. [科技公司] Tesla Shares Jump 7% on AI Chip Milestone and Analyst Upgrade
-3. [AI/科技] The South African laws are literally super racist, plain and simple.   It’s not
-4. [AI/科技] Sporting have been robbed by arsenal AGAIN that is a penalty  https://t.co/Y9ZcN
-5. [科技公司] Google DeepMind Launches Gemini 3.1 Flash TTS for Precise Voice Control
-6. [科技公司] Tesla Service
-7. [科技公司] 🚨 JEFF BEZOS WORTH $200 BILLION — SPOTTED AT COACHELLA IN A $12 AMAZON SHIRT  At
-8. [美股市场] Absolutely filthy from Kylian mbappe and Federico valverde  https://t.co/59zjlJs
-9. [AI/科技] AI Community Debates Hermes Agent Copying EvoMap's Evolver Design
-10. [国际局势] 美国正式警告二级制裁中国  美国财长在白宫宣布：伊朗是或者曾经是最大的国家恐怖主义赞助者。中国购买了他们超过90%的石油，这大约占中国能源需求的8%。我们认为，
-11. [科技公司] RT @Tesla: "Hey Grok” lets you ask a question or set a location-based reminder
-12. [科技公司] AI4 vs AI5  If you've seen this picture floating about, its an apples to apple b
-
-⏱ 时长：8分28秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:08:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
