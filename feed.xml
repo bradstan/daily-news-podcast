@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 07:24:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:25:36 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-13</title>
+      <description>badstan每日经济早报-2026-09-13
+
+本期新闻：
+1. Anthropic首席执行官Dario Amodei在9月12日公开提出，前沿人工智能公司应当主动放慢模型能力提升的速度，为安全、对齐和治理工作留出更多时间。
+2. Sam Altman在9月12日明确表示，OpenAI不会在2026年进行首次公开募股。
+3. 路透社援引消息披露，英伟达正在讨论成为Anthropic首次公开募股的锚定投资者，潜在投资额最高约为100亿美元。
+4. 过去24小时的周末窗口内，没有经过可靠来源确认、足以单独改变产业判断的吉瓦级人工智能数据中心、重大云计算合同或半导体产能项目正式发布，因此微软38吉瓦、阿联酋5吉瓦以及谷歌核电等此前已经披露的项目不再重复播报。
+5. Oracle在9月12日宣布，公司执行董事长Larry Ellison已经取消一项最多可出售5000万股Oracle股票的交易计划。
+6. 路透社披露，Anthropic计划中的首次公开募股可能融资最高1000亿美元，对应估值约2万亿美元，并希望在11月美国中期选举前完成上市。
+
+⏱ 时长：9分5秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sat, 12 Sep 2026 23:25:35 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-13</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-13-audio.mp3" length="4363038" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-13</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-13
+
+本期新闻：
+1. Anthropic首席执行官Dario Amodei在9月12日公开提出，前沿人工智能公司应当主动放慢模型能力提升的速度，为安全、对齐和治理工作留出更多时间。
+2. Sam Altman在9月12日明确表示，OpenAI不会在2026年进行首次公开募股。
+3. 路透社援引消息披露，英伟达正在讨论成为Anthropic首次公开募股的锚定投资者，潜在投资额最高约为100亿美元。
+4. 过去24小时的周末窗口内，没有经过可靠来源确认、足以单独改变产业判断的吉瓦级人工智能数据中心、重大云计算合同或半导体产能项目正式发布，因此微软38吉瓦、阿联酋5吉瓦以及谷歌核电等此前已经披露的项目不再重复播报。
+5. Oracle在9月12日宣布，公司执行董事长Larry Ellison已经取消一项最多可出售5000万股Oracle股票的交易计划。
+6. 路透社披露，Anthropic计划中的首次公开募股可能融资最高1000亿美元，对应估值约2万亿美元，并希望在11月美国中期选举前完成上市。
+
+⏱ 时长：9分5秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-12</title>
       <description>badstan每日经济早报-2026-09-12
@@ -4943,54 +4987,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:19:07</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-19</title>
-      <description>Badstan每日经济早报 — 2026-04-19
-
-📋 今日新闻速览：
-1. 新闻，特斯拉的无人驾驶出租车服务，正式走出了奥斯汀，开始在达拉斯和休斯顿向公众开放。
-2. 有无人机拍摄画面显示，在特斯拉的德州超级工厂内，出现了没有方向盘的Cybercab车辆。
-3. 有达拉斯的用户反映，在服务上线首日，等待超过一小时也未能叫到车，客服的回应是系统里“看不到”有Robotaxi在达拉斯运营。
-4. 新闻，人工智能的竞争进入了一个新的维度——免费。
-5. 新闻关于Claude。
-6. 新闻，谷歌发布了一个名为“Android CLI”的命令行工具。
-7. 新闻来自一场有趣的“隔空对话”。
-8. 新闻则有些特别，它关于政治与医药的交叉点。
-9. 有特斯拉的忠实投资者在打理自家花园时，发现了一只巨型蜘蛛，并将其放生，理由是“蜘蛛预示着发财，而我只持有特斯拉股票，懂的都懂”。
-
-⏱ 时长：8分15秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Sun, 19 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-19</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-19-audio.mp3" length="3415653" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-19</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-19
-
-📋 今日新闻速览：
-1. 新闻，特斯拉的无人驾驶出租车服务，正式走出了奥斯汀，开始在达拉斯和休斯顿向公众开放。
-2. 有无人机拍摄画面显示，在特斯拉的德州超级工厂内，出现了没有方向盘的Cybercab车辆。
-3. 有达拉斯的用户反映，在服务上线首日，等待超过一小时也未能叫到车，客服的回应是系统里“看不到”有Robotaxi在达拉斯运营。
-4. 新闻，人工智能的竞争进入了一个新的维度——免费。
-5. 新闻关于Claude。
-6. 新闻，谷歌发布了一个名为“Android CLI”的命令行工具。
-7. 新闻来自一场有趣的“隔空对话”。
-8. 新闻则有些特别，它关于政治与医药的交叉点。
-9. 有特斯拉的忠实投资者在打理自家花园时，发现了一只巨型蜘蛛，并将其放生，理由是“蜘蛛预示着发财，而我只持有特斯拉股票，懂的都懂”。
-
-⏱ 时长：8分15秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:08:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />

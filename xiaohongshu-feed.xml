@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 07:24:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:25:36 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-13</title>
+      <description>badstan每日经济早报-2026-09-13
+
+本期新闻：
+1. Anthropic首席执行官Dario Amodei在9月12日公开提出，前沿人工智能公司应当主动放慢模型能力提升的速度，为安全、对齐和治理工作留出更多时间。
+2. Sam Altman在9月12日明确表示，OpenAI不会在2026年进行首次公开募股。
+3. 路透社援引消息披露，英伟达正在讨论成为Anthropic首次公开募股的锚定投资者，潜在投资额最高约为100亿美元。
+4. 过去24小时的周末窗口内，没有经过可靠来源确认、足以单独改变产业判断的吉瓦级人工智能数据中心、重大云计算合同或半导体产能项目正式发布，因此微软38吉瓦、阿联酋5吉瓦以及谷歌核电等此前已经披露的项目不再重复播报。
+5. Oracle在9月12日宣布，公司执行董事长Larry Ellison已经取消一项最多可出售5000万股Oracle股票的交易计划。
+6. 路透社披露，Anthropic计划中的首次公开募股可能融资最高1000亿美元，对应估值约2万亿美元，并希望在11月美国中期选举前完成上市。
+
+⏱ 时长：9分5秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sat, 12 Sep 2026 23:25:35 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-13</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-13-audio.mp3" length="4363038" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-13</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-13
+
+本期新闻：
+1. Anthropic首席执行官Dario Amodei在9月12日公开提出，前沿人工智能公司应当主动放慢模型能力提升的速度，为安全、对齐和治理工作留出更多时间。
+2. Sam Altman在9月12日明确表示，OpenAI不会在2026年进行首次公开募股。
+3. 路透社援引消息披露，英伟达正在讨论成为Anthropic首次公开募股的锚定投资者，潜在投资额最高约为100亿美元。
+4. 过去24小时的周末窗口内，没有经过可靠来源确认、足以单独改变产业判断的吉瓦级人工智能数据中心、重大云计算合同或半导体产能项目正式发布，因此微软38吉瓦、阿联酋5吉瓦以及谷歌核电等此前已经披露的项目不再重复播报。
+5. Oracle在9月12日宣布，公司执行董事长Larry Ellison已经取消一项最多可出售5000万股Oracle股票的交易计划。
+6. 路透社披露，Anthropic计划中的首次公开募股可能融资最高1000亿美元，对应估值约2万亿美元，并希望在11月美国中期选举前完成上市。
+
+⏱ 时长：9分5秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-12</title>
       <description>badstan每日经济早报-2026-09-12
@@ -965,52 +1009,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:13:33</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-24</title>
-      <description>badstan每日经济早报-2026-08-24
-
-本期新闻：
-1. 阿里巴巴8月23日宣布，将在香港配售7.10亿股新股，配售价为每股112.70港元，较最近收盘价折让3.6%，预计募集约800亿港元，折合102亿美元，配售预计在8月26日完成。
-2. 路透社8月23日报道，Hugging Face正在探索出售，潜在估值为130亿美元或更高，并已与银行合作，测试潜在买家的兴趣。
-3. Hugging Face被曝探索出售，也显示AI产业的资本定价正在从模型本身继续延伸到分发层。
-4. 北京世界人形机器人运动会在过去24小时披露了新的比赛结果。
-5. 阿里巴巴此次配售获得超额认购，并吸引包括主权财富基金在内的长期资本，说明大型AI平台仍然具备较强的融资能力。
-6. Hugging Face潜在130亿美元出售，为AI中间层提供了一次可能的并购价格发现。
-7. 过去24小时，前沿模型公司的主要新增信息并不是新的性能测试或旗舰模型发布，而是围绕模型生态资本化和分发控制权的变化。
-
-⏱ 时长：10分7秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Sun, 23 Aug 2026 23:25:21 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-24</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-24-audio.mp3" length="4857618" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-24</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-24
-
-本期新闻：
-1. 阿里巴巴8月23日宣布，将在香港配售7.10亿股新股，配售价为每股112.70港元，较最近收盘价折让3.6%，预计募集约800亿港元，折合102亿美元，配售预计在8月26日完成。
-2. 路透社8月23日报道，Hugging Face正在探索出售，潜在估值为130亿美元或更高，并已与银行合作，测试潜在买家的兴趣。
-3. Hugging Face被曝探索出售，也显示AI产业的资本定价正在从模型本身继续延伸到分发层。
-4. 北京世界人形机器人运动会在过去24小时披露了新的比赛结果。
-5. 阿里巴巴此次配售获得超额认购，并吸引包括主权财富基金在内的长期资本，说明大型AI平台仍然具备较强的融资能力。
-6. Hugging Face潜在130亿美元出售，为AI中间层提供了一次可能的并购价格发现。
-7. 过去24小时，前沿模型公司的主要新增信息并不是新的性能测试或旗舰模型发布，而是围绕模型生态资本化和分发控制权的变化。
-
-⏱ 时长：10分7秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:10:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
