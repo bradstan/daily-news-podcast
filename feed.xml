@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Sun, 13 Sep 2026 07:25:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:25:54 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-14</title>
+      <description>badstan每日经济早报-2026-09-14
+
+本期新闻：
+1. 美国总统特朗普9月13日公开反对因为安全担忧而明显放慢人工智能发展速度。
+2. 美国前总统奥巴马9月13日公开呼吁民主党把人工智能安全、经济影响和治理列为重要政策议题，并建议2028年总统候选人提出明确的人工智能政策框架。
+3. 在截至9月14日早晨的过去24小时窗口内，没有发现OpenAI、Google DeepMind、Meta、xAI或者Mistral发布足以改变模型能力排名的新旗舰模型。
+4. 韩国扩大后的间谍法于9月13日正式生效。
+5. 中国国家主席习近平9月13日在金砖国家峰会上提出，由中国牵头建立“金砖国家人工智能开源区”，重点推动大语言模型、人工智能训练和开放人工智能生态合作。
+6. 在9月13日早晨至9月14日早晨的统计窗口内，没有发现经过可靠来源确认、规模达到改变产业判断门槛的超大型数据中心、GPU租赁或者云计算新合同。
+7. Anthropic的潜在首次公开募股继续向实际执行阶段推进。
+8. 9月13日为周日，美国股票现货市场没有交易，因此英伟达、Meta、微软、Alphabet和甲骨文等公司没有形成新的现货收盘价格。
+9. 截至北京时间9月14日清晨，受中东新一轮袭击和霍尔木兹海峡风险影响，布伦特原油期货上涨超过3%，升至每桶约108.23美元；美国西得克萨斯中质原油期货约为每桶103.20美元。
+
+⏱ 时长：11分15秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sun, 13 Sep 2026 23:25:53 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-14</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-14-audio.mp3" length="5401023" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-14</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-14
+
+本期新闻：
+1. 美国总统特朗普9月13日公开反对因为安全担忧而明显放慢人工智能发展速度。
+2. 美国前总统奥巴马9月13日公开呼吁民主党把人工智能安全、经济影响和治理列为重要政策议题，并建议2028年总统候选人提出明确的人工智能政策框架。
+3. 在截至9月14日早晨的过去24小时窗口内，没有发现OpenAI、Google DeepMind、Meta、xAI或者Mistral发布足以改变模型能力排名的新旗舰模型。
+4. 韩国扩大后的间谍法于9月13日正式生效。
+5. 中国国家主席习近平9月13日在金砖国家峰会上提出，由中国牵头建立“金砖国家人工智能开源区”，重点推动大语言模型、人工智能训练和开放人工智能生态合作。
+6. 在9月13日早晨至9月14日早晨的统计窗口内，没有发现经过可靠来源确认、规模达到改变产业判断门槛的超大型数据中心、GPU租赁或者云计算新合同。
+7. Anthropic的潜在首次公开募股继续向实际执行阶段推进。
+8. 9月13日为周日，美国股票现货市场没有交易，因此英伟达、Meta、微软、Alphabet和甲骨文等公司没有形成新的现货收盘价格。
+9. 截至北京时间9月14日清晨，受中东新一轮袭击和霍尔木兹海峡风险影响，布伦特原油期货上涨超过3%，升至每桶约108.23美元；美国西得克萨斯中质原油期货约为每桶103.20美元。
+
+⏱ 时长：11分15秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-13</title>
       <description>badstan每日经济早报-2026-09-13
@@ -4941,52 +4991,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:14:42</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-20</title>
-      <description>Badstan每日经济早报 — 2026-04-20
-
-📋 今日新闻速览：
-1. 我们先看一个非常积极的信号：美国上周的初请失业金人数，降到了去年五月中旬以来的最低水平，而且持续保持在低位。
-2. 与强劲就业数据形成对比的，是另一组数据：美国第四季度的生产率增长放缓了，同时单位劳动力成本却在加速上升。
-3. 也是今天宏观层面的绝对主角：美联储的困境。
-4. 我们把视线转向大西洋对岸，有个意外惊喜。
-5. 我们聊聊市场明星——“美股七巨头”（Magnificent 7）。
-6. 我们看一个个股案例，来佐证科技股的魅力。
-7. 另一个有趣的并购消息是，“Beyond”公司（这名字取得好，超越）要买回“Buy Buy Baby”的品牌权，并让它与“Bed Bath &amp; Beyond…
-8. 我们再看一个更小众但表现惊艳的股票：Accel Entertainment。
-
-⏱ 时长：19分7秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Mon, 20 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-20</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-20-audio.mp3" length="7819389" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-20</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-20
-
-📋 今日新闻速览：
-1. 我们先看一个非常积极的信号：美国上周的初请失业金人数，降到了去年五月中旬以来的最低水平，而且持续保持在低位。
-2. 与强劲就业数据形成对比的，是另一组数据：美国第四季度的生产率增长放缓了，同时单位劳动力成本却在加速上升。
-3. 也是今天宏观层面的绝对主角：美联储的困境。
-4. 我们把视线转向大西洋对岸，有个意外惊喜。
-5. 我们聊聊市场明星——“美股七巨头”（Magnificent 7）。
-6. 我们看一个个股案例，来佐证科技股的魅力。
-7. 另一个有趣的并购消息是，“Beyond”公司（这名字取得好，超越）要买回“Buy Buy Baby”的品牌权，并让它与“Bed Bath &amp; Beyond…
-8. 我们再看一个更小众但表现惊艳的股票：Accel Entertainment。
-
-⏱ 时长：19分7秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:19:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
