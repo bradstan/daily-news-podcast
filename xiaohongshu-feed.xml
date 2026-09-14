@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 07:25:54 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:25:47 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-15</title>
+      <description>badstan每日经济早报-2026-09-15
+
+本期新闻：
+1. Microsoft在9月14日公布一份AI行为准则草案，明确要求未来的AI系统不能拒绝人类对其进行纠正或关机，必须以人类能够理解的方式沟通，并把违反规则本身视为一种失败。
+2. The Information经Reuters报道，Palantir、Nvidia和Booz Allen等大型企业，正在限制或考虑停止使用Anthropic和OpenAI的部分先进模型。
+3. 过去24小时，围绕AI是否应该减速的争论由行业内部表态进一步升级为美国政策层面的公开冲突。
+4. Moody’s Ratings在9月14日估算，为满足美国数据中心持续扩张带来的用电需求，到2030年，美国还需要增加45吉瓦发电能力，对应大约1100亿美元的新电源投资。
+5. Texas州长在9月14日要求监管部门，对没有按要求披露用水量的数据中心采取处罚措施。
+6. 9月14日，全球AI硬件股出现2026年以来较为罕见的系统性回撤。
+7. 美国10年期国债收益率在9月14日升至大约5.01%，为2023年以来首次重新突破5%。
+
+⏱ 时长：11分8秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 14 Sep 2026 23:25:45 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-15</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-15-audio.mp3" length="5350584" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-15</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-15
+
+本期新闻：
+1. Microsoft在9月14日公布一份AI行为准则草案，明确要求未来的AI系统不能拒绝人类对其进行纠正或关机，必须以人类能够理解的方式沟通，并把违反规则本身视为一种失败。
+2. The Information经Reuters报道，Palantir、Nvidia和Booz Allen等大型企业，正在限制或考虑停止使用Anthropic和OpenAI的部分先进模型。
+3. 过去24小时，围绕AI是否应该减速的争论由行业内部表态进一步升级为美国政策层面的公开冲突。
+4. Moody’s Ratings在9月14日估算，为满足美国数据中心持续扩张带来的用电需求，到2030年，美国还需要增加45吉瓦发电能力，对应大约1100亿美元的新电源投资。
+5. Texas州长在9月14日要求监管部门，对没有按要求披露用水量的数据中心采取处罚措施。
+6. 9月14日，全球AI硬件股出现2026年以来较为罕见的系统性回撤。
+7. 美国10年期国债收益率在9月14日升至大约5.01%，为2023年以来首次重新突破5%。
+
+⏱ 时长：11分8秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:11:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-14</title>
       <description>badstan每日经济早报-2026-09-14
@@ -953,58 +999,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:10:43</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-26</title>
-      <description>badstan每日经济早报-2026-08-26
-
-本期新闻：
-1. OpenAI在8月25日公布了首款自研推理芯片Jalapeño的第一批性能数据，意味着这款芯片开始从研发项目进入经济性验证阶段。
-2. 路透社8月25日援引《华尔街日报》报道，Anthropic预计将在筹备首次公开募股的过程中向投资者表示，公司面对的潜在总市场超过30万亿美元。
-3. 路透社8月25日晚间报道，西班牙政府正在准备一份新的数据中心法规草案，拟对电力、水资源、数据驻留和网络安全提出更严格的要求。
-4. Emerald AI在8月25日完成1.5亿美元A轮融资，公司估值达到10.5亿美元。
-5. 中国AI芯片公司燧原科技将在9月2日启动科创板申购，计划募集60亿元人民币，约合8.92亿美元。
-6. 苹果在8月25日发布新一代Mac mini和Mac Studio。
-7. 宇树科技上市首日一度上涨460%，公司市值最高达到约660亿美元，但此后股价连续下跌，从高点累计回撤约45%，市值减少约300亿美元。
-8. 英伟达将在8月26日公布财报，市场已经把这份业绩视为AI基础设施需求和科技股估值的一次集中检验。
-9. 除了产品和财务表现，英伟达越来越深入地参与客户融资，也成为这次财报前受到审视的交易结构。
-10. 英伟达财报公布前，期权市场隐含公司股价在业绩发布后单日波动约为正负5.4%，对应市值变化约2800亿美元。
-
-⏱ 时长：16分31秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Tue, 25 Aug 2026 23:26:33 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-26</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-26-audio.mp3" length="7930170" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-26</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-26
-
-本期新闻：
-1. OpenAI在8月25日公布了首款自研推理芯片Jalapeño的第一批性能数据，意味着这款芯片开始从研发项目进入经济性验证阶段。
-2. 路透社8月25日援引《华尔街日报》报道，Anthropic预计将在筹备首次公开募股的过程中向投资者表示，公司面对的潜在总市场超过30万亿美元。
-3. 路透社8月25日晚间报道，西班牙政府正在准备一份新的数据中心法规草案，拟对电力、水资源、数据驻留和网络安全提出更严格的要求。
-4. Emerald AI在8月25日完成1.5亿美元A轮融资，公司估值达到10.5亿美元。
-5. 中国AI芯片公司燧原科技将在9月2日启动科创板申购，计划募集60亿元人民币，约合8.92亿美元。
-6. 苹果在8月25日发布新一代Mac mini和Mac Studio。
-7. 宇树科技上市首日一度上涨460%，公司市值最高达到约660亿美元，但此后股价连续下跌，从高点累计回撤约45%，市值减少约300亿美元。
-8. 英伟达将在8月26日公布财报，市场已经把这份业绩视为AI基础设施需求和科技股估值的一次集中检验。
-9. 除了产品和财务表现，英伟达越来越深入地参与客户融资，也成为这次财报前受到审视的交易结构。
-10. 英伟达财报公布前，期权市场隐含公司股价在业绩发布后单日波动约为正负5.4%，对应市值变化约2800亿美元。
-
-⏱ 时长：16分31秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:16:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />

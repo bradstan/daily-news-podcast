@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 07:25:54 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:25:47 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,52 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-15</title>
+      <description>badstan每日经济早报-2026-09-15
+
+本期新闻：
+1. Microsoft在9月14日公布一份AI行为准则草案，明确要求未来的AI系统不能拒绝人类对其进行纠正或关机，必须以人类能够理解的方式沟通，并把违反规则本身视为一种失败。
+2. The Information经Reuters报道，Palantir、Nvidia和Booz Allen等大型企业，正在限制或考虑停止使用Anthropic和OpenAI的部分先进模型。
+3. 过去24小时，围绕AI是否应该减速的争论由行业内部表态进一步升级为美国政策层面的公开冲突。
+4. Moody’s Ratings在9月14日估算，为满足美国数据中心持续扩张带来的用电需求，到2030年，美国还需要增加45吉瓦发电能力，对应大约1100亿美元的新电源投资。
+5. Texas州长在9月14日要求监管部门，对没有按要求披露用水量的数据中心采取处罚措施。
+6. 9月14日，全球AI硬件股出现2026年以来较为罕见的系统性回撤。
+7. 美国10年期国债收益率在9月14日升至大约5.01%，为2023年以来首次重新突破5%。
+
+⏱ 时长：11分8秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 14 Sep 2026 23:25:45 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-15</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-15-audio.mp3" length="5350584" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-15</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-15
+
+本期新闻：
+1. Microsoft在9月14日公布一份AI行为准则草案，明确要求未来的AI系统不能拒绝人类对其进行纠正或关机，必须以人类能够理解的方式沟通，并把违反规则本身视为一种失败。
+2. The Information经Reuters报道，Palantir、Nvidia和Booz Allen等大型企业，正在限制或考虑停止使用Anthropic和OpenAI的部分先进模型。
+3. 过去24小时，围绕AI是否应该减速的争论由行业内部表态进一步升级为美国政策层面的公开冲突。
+4. Moody’s Ratings在9月14日估算，为满足美国数据中心持续扩张带来的用电需求，到2030年，美国还需要增加45吉瓦发电能力，对应大约1100亿美元的新电源投资。
+5. Texas州长在9月14日要求监管部门，对没有按要求披露用水量的数据中心采取处罚措施。
+6. 9月14日，全球AI硬件股出现2026年以来较为罕见的系统性回撤。
+7. 美国10年期国债收益率在9月14日升至大约5.01%，为2023年以来首次重新突破5%。
+
+⏱ 时长：11分8秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:11:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-14</title>
       <description>badstan每日经济早报-2026-09-14
@@ -4937,60 +4983,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:15:03</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-21</title>
-      <description>Badstan每日经济早报 — 2026-04-21
-
-📋 今日新闻速览：
-1. **，我们先看劳动力市场。
-2. **数据就带来了另一面：美国去年第四季度的生产率增长放缓了，同时单位劳动力成本却在加速上升。
-3. **，我们把视线转向美联储。
-4. **，现任美联储理事沃勒也发表了类似观点，他指出伊朗战争和劳动力市场的风险正在让央行保持按兵不动。
-5. **，我们来看一个具体的市场动向：关税退款门户于本周一正式开启。
-6. **，我们关注两家公司的异动。
-7. **，苹果公司正式宣布，蒂姆·库克将于今年9月1日卸任CEO一职，由现任硬件工程高级副总裁约翰·特努斯接任。
-8. **，特斯拉将其无人监督的Robotaxi（机器人出租车）服务扩展到了达拉斯和休斯顿。
-9. **，太空探索技术公司SpaceX迎来了一个历史性时刻：其猎鹰9号火箭助推器完成了第600次成功回收与着陆。
-10. **，AI军备竞赛的资本游戏达到新高度。
-11. **爆料，尽管Anthropic与美国国防部有分歧，但其内部严格限制访问的“Mythos”模型，据称正在被美国国家安全局使用。
-12. **，AI生成内容已经留下了独特的“指纹”。
-
-⏱ 时长：14分42秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Tue, 21 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-21</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-21-audio.mp3" length="6112881" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-21</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-21
-
-📋 今日新闻速览：
-1. **，我们先看劳动力市场。
-2. **数据就带来了另一面：美国去年第四季度的生产率增长放缓了，同时单位劳动力成本却在加速上升。
-3. **，我们把视线转向美联储。
-4. **，现任美联储理事沃勒也发表了类似观点，他指出伊朗战争和劳动力市场的风险正在让央行保持按兵不动。
-5. **，我们来看一个具体的市场动向：关税退款门户于本周一正式开启。
-6. **，我们关注两家公司的异动。
-7. **，苹果公司正式宣布，蒂姆·库克将于今年9月1日卸任CEO一职，由现任硬件工程高级副总裁约翰·特努斯接任。
-8. **，特斯拉将其无人监督的Robotaxi（机器人出租车）服务扩展到了达拉斯和休斯顿。
-9. **，太空探索技术公司SpaceX迎来了一个历史性时刻：其猎鹰9号火箭助推器完成了第600次成功回收与着陆。
-10. **，AI军备竞赛的资本游戏达到新高度。
-11. **爆料，尽管Anthropic与美国国防部有分歧，但其内部严格限制访问的“Mythos”模型，据称正在被美国国家安全局使用。
-12. **，AI生成内容已经留下了独特的“指纹”。
-
-⏱ 时长：14分42秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:14:42</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
