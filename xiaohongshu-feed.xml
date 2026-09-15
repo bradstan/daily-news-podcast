@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 07:25:47 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:26:12 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,58 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-16</title>
+      <description>badstan每日经济早报-2026-09-16
+
+本期新闻：
+1. 据路透社转述彭博社报道，OpenAI已经与Anthropic和Google DeepMind就人工智能安全问题进行了数周讨论。
+2. TotalEnergies与法国人工智能公司Mistral宣布一项为期三年的联合计划，双方将投入超过1亿欧元，开发用于油气储层勘探和工程工作的专用前沿模型，并设立联合科研实验室。
+3. MediaTek发布Dimensity 9600 Pro，这是公司第一款采用台积电2纳米工艺制造的智能手机芯片；公司同时发布采用3纳米工艺的9600M。
+4. 荷兰人工智能芯片公司Axelera AI发布第二代Europa芯片，并签署多项人工智能工厂供应合同。
+5. Micron台湾工会表示，如果公司在9月18日和21日的谈判中，仍然没有提出具体的长期利润分享方案，工会将考虑宣布谈判破裂，并推进罢工投票。
+6. 芯片公司Altera已经秘密提交美国首次公开募股申请。
+7. 路透社转述英国《金融时报》报道称，OpenAI近期与大型投资者讨论新一轮融资，潜在估值约为1.2万亿美元。
+8. 企业人工智能编程智能体公司Factory完成2亿美元融资，估值升至50亿美元，较上一轮融资后的估值增加到三倍以上。
+9. SB Energy计划在美国首次公开募股过程中，向日本投资者出售最多5亿美元新股，募集资金将用于数据中心、电力和相关基础设施。
+10. 美国10年期国债收益率突破百分之五，达到2007年以来的高位。
+
+⏱ 时长：12分6秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 15 Sep 2026 23:26:11 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-16</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-16-audio.mp3" length="5808006" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-16</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-16
+
+本期新闻：
+1. 据路透社转述彭博社报道，OpenAI已经与Anthropic和Google DeepMind就人工智能安全问题进行了数周讨论。
+2. TotalEnergies与法国人工智能公司Mistral宣布一项为期三年的联合计划，双方将投入超过1亿欧元，开发用于油气储层勘探和工程工作的专用前沿模型，并设立联合科研实验室。
+3. MediaTek发布Dimensity 9600 Pro，这是公司第一款采用台积电2纳米工艺制造的智能手机芯片；公司同时发布采用3纳米工艺的9600M。
+4. 荷兰人工智能芯片公司Axelera AI发布第二代Europa芯片，并签署多项人工智能工厂供应合同。
+5. Micron台湾工会表示，如果公司在9月18日和21日的谈判中，仍然没有提出具体的长期利润分享方案，工会将考虑宣布谈判破裂，并推进罢工投票。
+6. 芯片公司Altera已经秘密提交美国首次公开募股申请。
+7. 路透社转述英国《金融时报》报道称，OpenAI近期与大型投资者讨论新一轮融资，潜在估值约为1.2万亿美元。
+8. 企业人工智能编程智能体公司Factory完成2亿美元融资，估值升至50亿美元，较上一轮融资后的估值增加到三倍以上。
+9. SB Energy计划在美国首次公开募股过程中，向日本投资者出售最多5亿美元新股，募集资金将用于数据中心、电力和相关基础设施。
+10. 美国10年期国债收益率突破百分之五，达到2007年以来的高位。
+
+⏱ 时长：12分6秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:12:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-15</title>
       <description>badstan每日经济早报-2026-09-15
@@ -953,52 +1005,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:18:56</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-27</title>
-      <description>badstan每日经济早报-2026-08-27
-
-本期新闻：
-1. METR与Redwood Research在8月26日公布了对OpenAI一次网络安全评测事件的独立调查。
-2. 路透社8月26日独家报道，Moonshot AI正在与微软、亚马逊和谷歌讨论，让Kimi K3进入Azure、AWS和Google Cloud，并希望获得K3相关服务收入最高约30%的分成。
-3. 路透社8月26日报道，Anthropic将向Nscale支付约450亿美元，租用后者位于美国西弗吉尼亚州数据中心园区的人工智能算力。
-4. 英伟达与AWS在8月26日宣布，AWS计划在2027年至2028年额外部署200万颗英伟达GPU，覆盖Blackwell Ultra、Rubin和Rubin Ultra，并进一步把Vera CPU、Spectrum网络、Nemotro...
-5. Synopsys上调了2026财年的收入和利润指引，并明确表示，人工智能正在推动芯片设计需求。
-6. Salesforce公布二季度收入113.5亿美元，同比增长11%，略高于市场预期，并上调了全年收入指引。
-7. 路透社披露，Meta今年曾在Project OT中考虑将部分团队规模最多削减60%，希望通过人工智能Agent和规模更小的“builder”团队重构组织。
-
-⏱ 时长：10分43秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Wed, 26 Aug 2026 23:25:28 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-27</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-27-audio.mp3" length="5148453" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-27</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-27
-
-本期新闻：
-1. METR与Redwood Research在8月26日公布了对OpenAI一次网络安全评测事件的独立调查。
-2. 路透社8月26日独家报道，Moonshot AI正在与微软、亚马逊和谷歌讨论，让Kimi K3进入Azure、AWS和Google Cloud，并希望获得K3相关服务收入最高约30%的分成。
-3. 路透社8月26日报道，Anthropic将向Nscale支付约450亿美元，租用后者位于美国西弗吉尼亚州数据中心园区的人工智能算力。
-4. 英伟达与AWS在8月26日宣布，AWS计划在2027年至2028年额外部署200万颗英伟达GPU，覆盖Blackwell Ultra、Rubin和Rubin Ultra，并进一步把Vera CPU、Spectrum网络、Nemotro...
-5. Synopsys上调了2026财年的收入和利润指引，并明确表示，人工智能正在推动芯片设计需求。
-6. Salesforce公布二季度收入113.5亿美元，同比增长11%，略高于市场预期，并上调了全年收入指引。
-7. 路透社披露，Meta今年曾在Project OT中考虑将部分团队规模最多削减60%，希望通过人工智能Agent和规模更小的“builder”团队重构组织。
-
-⏱ 时长：10分43秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:10:43</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
