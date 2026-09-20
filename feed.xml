@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 07:26:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:25:28 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-21</title>
+      <description>badstan每日经济早报-2026-09-21
+
+本期新闻：
+1. 美国财长斯科特·贝森特与中国副总理何立峰9月20日在纽约启动会谈，为本周举行的特朗普与习近平峰会准备潜在协议。
+2. 特朗普9月20日宣布组建一支新的“AI Force”，并表示将任命一名人工智能负责人。
+3. 在北京时间9月20日早上7点至9月21日早上7点的统计窗口内，OpenAI、Anthropic、谷歌DeepMind、Meta、xAI和Mistral均未正式发布新的旗舰模型，也没有出现足以重新改变前沿模型能力格局的产品发布。
+4. 中国存储芯片企业长鑫存储9月20日宣布，第五代DRAM技术平台已经进入量产。
+5. 英国《金融时报》最新调查显示，Meta、英伟达和博通等科技公司过去一年通过特殊目的载体和剩余价值担保等方式，为人工智能数据中心及芯片融资提供的相关担保或承诺，规模最高约为3000亿美元。
+6. 9月20日是星期日，美国股票现金市场没有交易，因此英伟达、Meta、博通、谷歌、微软、甲骨文和CoreWeave等人工智能产业链公司的现货股价，没有产生新的价格信号。
+
+⏱ 时长：9分20秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Sun, 20 Sep 2026 23:25:27 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-21</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-21-audio.mp3" length="4484337" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-21</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-21
+
+本期新闻：
+1. 美国财长斯科特·贝森特与中国副总理何立峰9月20日在纽约启动会谈，为本周举行的特朗普与习近平峰会准备潜在协议。
+2. 特朗普9月20日宣布组建一支新的“AI Force”，并表示将任命一名人工智能负责人。
+3. 在北京时间9月20日早上7点至9月21日早上7点的统计窗口内，OpenAI、Anthropic、谷歌DeepMind、Meta、xAI和Mistral均未正式发布新的旗舰模型，也没有出现足以重新改变前沿模型能力格局的产品发布。
+4. 中国存储芯片企业长鑫存储9月20日宣布，第五代DRAM技术平台已经进入量产。
+5. 英国《金融时报》最新调查显示，Meta、英伟达和博通等科技公司过去一年通过特殊目的载体和剩余价值担保等方式，为人工智能数据中心及芯片融资提供的相关担保或承诺，规模最高约为3000亿美元。
+6. 9月20日是星期日，美国股票现金市场没有交易，因此英伟达、Meta、博通、谷歌、微软、甲骨文和CoreWeave等人工智能产业链公司的现货股价，没有产生新的价格信号。
+
+⏱ 时长：9分20秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:09:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-16</title>
       <description>badstan每日经济早报-2026-09-16
@@ -4927,60 +4971,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:14:03</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-23</title>
-      <description>Badstan每日经济早报 — 2026-04-23
-
-📋 今日新闻速览：
-1. Chelsea actually completed 5 loses in a row before Man United do 5 wins in a row
-2. SpaceX Partners with Cursor for $60 Billion AI Coding Option
-3. Tesla Tops Q1 2026 Expectations with Autonomy Push
-4. Introducing workspace agents in ChatGPT—shared agents that can handle complex ta
-5. 🚨Danny Welbeck on why he did the “Siuuu” celebration:  🗣️ Welbeck: “I’ve scored
-6. Introducing USVC - a single basket of high-growth venture capital, for everyone.
-7. One way to stop a wildfire is to start a controlled one early. https://t.co/pQh8
-8. We started an AI founder twitter group... reply with "I'm in" if you're a founde
-9. We won’t forget your contribution to the assist record 🫡 https://t.co/WtmR1RXmBw
-10. Elon Musk Admits Tesla HW3 Lacks Power for Unsupervised FSD
-11. RT @zan2434: Imagine every pixel on your screen, streamed live directly from a m
-12. Meet Higgsfield Marketing Studio, powered by Hermes Agent. UGC era for your vibe
-
-⏱ 时长：12分14秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Thu, 23 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-23</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-23-audio.mp3" length="5038353" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-23</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-23
-
-📋 今日新闻速览：
-1. Chelsea actually completed 5 loses in a row before Man United do 5 wins in a row
-2. SpaceX Partners with Cursor for $60 Billion AI Coding Option
-3. Tesla Tops Q1 2026 Expectations with Autonomy Push
-4. Introducing workspace agents in ChatGPT—shared agents that can handle complex ta
-5. 🚨Danny Welbeck on why he did the “Siuuu” celebration:  🗣️ Welbeck: “I’ve scored
-6. Introducing USVC - a single basket of high-growth venture capital, for everyone.
-7. One way to stop a wildfire is to start a controlled one early. https://t.co/pQh8
-8. We started an AI founder twitter group... reply with "I'm in" if you're a founde
-9. We won’t forget your contribution to the assist record 🫡 https://t.co/WtmR1RXmBw
-10. Elon Musk Admits Tesla HW3 Lacks Power for Unsupervised FSD
-11. RT @zan2434: Imagine every pixel on your screen, streamed live directly from a m
-12. Meet Higgsfield Marketing Studio, powered by Hermes Agent. UGC era for your vibe
-
-⏱ 时长：12分14秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:12:14</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
