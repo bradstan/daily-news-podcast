@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 07:25:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:27:03 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-22</title>
+      <description>badstan每日经济早报-2026-09-22
+
+本期新闻：
+1. OpenAI在9月21日发布政策框架，主张由美国牵头建立全球前沿人工智能技术标准。
+2. 加拿大不列颠哥伦比亚省政府9月21日在美国起诉OpenAI和Sam Altman，指控OpenAI在Tumbler Ridge校园枪击案发生以前，已经通过安全团队发现涉及枪支暴力的对话，但没有向警方报告。
+3. 中国人工智能公司Z.ai关闭了代码助手ZCode的部分功能。
+4. 得克萨斯州州长Greg Abbott在9月21日要求州环保机构暂停向数据中心发放新的州级许可，直至监管部门完成对数据中心行业的全面审计。
+5. Georgia Power与Google签署协议，计划升级Vogtle和Hatch两座核电站的现有设备，增加大约96兆瓦发电容量。
+6. 欧盟委员会提出数据中心新规，计划要求额定功率达到500千瓦及以上的数据中心披露能源效率和水资源效率，并建立统一的评级体系。
+7. Meta股价周一上涨11.4%。
+8. AMD股价周一上涨约10%，公司市值首次突破1万亿美元。
+9. Google开放Googlebook预订，起售价为899美元。
+10. SoftBank启动100亿美元美元债券和10亿欧元债券发行，合计融资规模约111.5亿美元。
+11. 路透社报道，中国监管部门近期通过窗口指导，提高人形机器人企业的上市门槛，部分首次公开募股的推进速度事实上已经放慢，但这并不是正式的全面上市禁令。
+
+⏱ 时长：11分53秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Mon, 21 Sep 2026 23:27:02 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-22</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-22-audio.mp3" length="5704146" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-22</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-22
+
+本期新闻：
+1. OpenAI在9月21日发布政策框架，主张由美国牵头建立全球前沿人工智能技术标准。
+2. 加拿大不列颠哥伦比亚省政府9月21日在美国起诉OpenAI和Sam Altman，指控OpenAI在Tumbler Ridge校园枪击案发生以前，已经通过安全团队发现涉及枪支暴力的对话，但没有向警方报告。
+3. 中国人工智能公司Z.ai关闭了代码助手ZCode的部分功能。
+4. 得克萨斯州州长Greg Abbott在9月21日要求州环保机构暂停向数据中心发放新的州级许可，直至监管部门完成对数据中心行业的全面审计。
+5. Georgia Power与Google签署协议，计划升级Vogtle和Hatch两座核电站的现有设备，增加大约96兆瓦发电容量。
+6. 欧盟委员会提出数据中心新规，计划要求额定功率达到500千瓦及以上的数据中心披露能源效率和水资源效率，并建立统一的评级体系。
+7. Meta股价周一上涨11.4%。
+8. AMD股价周一上涨约10%，公司市值首次突破1万亿美元。
+9. Google开放Googlebook预订，起售价为899美元。
+10. SoftBank启动100亿美元美元债券和10亿欧元债券发行，合计融资规模约111.5亿美元。
+11. 路透社报道，中国监管部门近期通过窗口指导，提高人形机器人企业的上市门槛，部分首次公开募股的推进速度事实上已经放慢，但这并不是正式的全面上市禁令。
+
+⏱ 时长：11分53秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:11:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-21</title>
       <description>badstan每日经济早报-2026-09-21
@@ -4917,60 +4971,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:15:26</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-24</title>
-      <description>Badstan每日经济早报 — 2026-04-24
-
-📋 今日新闻速览：
-1. Liam Rosenior handed Garnacho the tactical note when the scoreline was 8-2 on ag
-2. OpenAI Launches GPT-5.5 for Autonomous Real-World Tasks
-3. Tesla Rolls Out Smoother Full Self-Driving 14.3.2 to Early Users
-4. RT @OpenAI: Introducing GPT-5.5  A new class of intelligence for real work and p
-5. Claude can now connect to more of the apps you use outside of work, including @T
-6. Tesla Starts Cybercab Robotaxi Production at Giga Texas
-7. 🚨🎙️ | Matheus Cunha:  "When Michael [Carrick] arrived he said we need a winger a
-8. 1. We believe in iterative deployment; although GPT-5.5 is already a smart model
-9. AIスロップネタをUE5でゲームにしてみちゃった🛹 #巨大娘 https://t.co/zgHuBmU95o
-10. Elon did NOT just sell a lot of stock.  He gave back our "plan B" in the Delawar
-11. Manchester United Legends and current ages. Was beautiful to see them play again
-12. 第一次用Codex里的Computer Use。  比较好奇，为啥可以在隐藏鼠标情况下，实现应用的操作点击？什么黑科技，用了applescript ？  不过，
-
-⏱ 时长：14分3秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Fri, 24 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-24</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-24-audio.mp3" length="5794209" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-24</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-24
-
-📋 今日新闻速览：
-1. Liam Rosenior handed Garnacho the tactical note when the scoreline was 8-2 on ag
-2. OpenAI Launches GPT-5.5 for Autonomous Real-World Tasks
-3. Tesla Rolls Out Smoother Full Self-Driving 14.3.2 to Early Users
-4. RT @OpenAI: Introducing GPT-5.5  A new class of intelligence for real work and p
-5. Claude can now connect to more of the apps you use outside of work, including @T
-6. Tesla Starts Cybercab Robotaxi Production at Giga Texas
-7. 🚨🎙️ | Matheus Cunha:  "When Michael [Carrick] arrived he said we need a winger a
-8. 1. We believe in iterative deployment; although GPT-5.5 is already a smart model
-9. AIスロップネタをUE5でゲームにしてみちゃった🛹 #巨大娘 https://t.co/zgHuBmU95o
-10. Elon did NOT just sell a lot of stock.  He gave back our "plan B" in the Delawar
-11. Manchester United Legends and current ages. Was beautiful to see them play again
-12. 第一次用Codex里的Computer Use。  比较好奇，为啥可以在隐藏鼠标情况下，实现应用的操作点击？什么黑科技，用了applescript ？  不过，
-
-⏱ 时长：14分3秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:14:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
