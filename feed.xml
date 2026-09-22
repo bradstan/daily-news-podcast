@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:27:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:28:28 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-23</title>
+      <description>badstan每日经济早报-2026-09-23
+
+本期新闻：
+1. Anthropic在9月22日发布Claude Opus 5.5，把前沿模型竞争进一步推向单位性能成本。
+2. Meta正在内部测试Muse的“人工礼宾”功能，部分原本由智能体执行的电话任务，会转交给外包人员完成。
+3. 在9月22日早上7点至9月23日早上7点的统计窗口内，OpenAI、Google DeepMind、xAI和Mistral都没有正式发布新的旗舰模型。
+4. Snorkel AI完成3.5亿美元融资，融资后的公司估值达到35亿美元，接近其2025年上一轮13亿美元估值的三倍。
+5. 美国数据中心基础设施公司Accelevation计划通过首次公开募股募集最多7.2亿美元，对应的最高估值约为53.7亿美元。
+6. Palo Alto Networks推出Unit 42 Continuous Frontier AI Defense，把多种前沿模型能力整合进持续安全服务。
+7. 9月22日，纳斯达克指数盘中升至新高。
+8. 前沿人工智能训练环节在过去24小时出现更清晰的资金配置路径。
+9. 数据中心建设环节的资本配置也在从单纯追逐GPU，转向配电、冷却和模块化建设等影响项目落地速度的基础设施。
+
+⏱ 时长：10分51秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 22 Sep 2026 23:28:27 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-23</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-23-audio.mp3" length="5215167" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-23</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-23
+
+本期新闻：
+1. Anthropic在9月22日发布Claude Opus 5.5，把前沿模型竞争进一步推向单位性能成本。
+2. Meta正在内部测试Muse的“人工礼宾”功能，部分原本由智能体执行的电话任务，会转交给外包人员完成。
+3. 在9月22日早上7点至9月23日早上7点的统计窗口内，OpenAI、Google DeepMind、xAI和Mistral都没有正式发布新的旗舰模型。
+4. Snorkel AI完成3.5亿美元融资，融资后的公司估值达到35亿美元，接近其2025年上一轮13亿美元估值的三倍。
+5. 美国数据中心基础设施公司Accelevation计划通过首次公开募股募集最多7.2亿美元，对应的最高估值约为53.7亿美元。
+6. Palo Alto Networks推出Unit 42 Continuous Frontier AI Defense，把多种前沿模型能力整合进持续安全服务。
+7. 9月22日，纳斯达克指数盘中升至新高。
+8. 前沿人工智能训练环节在过去24小时出现更清晰的资金配置路径。
+9. 数据中心建设环节的资本配置也在从单纯追逐GPU，转向配电、冷却和模块化建设等影响项目落地速度的基础设施。
+
+⏱ 时长：10分51秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-22</title>
       <description>badstan每日经济早报-2026-09-22
@@ -4917,60 +4967,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:20:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-25</title>
-      <description>Badstan每日经济早报 — 2026-04-25
-
-📋 今日新闻速览：
-1. Tesla Starts Cybercab Robotaxi Production at Giga Texas
-2. Tesla Beats Q1 2026 Estimates with AI and Autonomy Push
-3. Incentives explain outcomes
-4. AI can never replace me. Me: https://t.co/AEhCLdcyqz
-5. 🚨🚨🎙️| Bruno Fernandes: "I stayed [at United] because I thought I still had somet
-6. i just upgraded your home screen  the XChat app is now available on iOS  https:/
-7. Chat with anyone on X. Completely private. Now on your home screen.  Download fo
-8. X Launches XChat Standalone Messaging App for iPhone and iPad
-9. SpaceX Celebrates Starship's Third Anniversary with Upgraded Version 3 Video
-10. SpaceX has released a new mini-documentary about Starship and version 3 of the r
-11. “武大郎生病过量饮用，当场身亡！” 4月23日，中国妇女报 在报道 「 4名男子 在酒吧使用合成毒品蓄意下毒、谋害未成年人、致15岁女童死亡」 这一事件时 将其
-12. 🎥 Marcus Rashford has been awarded the LALIGA Goal of the Month for April. 🥇⚽🔵🔴
-
-⏱ 时长：15分26秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Sat, 25 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-25</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-25-audio.mp3" length="6299505" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-25</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-25
-
-📋 今日新闻速览：
-1. Tesla Starts Cybercab Robotaxi Production at Giga Texas
-2. Tesla Beats Q1 2026 Estimates with AI and Autonomy Push
-3. Incentives explain outcomes
-4. AI can never replace me. Me: https://t.co/AEhCLdcyqz
-5. 🚨🚨🎙️| Bruno Fernandes: "I stayed [at United] because I thought I still had somet
-6. i just upgraded your home screen  the XChat app is now available on iOS  https:/
-7. Chat with anyone on X. Completely private. Now on your home screen.  Download fo
-8. X Launches XChat Standalone Messaging App for iPhone and iPad
-9. SpaceX Celebrates Starship's Third Anniversary with Upgraded Version 3 Video
-10. SpaceX has released a new mini-documentary about Starship and version 3 of the r
-11. “武大郎生病过量饮用，当场身亡！” 4月23日，中国妇女报 在报道 「 4名男子 在酒吧使用合成毒品蓄意下毒、谋害未成年人、致15岁女童死亡」 这一事件时 将其
-12. 🎥 Marcus Rashford has been awarded the LALIGA Goal of the Month for April. 🥇⚽🔵🔴
-
-⏱ 时长：15分26秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:15:26</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />

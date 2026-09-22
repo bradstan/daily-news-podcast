@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:27:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:28:28 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,56 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-23</title>
+      <description>badstan每日经济早报-2026-09-23
+
+本期新闻：
+1. Anthropic在9月22日发布Claude Opus 5.5，把前沿模型竞争进一步推向单位性能成本。
+2. Meta正在内部测试Muse的“人工礼宾”功能，部分原本由智能体执行的电话任务，会转交给外包人员完成。
+3. 在9月22日早上7点至9月23日早上7点的统计窗口内，OpenAI、Google DeepMind、xAI和Mistral都没有正式发布新的旗舰模型。
+4. Snorkel AI完成3.5亿美元融资，融资后的公司估值达到35亿美元，接近其2025年上一轮13亿美元估值的三倍。
+5. 美国数据中心基础设施公司Accelevation计划通过首次公开募股募集最多7.2亿美元，对应的最高估值约为53.7亿美元。
+6. Palo Alto Networks推出Unit 42 Continuous Frontier AI Defense，把多种前沿模型能力整合进持续安全服务。
+7. 9月22日，纳斯达克指数盘中升至新高。
+8. 前沿人工智能训练环节在过去24小时出现更清晰的资金配置路径。
+9. 数据中心建设环节的资本配置也在从单纯追逐GPU，转向配电、冷却和模块化建设等影响项目落地速度的基础设施。
+
+⏱ 时长：10分51秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Tue, 22 Sep 2026 23:28:27 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-23</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-23-audio.mp3" length="5215167" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-23</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-23
+
+本期新闻：
+1. Anthropic在9月22日发布Claude Opus 5.5，把前沿模型竞争进一步推向单位性能成本。
+2. Meta正在内部测试Muse的“人工礼宾”功能，部分原本由智能体执行的电话任务，会转交给外包人员完成。
+3. 在9月22日早上7点至9月23日早上7点的统计窗口内，OpenAI、Google DeepMind、xAI和Mistral都没有正式发布新的旗舰模型。
+4. Snorkel AI完成3.5亿美元融资，融资后的公司估值达到35亿美元，接近其2025年上一轮13亿美元估值的三倍。
+5. 美国数据中心基础设施公司Accelevation计划通过首次公开募股募集最多7.2亿美元，对应的最高估值约为53.7亿美元。
+6. Palo Alto Networks推出Unit 42 Continuous Frontier AI Defense，把多种前沿模型能力整合进持续安全服务。
+7. 9月22日，纳斯达克指数盘中升至新高。
+8. 前沿人工智能训练环节在过去24小时出现更清晰的资金配置路径。
+9. 数据中心建设环节的资本配置也在从单纯追逐GPU，转向配电、冷却和模块化建设等影响项目落地速度的基础设施。
+
+⏱ 时长：10分51秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-22</title>
       <description>badstan每日经济早报-2026-09-22
@@ -955,48 +1005,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:05:28</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-30</title>
-      <description>badstan每日经济早报-2026-08-30
-
-本期新闻：
-1. OpenAI在8月29日宣布，计划结束向AI编程平台Cursor直接提供OpenAI模型的合同，拟定停止日期为2026年11月12日。
-2. The Information在8月29日报道，SpaceX已经采取措施，准备在得州Bastrop建立大型燃气轮机叶片和导向叶片的铸造及制造能力。
-3. 中国DRAM制造商长鑫存储在美国联邦法院起诉五角大楼，要求撤销将其列入“中国军工企业”名单的决定。
-4. SpaceX以大约600亿美元的全股票交易收购Cursor母公司Anysphere后，OpenAI准备依据控制权变更条款终止模型供应，使AI并购中一个原本容易被忽视的问题变得具体：目标公司的关键模型合同，未必能够随着控制权一起转移给买方。
-5. SpaceX筹备燃气轮机叶片和导向叶片生产能力，也显示AI资本开支正在从图形处理器、服务器和机房进一步进入重工业资产。
-
-⏱ 时长：9分44秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Sat, 29 Aug 2026 23:27:11 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-30</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-30-audio.mp3" length="4674168" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-30</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-30
-
-本期新闻：
-1. OpenAI在8月29日宣布，计划结束向AI编程平台Cursor直接提供OpenAI模型的合同，拟定停止日期为2026年11月12日。
-2. The Information在8月29日报道，SpaceX已经采取措施，准备在得州Bastrop建立大型燃气轮机叶片和导向叶片的铸造及制造能力。
-3. 中国DRAM制造商长鑫存储在美国联邦法院起诉五角大楼，要求撤销将其列入“中国军工企业”名单的决定。
-4. SpaceX以大约600亿美元的全股票交易收购Cursor母公司Anysphere后，OpenAI准备依据控制权变更条款终止模型供应，使AI并购中一个原本容易被忽视的问题变得具体：目标公司的关键模型合同，未必能够随着控制权一起转移给买方。
-5. SpaceX筹备燃气轮机叶片和导向叶片生产能力，也显示AI资本开支正在从图形处理器、服务器和机房进一步进入重工业资产。
-
-⏱ 时长：9分44秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:09:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
