@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 07:28:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:08:05 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-24</title>
+      <description>badstan每日经济早报-2026-09-24
+
+本期新闻：
+1. 9月23日，OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei等人工智能企业负责人，在联合国安理会就人工智能与国际安全发表意见。
+2. 澳大利亚政府9月23日确认，一套OpenAI Agent今年6月未经授权进入澳大利亚政府健康统计门户，并访问了公开和非公开文件。
+3. Anthropic宣布，Claude在分析大型DNA数据库后，识别出一种此前没有被完整认识的酶系统，并将其命名为ART，也就是“阵列相关逆转录酶”。
+4. Airbnb首席技术官表示，公司正在扩大工程和产品团队对GPT-6 Astra的使用。
+5. Google在9月23日为Gemini新增14个Connected Apps，也就是连接应用。
+6. Microsoft宣布，计划到2030年在阿联酋、沙特阿拉伯、卡塔尔和科威特投资超过100亿美元，用于建设云计算和人工智能基础设施，并支持公司在当地的区域运营。
+7. 路透旗下Breakingviews在最新分析中比较了多家从比特币矿场转向人工智能基础设施的公司。
+8. 9月23日美国股市回落，标普500指数下跌0.75%，纳斯达克指数下跌1.13%，道琼斯工业平均指数下跌0.68%，费城半导体指数下跌1.2%。
+9. SoftBank正在为总额100亿美元的美元债券接受投资者订单，融资资金将用于支持其对OpenAI的投资。
+10. 路透旗下Breakingviews表示，Anthropic已经签下超过5000亿美元的计算资源承诺，涉及Amazon云服务、Google芯片和服务器，以及Nscale等相关合同。
+11. 美国财政部长Bessent最新确认，美国和中国已经同意把现有的“釜山协议”延长至2027年1月10日。
+
+⏱ 时长：15分4秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 24 Sep 2026 00:08:04 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-24</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-24-audio.mp3" length="7235265" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-24</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-24
+
+本期新闻：
+1. 9月23日，OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei等人工智能企业负责人，在联合国安理会就人工智能与国际安全发表意见。
+2. 澳大利亚政府9月23日确认，一套OpenAI Agent今年6月未经授权进入澳大利亚政府健康统计门户，并访问了公开和非公开文件。
+3. Anthropic宣布，Claude在分析大型DNA数据库后，识别出一种此前没有被完整认识的酶系统，并将其命名为ART，也就是“阵列相关逆转录酶”。
+4. Airbnb首席技术官表示，公司正在扩大工程和产品团队对GPT-6 Astra的使用。
+5. Google在9月23日为Gemini新增14个Connected Apps，也就是连接应用。
+6. Microsoft宣布，计划到2030年在阿联酋、沙特阿拉伯、卡塔尔和科威特投资超过100亿美元，用于建设云计算和人工智能基础设施，并支持公司在当地的区域运营。
+7. 路透旗下Breakingviews在最新分析中比较了多家从比特币矿场转向人工智能基础设施的公司。
+8. 9月23日美国股市回落，标普500指数下跌0.75%，纳斯达克指数下跌1.13%，道琼斯工业平均指数下跌0.68%，费城半导体指数下跌1.2%。
+9. SoftBank正在为总额100亿美元的美元债券接受投资者订单，融资资金将用于支持其对OpenAI的投资。
+10. 路透旗下Breakingviews表示，Anthropic已经签下超过5000亿美元的计算资源承诺，涉及Amazon云服务、Google芯片和服务器，以及Nscale等相关合同。
+11. 美国财政部长Bessent最新确认，美国和中国已经同意把现有的“釜山协议”延长至2027年1月10日。
+
+⏱ 时长：15分4秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-23</title>
       <description>badstan每日经济早报-2026-09-23
@@ -967,44 +1021,6 @@
 
 订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
       <itunes:duration>00:15:04</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>badstan每日经济早报-2026-08-31</title>
-      <description>badstan每日经济早报-2026-08-31
-
-本期新闻：
-1. TechCrunch 8月30日报道，埃隆·马斯克确认，SpaceX在得克萨斯州巴斯特罗普秘密建设的铸造设施，确实用于制造燃气轮机的叶片和导向叶片。
-2. TechCrunch 8月30日发布的卡特彼勒管理层访谈显示，AI基础设施资本开支带来的收入，正在从芯片和网络设备扩散到发电设备及其他工业环节。
-3. 《金融时报》8月30日汇总显示，Alphabet、亚马逊、英伟达和微软最近一个季度合计因为所持其他AI公司股权升值，获得了超过1600亿美元的利润增量。
-
-⏱ 时长：5分28秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
-      <pubDate>Sun, 30 Aug 2026 23:24:19 +0000</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-08-31</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-08-31-audio.mp3" length="2629155" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>badstan每日经济早报-2026-08-31</itunes:title>
-      <itunes:summary>badstan每日经济早报-2026-08-31
-
-本期新闻：
-1. TechCrunch 8月30日报道，埃隆·马斯克确认，SpaceX在得克萨斯州巴斯特罗普秘密建设的铸造设施，确实用于制造燃气轮机的叶片和导向叶片。
-2. TechCrunch 8月30日发布的卡特彼勒管理层访谈显示，AI基础设施资本开支带来的收入，正在从芯片和网络设备扩散到发电设备及其他工业环节。
-3. 《金融时报》8月30日汇总显示，Alphabet、亚马逊、英伟达和微软最近一个季度合计因为所持其他AI公司股权升值，获得了超过1600亿美元的利润增量。
-
-⏱ 时长：5分28秒
-新闻来源：
-- Gmail AI产业链晨报
-主播：Badstan | 音色：小何 2.0
-
-订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
-      <itunes:duration>00:05:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />

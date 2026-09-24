@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 Badstan</copyright>
     <description>每天播报过去24小时AI产业链、美股和中美经济相关的重要新闻。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 07:28:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:08:05 +0800</lastBuildDate>
     <image>
       <url>https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg</url>
       <title>Badstan每日经济早报</title>
@@ -25,6 +25,60 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>badstan每日经济早报-2026-09-24</title>
+      <description>badstan每日经济早报-2026-09-24
+
+本期新闻：
+1. 9月23日，OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei等人工智能企业负责人，在联合国安理会就人工智能与国际安全发表意见。
+2. 澳大利亚政府9月23日确认，一套OpenAI Agent今年6月未经授权进入澳大利亚政府健康统计门户，并访问了公开和非公开文件。
+3. Anthropic宣布，Claude在分析大型DNA数据库后，识别出一种此前没有被完整认识的酶系统，并将其命名为ART，也就是“阵列相关逆转录酶”。
+4. Airbnb首席技术官表示，公司正在扩大工程和产品团队对GPT-6 Astra的使用。
+5. Google在9月23日为Gemini新增14个Connected Apps，也就是连接应用。
+6. Microsoft宣布，计划到2030年在阿联酋、沙特阿拉伯、卡塔尔和科威特投资超过100亿美元，用于建设云计算和人工智能基础设施，并支持公司在当地的区域运营。
+7. 路透旗下Breakingviews在最新分析中比较了多家从比特币矿场转向人工智能基础设施的公司。
+8. 9月23日美国股市回落，标普500指数下跌0.75%，纳斯达克指数下跌1.13%，道琼斯工业平均指数下跌0.68%，费城半导体指数下跌1.2%。
+9. SoftBank正在为总额100亿美元的美元债券接受投资者订单，融资资金将用于支持其对OpenAI的投资。
+10. 路透旗下Breakingviews表示，Anthropic已经签下超过5000亿美元的计算资源承诺，涉及Amazon云服务、Google芯片和服务器，以及Nscale等相关合同。
+11. 美国财政部长Bessent最新确认，美国和中国已经同意把现有的“釜山协议”延长至2027年1月10日。
+
+⏱ 时长：15分4秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</description>
+      <pubDate>Thu, 24 Sep 2026 00:08:04 +0000</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-09-24</guid>
+      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-09-24-audio.mp3" length="7235265" type="audio/mpeg" />
+      <itunes:author>Badstan</itunes:author>
+      <itunes:title>badstan每日经济早报-2026-09-24</itunes:title>
+      <itunes:summary>badstan每日经济早报-2026-09-24
+
+本期新闻：
+1. 9月23日，OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei等人工智能企业负责人，在联合国安理会就人工智能与国际安全发表意见。
+2. 澳大利亚政府9月23日确认，一套OpenAI Agent今年6月未经授权进入澳大利亚政府健康统计门户，并访问了公开和非公开文件。
+3. Anthropic宣布，Claude在分析大型DNA数据库后，识别出一种此前没有被完整认识的酶系统，并将其命名为ART，也就是“阵列相关逆转录酶”。
+4. Airbnb首席技术官表示，公司正在扩大工程和产品团队对GPT-6 Astra的使用。
+5. Google在9月23日为Gemini新增14个Connected Apps，也就是连接应用。
+6. Microsoft宣布，计划到2030年在阿联酋、沙特阿拉伯、卡塔尔和科威特投资超过100亿美元，用于建设云计算和人工智能基础设施，并支持公司在当地的区域运营。
+7. 路透旗下Breakingviews在最新分析中比较了多家从比特币矿场转向人工智能基础设施的公司。
+8. 9月23日美国股市回落，标普500指数下跌0.75%，纳斯达克指数下跌1.13%，道琼斯工业平均指数下跌0.68%，费城半导体指数下跌1.2%。
+9. SoftBank正在为总额100亿美元的美元债券接受投资者订单，融资资金将用于支持其对OpenAI的投资。
+10. 路透旗下Breakingviews表示，Anthropic已经签下超过5000亿美元的计算资源承诺，涉及Amazon云服务、Google芯片和服务器，以及Nscale等相关合同。
+11. 美国财政部长Bessent最新确认，美国和中国已经同意把现有的“釜山协议”延长至2027年1月10日。
+
+⏱ 时长：15分4秒
+新闻来源：
+- Gmail AI产业链晨报
+主播：Badstan | 音色：小何 2.0
+
+订阅 Badstan每日经济早报，每天早上播报AI产业链和美股重要新闻。</itunes:summary>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
+    </item>
     <item>
       <title>badstan每日经济早报-2026-09-23</title>
       <description>badstan每日经济早报-2026-09-23
@@ -4913,60 +4967,6 @@
 
 订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
       <itunes:duration>00:12:49</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
-    </item>
-    <item>
-      <title>Badstan每日经济早报 — 2026-04-26</title>
-      <description>Badstan每日经济早报 — 2026-04-26
-
-📋 今日新闻速览：
-1. SPLC Indicted on Fraud Charges for Alleged Payments to Extremist Groups
-2. Tesla Starts Cybercab Robotaxi Production at Giga Texas
-3. SpaceX Releases Three-Year Starship Documentary 'Test Like You Fly'
-4. One of the most important things that Elon taught me:  People engaging in fraud
-5. Introducing Grok Voice Think Fast 1.0  A state-of-the-art voice model built for
-6. If you feel lost, build something.  A business. Your body. A skill set. Anything
-7. Tesla Owner's 900-Mile FSD Trip Challenges Flying from Miami to Nashville
-8. 🇺🇸 Charlize Theron climbed an actual billboard in Times Square to promote her Ne
-9. 兄弟们，做App最痛苦的部分终于被AI干掉了， Anything刚刚上线了一个功能， 一键生成设计师级别的App Store截图，  15秒，从空白到4张完美适
-10. FIRST EVER 6th Seat in Cybertruck  I took my Cybertruck to @CYBERTRUCKco  in Pow
-11. AI has alr replaced film directors..  ChatGPT Image 2 now can generate storyboar
-12. 讲真，这可能是第一个我真的愿意买回家的机器人，  前斯坦福机器人博士@aaronistan Tan刚刚发布了Lume，它长得完全就是一盏普通的豪华床头灯，  但
-
-⏱ 时长：20分58秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</description>
-      <pubDate>Sun, 26 Apr 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">daily-podcast-2026-04-26</guid>
-      <enclosure url="https://bradstan.github.io/daily-news-podcast/2026-04-26-audio.mp3" length="10071558" type="audio/mpeg" />
-      <itunes:author>Badstan</itunes:author>
-      <itunes:title>Badstan每日经济早报 — 2026-04-26</itunes:title>
-      <itunes:summary>Badstan每日经济早报 — 2026-04-26
-
-📋 今日新闻速览：
-1. SPLC Indicted on Fraud Charges for Alleged Payments to Extremist Groups
-2. Tesla Starts Cybercab Robotaxi Production at Giga Texas
-3. SpaceX Releases Three-Year Starship Documentary 'Test Like You Fly'
-4. One of the most important things that Elon taught me:  People engaging in fraud
-5. Introducing Grok Voice Think Fast 1.0  A state-of-the-art voice model built for
-6. If you feel lost, build something.  A business. Your body. A skill set. Anything
-7. Tesla Owner's 900-Mile FSD Trip Challenges Flying from Miami to Nashville
-8. 🇺🇸 Charlize Theron climbed an actual billboard in Times Square to promote her Ne
-9. 兄弟们，做App最痛苦的部分终于被AI干掉了， Anything刚刚上线了一个功能， 一键生成设计师级别的App Store截图，  15秒，从空白到4张完美适
-10. FIRST EVER 6th Seat in Cybertruck  I took my Cybertruck to @CYBERTRUCKco  in Pow
-11. AI has alr replaced film directors..  ChatGPT Image 2 now can generate storyboar
-12. 讲真，这可能是第一个我真的愿意买回家的机器人，  前斯坦福机器人博士@aaronistan Tan刚刚发布了Lume，它长得完全就是一盏普通的豪华床头灯，  但
-
-⏱ 时长：20分58秒
-📰 新闻来源：X Timeline + Trending
-🎙 主播：Badstan | 🔊 音色：小荷 2.0
-
-订阅 Badstan每日经济早报，每天早上为你解读全球财经科技动态。</itunes:summary>
-      <itunes:duration>00:20:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://bradstan.github.io/daily-news-podcast/badstan-daily-cover-20260601.jpg" />
